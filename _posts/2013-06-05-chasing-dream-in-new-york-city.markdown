@@ -3,7 +3,7 @@ layout: post
 title: "Chasing Dream in New York City"
 date: 2013-06-05 19:49
 comments: false
-categories: 
+categories: code
 tagline: ""
 tags : []
 ---
