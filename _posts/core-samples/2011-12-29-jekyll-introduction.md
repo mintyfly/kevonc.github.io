@@ -1,7 +1,7 @@
 ---
 layout: post
 category : lessons
-tagline: "Supporting tagline"
+tagline: "LOLLALALALALdadasdsad"
 tags : [intro, beginner, jekyll, tutorial]
 ---
 {% include JB/setup %}
@@ -173,6 +173,7 @@ If you define more than one category you are defining a category hierarchy "set"
 Example:
 
     ---
+    whatfff
     title :  Hello World
     categories : [lessons, beginner]
     ---
