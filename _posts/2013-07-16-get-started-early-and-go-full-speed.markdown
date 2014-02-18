@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Get Started Early and Go Full Speed"
+date: 2013-07-16 08:57
+comments: true
+categories:
+---
+Week 5. First project started. Before coming into WDI, I've had an idea that could solve my own problem - an app that allows users to mark down their favorite attractions and restaurants in a city and efficiently pin all the places on the map, so that they can share with friends who ask for recommendations, and friends can schedule to visit places in the same area. I thought it was a great idea using Foursquare API, until I found out Foursquare actually possesses this functionality that I had to come up with a new idea. I wanted to build an app that was slightly different than what we've been building in class. The app should not just be a CMS system getting input from users (because for this kind of project, who are the users really?), and the app should not just display information extracted from an API. After giving some thoughts, I decided to build a game in which users can explore new music while having a little fun. I call it - The Finale.
+
+Browsing around the Soundcloud API, I noticed a couple expectations not being met. The major downside was Soundcloud took away the function where developers can extract the hottest songs from the site, thus only the latest songs created by individuals can be used. That being said, a game to guess the artist of the song would not be possible becaues all the songs are by unknown people. Also, I have to use jQuery to perform some functionalities for a game like this. We haven't learned any jQuery in class, but through my own study on Codeschool and other textbooks, I had a pretty good understanding of how it is structured. Programming languages are fairly similar, so once you get the grisp, you can handle any language with a bit of practicing.
+
+Okay, enough of what I'm currently working on. The point I want to stress for any future students of coding school is to start early, and to go hard on pre-work. Don't expect that a 12-week course will equip you to be the best programmers, you have to give a ton of time and effort to achieve that. There are a ton of well-organized resources online to get you very familiar with the languages  and frameworks, so utilitze these free resources to get yourself a jump start in the immersive course. That way you don't fall behind and accumulate your problems. In your first project, you will begin to use jQuery, Bootstrap, some gems like Devise and OmniAuth etc.
+
+Another deadly important advice I want to give is please appreciate trial and error. I've always like Math more than English or Literature because there is a definite answer to every question, and it is only the matter of how many times you try before you find success. Programming is the same, the more you play around with your code, the better you get, the more experience you acquire. If you're stuck and can't figure out the next move, play with it, StackOverflow it, Google it, and finally grab a mentor to ask. Don't rely heavily on your instructors for help because then you will never be able to find the answer yourself!
+
+I will soon to get back to writing some technical post, please stay tuned!
+
