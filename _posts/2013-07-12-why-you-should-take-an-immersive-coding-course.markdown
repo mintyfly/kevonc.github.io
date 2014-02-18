@@ -5,6 +5,7 @@ date: 2013-07-12 07:39
 comments: true
 categories:
 ---
+
 Today is Week 4 Day 5, and I cannot believe one third of the course has gone by so quickly. I've gathered a list of technical topics I want to share, but I can't seem to find the time to write about them because I'm constantly working on my applications. Today I am going to talk about the difference between learning coding at home using online resources versus taking an immersive course with instructors and other students. I feel that a lot of people also have this concern in mind, "Hey, the course is so expensive, is it worth it?"
 
 I self taught myself how to code a few months before I enroll into WDI at GA, so I took countless codeschool or codeacademy exercises, read about ten books about different topics such as Ruby, Rails, jQuery etc, did a few tutorials, and built a few simple app with Rails. I did not know how much I taught myself until I'm writing this blog post right now. Nevertheless, I still decided to join an immersive course in New York because they provide experience you'll never get on your own. I constantly ask myself, "Is this the right decision?", and to be honest, I was asking myself the same question in Week 1 because I have seen or tried writing so much code in the past few months that learning from the basics seem like learning algebra 2 again.

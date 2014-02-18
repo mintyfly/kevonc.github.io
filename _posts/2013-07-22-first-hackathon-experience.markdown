@@ -5,6 +5,7 @@ date: 2013-07-22 19:14
 comments: true
 categories:
 ---
+
 For the past 2 days, I've experienced my first ever Hackathon through a hardcore 30 hours coding session. The Hackathon, <a href="http://battlehack.org/new-york/" target="_blank">Battle Hack New York</a>, was hosted by Paypal and the winner will compete in the World Finals in San Jose. For me and three other WDI coursemates, our mission was not to win any prizes; our goal was to participate, learn, and have fun. It was quite an experience for a junior developer, thereby I would like to share bits of it with everyone.
 
 To kick it off on Saturday morning 9AM, everyone, which means developers, designers, and entrepreneurs, arrive and has a chance to pitch his or her idea by recording a short video. Based on the videos, the rest of the crowd would be able to form teams and started hacking right away. The WDI crew decided to work together because we wanted to build a product together through this first experience, and our idea was a parking spot sharing web app that allows anyone to price tag his parking spot for other users. We splitted up the work, Teddy was in charge of hooking up the Google Map API, Wesley was the front-end designer, whereas Zach and I engaged ourselves in applying the Paypal, Twilio, and Sendgrid APIs.

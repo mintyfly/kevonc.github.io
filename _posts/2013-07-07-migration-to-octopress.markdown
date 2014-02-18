@@ -5,6 +5,7 @@ date: 2013-07-07 08:47
 comments: true
 categories:
 ---
+
 When I first thought of blogging about my tech adventure and sharing some code, I considered Wordpress and Tumblr because of their powerful system and following function respectively. I went with Tumblr because it was a bit more simple to use, until I started putting code in my blog post and everything got messy.
 
 As I go on my tech journey, I found out about Octopress which is a blogging framework for hackers. It does take some technical skills to install and get it running, but it is the perfect blogging system to share code. Therefore, it's time to transfer my blog posts from Tumblr to Octopress. A few reasons why as a hacker, you should also use Octopress.

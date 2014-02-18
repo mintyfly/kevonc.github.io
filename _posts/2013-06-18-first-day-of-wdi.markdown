@@ -7,6 +7,7 @@ categories:
 tagline: ""
 tags : []
 ---
+
 Before I passed out to bed at 10PM due to jetlag, yesterday was the first day of Web Development Immersive in a three-month period! The room was filled with excited students who were also a little bit anxious about what everyone was going to learn. Our first day was quite fulfilling, from talking about class cultures and logistics, to learning more about version control, to visiting projects created by the May batch, it was a good first day.
 
 I've been developing simple rails app before this course, mostly building cms and using gems for difficult functions like authentication, files upload, voting system etc. All seem easy when someone else has done all the difficult parts for you, so when I checked out other students' project, I tended to pay more attention on how they built certain functions, like the authentication. One of the teams told me they had to create it from scratch and were not allowed to use 'devise', sweet, I thought, this is what I'm here for.
