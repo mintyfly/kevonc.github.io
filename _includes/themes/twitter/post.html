@@ -1,5 +1,5 @@
 <div class="page-header">
-  <h4 class="title">{{ page.title }}<h4>
+  <h4 class="title">{{ page.title }}</h4>
   <span class="date">{{ page.date | date: "%B %-d, %Y" }}</span>
 </div>
 
@@ -19,7 +19,7 @@
           {% assign categories_list = page.categories %}
           {% include JB/categories_list %}
         </ul>
-      {% endunless %}  
+      {% endunless %}
 
       {% unless page.tags == empty %}
         <ul class="tag-box inline">

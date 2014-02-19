@@ -28,17 +28,26 @@ body {
   font-size: 16px;
 }
 
+.main-logo {
+  width: 150px;
+  height: auto;
+}
+
 // custom container
 .container-narrow {
   margin: 0 auto;
-  max-width: 800px; 
+  max-width: 800px;
   hr {
-    margin: 10px 0; 
+    margin: 10px 0;
   }
 }
 
+.content {
+  padding-top: 20px;
+}
+
 // posts index
-ul.posts { 
+ul.posts {
   list-style: none;
   margin-left: -40px;
   li.post {
@@ -92,6 +101,8 @@ ul.posts {
 
 // post-page
 .page-header {
+  margin: 0;
+  padding-top: 20px;
   .date {
     margin-bottom: 10px;
   }
@@ -109,16 +120,16 @@ ul.posts {
   .tag-box {
     list-style: none;
     margin-left: -40px;
-    overflow: hidden; 
+    overflow: hidden;
     li {
-      line-height: 28px; 
+      line-height: 28px;
       i {
-        opacity: 0.9; 
+        opacity: 0.9;
       }
     }
     &.inline {
       li {
-        float: left; 
+        float: left;
       }
     }
     a {
@@ -128,21 +139,21 @@ ul.posts {
       color: #555;
       border-radius: 3px;
       text-decoration: none;
-      border: 1px dashed #cccccc; 
+      border: 1px dashed #cccccc;
       span {
         vertical-align: super;
-        font-size: 0.8em; 
+        font-size: 0.8em;
       }
       &:hover {
-        background-color: #e5e5e5; 
+        background-color: #e5e5e5;
       }
       &.active {
         background: #57A957;
         border: 1px solid #4c964d;
-        color: #FFF; 
+        color: #FFF;
       }
     }
-  }  
+  }
 }
 
 // pagination
