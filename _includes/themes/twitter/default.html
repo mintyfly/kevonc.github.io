@@ -33,10 +33,14 @@
   </head>
 
   <body>
-    {% include navbar.html %}
     <div class="container-narrow">
-      <div class="content">
-        {{ content }}
+      <div class="row">
+        <div class="col-xs-12 col-sm-3">
+          {% include navbar.html %}
+        </div>
+        <div class="col-xs-12 col-sm-9">
+          {{ content }}
+        </div>
       </div>
       <hr>
       {% include footer.html %}

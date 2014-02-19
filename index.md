@@ -1,7 +1,5 @@
 ---
 layout: page
-title: kevon's blog
-tagline: a record
 ---
 {% include JB/setup %}
 
@@ -14,3 +12,5 @@ tagline: a record
     </li>
   {% endfor %}
 </ul>
+
+<div class="more"><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">See More</a></div>
