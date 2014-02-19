@@ -2,10 +2,9 @@
 layout: post
 title: "Chasing Dream in New York City"
 date: 2013-06-05 19:49
-comments: false
-categories: code
+categories:
 tagline: ""
-tags : []
+tags: []
 ---
 
 Next week will be a new start for my career as I will be traveling to New York City for an intensive 12-week web development program with General Assembly (GA). For me, the program is a lesson, an adventure, and also a step towards my dream. As you've probably read in my past posts, I've always wanted to be a web developer, building slick, functional, and fun applications for people to play with. I wanted to build sites like Airbnb, Buzzfeed, Says, and RoomReveal, and more importantly, fun projects like 8tracks and Represent.sg. Nothing gives me more pleasure than creating something from scratch and seeing it evolves into a beautifully designed and functional application.
