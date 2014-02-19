@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What does Startup mean to the last generation?"
+title: "他們不明白的，那不用多解釋"
 date: 2013-02-13 14:00
 category:
 tagline: ""
