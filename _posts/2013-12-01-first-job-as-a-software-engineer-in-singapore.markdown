@@ -2,8 +2,9 @@
 layout: post
 title: "First Job as a Software Engineer in Singapore"
 date: 2013-12-01 15:59
-comments: true
 categories:
+tagline: ""
+tags: []
 ---
 
 So it was almost two months since my last blog post, and it wasn't because I was not keeping up with my tech learnings. It was more because I was busy looking for a company I see fit and going through the interview process. Now that I've settled down in Singapore, I can review my process of landing a job with you all.

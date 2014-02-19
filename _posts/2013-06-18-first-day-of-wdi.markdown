@@ -2,10 +2,9 @@
 layout: post
 title: "First day of WDI"
 date: 2013-06-18 19:54
-comments: true
-categories: 
+categories:
 tagline: ""
-tags : []
+tags: []
 ---
 
 Before I passed out to bed at 10PM due to jetlag, yesterday was the first day of Web Development Immersive in a three-month period! The room was filled with excited students who were also a little bit anxious about what everyone was going to learn. Our first day was quite fulfilling, from talking about class cultures and logistics, to learning more about version control, to visiting projects created by the May batch, it was a good first day.

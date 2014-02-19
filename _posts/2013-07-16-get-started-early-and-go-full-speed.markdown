@@ -2,8 +2,9 @@
 layout: post
 title: "Get Started Early and Go Full Speed"
 date: 2013-07-16 08:57
-comments: true
 categories:
+tagline: ""
+tags: []
 ---
 
 Week 5. First project started. Before coming into WDI, I've had an idea that could solve my own problem - an app that allows users to mark down their favorite attractions and restaurants in a city and efficiently pin all the places on the map, so that they can share with friends who ask for recommendations, and friends can schedule to visit places in the same area. I thought it was a great idea using Foursquare API, until I found out Foursquare actually possesses this functionality that I had to come up with a new idea. I wanted to build an app that was slightly different than what we've been building in class. The app should not just be a CMS system getting input from users (because for this kind of project, who are the users really?), and the app should not just display information extracted from an API. After giving some thoughts, I decided to build a game in which users can explore new music while having a little fun. I call it - The Finale.

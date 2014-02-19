@@ -2,8 +2,9 @@
 layout: post
 title: "No CRUD App"
 date: 2013-07-24 23:27
-comments: true
 categories:
+tagline: ""
+tags: []
 ---
 
 Finally, I heard someone saying this, "Don't build a CRUD app!" It was David, the guy who is leading GA engineering team, who said that. I cannot agree more to this statement when it comes to deciding what project WDI students should build, and that's exactly what I did in my first project. I created <a href="http://thefinale.herokuapp.com/" target="_blank">The Finale</a> which is a music game that players have to choose the genre for the songs. The main reason why I decided to go for a game was because I did not want to build a CRUD app. CRUD app (create, read, update, and destroy) means an application that stores in data and display it back, and 99.999% of CRUD apps are user-generated content with no algorithm in behind. Therefore, it basically means anyone could build it, and there is no programming challenge.

@@ -2,8 +2,9 @@
 layout: post
 title: "The Power of Javascript"
 date: 2013-07-28 10:02
-comments: true
 categories:
+tagline: ""
+tags: []
 ---
 
 Week 6, Javascript week. After this week we are half way through the program, and what bugs me the most is that I still want to learn a ton of things in this short period of time. I want to be good at JS and write elegant scripts in Coffeescript, and I want to get familiar with Ajax to make requests, and ... and.

@@ -2,8 +2,9 @@
 layout: post
 title: "Hack: How to Use Gmail with Custom Domain for Free"
 date: 2013-10-13 11:46
-comments: true
 categories:
+tagline: ""
+tags: []
 ---
 
 When I checked Google Apps for Business last week, I found out that to set up your custom domain to use Gmail, you would have to pay 5 USD per month per user. It was no longer free! A year ago, I was using it for my startup and I remembered it could host up to 10 users for free. To figure out a way so that I can continue using Gmail for my own domain for free, I set out to hack it. And this is how I do it.

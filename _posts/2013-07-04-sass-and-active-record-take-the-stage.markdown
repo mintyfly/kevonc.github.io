@@ -2,8 +2,9 @@
 layout: post
 title: "Sass and Active Record Take The Stage"
 date: 2013-07-04 19:58
-comments: true
 categories:
+tagline: ""
+tags: []
 ---
 
 Happy July 4th! To do web development, sometimes it's nice to get away from the computer and relax mind and body from coding for awhile. However, today I feel that I don't need a break yet and would like to boost my learning, so I dive into Sass for the afternoon. The reason I pick Sass is because Sass is built into Rails, so that it is easier to implement than LESS. If you haven't heard of Sass, it stands for Syntactically Awesome Stylesheets, which is an extension to CSS3 to make building stylesheets simple, fast, and fun.

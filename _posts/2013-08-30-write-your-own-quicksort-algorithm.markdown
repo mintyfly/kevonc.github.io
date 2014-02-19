@@ -2,8 +2,9 @@
 layout: post
 title: "Write Your Own Quicksort Algorithm"
 date: 2013-08-30 10:43
-comments: true
 categories:
+tagline: ""
+tags: []
 ---
 
 Week 11, we're wrapping up the immersive program and getting ready for final project. This week was mostly Computer Science topics which included sorting algorithm which is very interesting in my point of view. There are <a href="http://en.wikipedia.org/wiki/Sorting_algorithm">a ton of sorting algorithms</a> out there and all of them work, but the key is which one performs the sorting task faster. The popular ones are <a href="http://en.wikipedia.org/wiki/Bubble_sort">Bubblesort</a>, <a href="http://en.wikipedia.org/wiki/Insertion_sort">Insertion Sort</a>, <a href="http://en.wikipedia.org/wiki/Bogosort">Bogosort</a> (the inefficient one), and of course, <a href="http://en.wikipedia.org/wiki/Quicksort">Quicksort</a>. Ruby natively uses Quicksort. Here I want to show a sort function I wrote in JavaScript.
