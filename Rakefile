@@ -29,7 +29,7 @@ module JB
       :theme_packages => "_theme_packages",
       :posts => "_posts"
     }
-    
+
     def self.base
       SOURCE
     end
@@ -41,7 +41,7 @@ module JB
       path.compact!
       File.__send__ :join, path
     end
-  
+
   end #Path
 end #JB
 
@@ -64,7 +64,7 @@ task :post do
   if File.exist?(filename)
     abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
   end
-  
+
   puts "Creating new post: #{filename}"
   open(filename, 'w') do |post|
     post.puts "---"
@@ -90,7 +90,7 @@ task :page do
   if File.exist?(filename)
     abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
   end
-  
+
   mkdir_p File.dirname(filename)
   puts "Creating new page: #{filename}"
   open(filename, 'w') do |post|
