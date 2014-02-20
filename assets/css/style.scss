@@ -266,7 +266,72 @@ ul.posts {
 
 // responsive
 @media screen and (max-width: 767px) {
+  .content {
+    padding: 0 10px;
+  }
   .navi, footer {
     padding: 0 10px;
+  }
+  .navi {
+    img {
+      float: left;
+    }
+    h4, h5 {
+      text-align: left;
+      margin-left: 174px;
+    }
+    h4 {
+      padding-top: 30px;
+    }
+    .nav {
+      li {
+        display: inline-block;
+        a {
+          &:hover {
+            background-color: transparent !important;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 499px) {
+  .navi {
+    img {
+      float: none;;
+      display: block;
+      margin: 0 auto;
+    }
+    h4, h5 {
+      text-align: center;
+      margin-left: 0;
+    }
+    h4 {
+      padding-top: 0;
+    }
+    .nav {
+      text-align: center;
+      li {
+        display: inline-block;
+        a {
+          &:hover {
+            background-color: transparent !important;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 367px) {
+  .navi {
+    .nav {
+      li {
+        a {
+          padding: 10px 5px;
+        }
+      }
+    }
   }
 }
