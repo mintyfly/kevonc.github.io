@@ -223,7 +223,7 @@ ul.posts {
     li {
       padding-bottom: 10px;
       .post-date {
-        width: 50px;
+        width: 10%;
         display: inline-block;
         margin-right: 10px;
         p {
@@ -240,7 +240,7 @@ ul.posts {
         }
       }
       .post-info {
-        width: 400px;
+        width: 85%;
         display: inline-block;
         p {
           font-size: 16px;
@@ -318,6 +318,25 @@ ul.posts {
           &:hover {
             background-color: transparent !important;
           }
+        }
+      }
+    }
+  }
+  .archive {
+    ul.posts {
+      li {
+        .post-date {
+          width: 90%;
+          p {
+            text-align: left;
+            span {
+              display: inline;
+              font-size: 14px;
+            }
+          }
+        }
+        .post-info {
+          width: 90%;
         }
       }
     }
