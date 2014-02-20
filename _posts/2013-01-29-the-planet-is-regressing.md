@@ -2,9 +2,8 @@
 layout: post
 title: "人類進步令地球退步"
 date: 2013-01-29 14:00
-category:
-tagline: ""
-tags: []
+categories: life chinese
+tags: [global, reflection]
 ---
 
 昨天晚上，我到深圳參加了遠房親戚的婚禮，很時尚很漂亮的婚禮。這是一個中港婚禮，一切美好，有動人的影片、說話專業的司儀、一流的樂隊。

@@ -2,9 +2,9 @@
 layout: post
 title: "First Hackathon Experience"
 date: 2013-07-22 19:14
-categories:
-tagline: ""
-tags: []
+categories: webdev
+tagline: "i failed to pull an all-nighter, so i went to sleep for 2 hours"
+tags: [hackathon, coding, reflection]
 ---
 
 For the past 2 days, I've experienced my first ever Hackathon through a hardcore 30 hours coding session. The Hackathon, <a href="http://battlehack.org/new-york/" target="_blank">Battle Hack New York</a>, was hosted by Paypal and the winner will compete in the World Finals in San Jose. For me and three other WDI coursemates, our mission was not to win any prizes; our goal was to participate, learn, and have fun. It was quite an experience for a junior developer, thereby I would like to share bits of it with everyone.

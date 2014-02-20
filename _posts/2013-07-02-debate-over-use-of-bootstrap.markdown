@@ -2,9 +2,9 @@
 layout: post
 title: "Debate over Use of Bootstrap"
 date: 2013-07-02 19:58
-categories:
-tagline: ""
-tags: []
+categories: webdev
+tagline: "don't be best friend with bootstrap"
+tags: [wdi, advice]
 ---
 
 On Day 1 of Week 3, the course started introducing styling with CSS, and it definitely turns all of my programs appealing. With previous experience handling CSS, I jumped into using Bootstrap to style my simple program. Some course mates debate that using external resources is not "your own work", but I have a different perspective towards using external stylesheets.

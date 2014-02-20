@@ -2,7 +2,7 @@
 layout: post
 title: "兩小子破傳統勇創Sponfed網上平台"
 date: 2013-01-19 14:00
-category:
+categories: startups chinese
 tagline: ""
 tags: []
 ---

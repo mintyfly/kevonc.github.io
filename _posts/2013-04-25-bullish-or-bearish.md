@@ -2,9 +2,9 @@
 layout: post
 title: "Bullish or Bearish?"
 date: 2013-04-25 14:00
-category:
-tagline: ""
-tags: []
+categories: investment
+tagline: "don't play a game if you don't know how it works"
+tags: [finance, stock]
 ---
 
 It has been awhile since I last posted, and it was because recently I picked up two web projects to work on. One is an online voting system and another is a lifestyle platform. I had tons of fun coding even though that means a lot of time with my computer. Therefore, to make my day more fulfilling, I have been investing in the stock market along with web development tasks. Well, after all I'm still a Finance major who had been a portfolio manager for my school's endowment fund (smile).

@@ -2,9 +2,9 @@
 layout: post
 title: "Few of My Favorite Gems"
 date: 2013-09-25 15:37
-categories:
-tagline: ""
-tags: []
+categories: webdev
+tagline: "gem is your best friend in ruby development"
+tags: [ruby, gem]
 ---
 
 It has been awhile since I last wrote a blog post. After WDI that ended early Sept, I have been exploring different opportunities and working on a project. It was a project that I was trying to do before taking WDI, and back then it would take me a lot of time to figure out one small function (because I would have no idea where to start). Now, I am able to put together the core functions relatively quick, and use more time fixing details and enhancing the app.

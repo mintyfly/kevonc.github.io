@@ -2,9 +2,8 @@
 layout: post
 title: "Ruby Rocks"
 date: 2013-06-19 19:54
-categories:
-tagline: ""
-tags: []
+categories: webdev
+tags: [wdi, ruby]
 ---
 
 Second day of WDI was all about Ruby, we learned how to use "pry" to perform ruby computation, and we wrote code to build a simple calculator.

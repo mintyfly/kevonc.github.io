@@ -2,9 +2,8 @@
 layout: post
 title: "More Ruby Bits &amp; First Lab"
 date: 2013-06-20 19:55
-categories:
-tagline: ""
-tags: []
+categories: webdev
+tags: [wdi, ruby]
 ---
 
 We continued to explore more ruby basics, introducing function, array, hash, and block. They are pretty simple bits to use when writing a program, yet the difficult part is understand how you can use them efficiently. To do that, one has to learn the list of methods associated, for instance, creating an array is no-hard task, but what can we do with an array? Select, reject, flatten, inject, uniq, shuffle, sample....... so many methods that it will take some time to digest! We haven't done inject in class today, but from my research, it is a more complicated method yet truly rewarding! A simple task it could do is add up the numbers in array by simply injecting (0). I'm also amazed what inject can do, say if we want to convert keys to be strings and change names to be lowercase:

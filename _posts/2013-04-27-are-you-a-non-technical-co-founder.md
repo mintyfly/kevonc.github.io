@@ -2,9 +2,9 @@
 layout: post
 title: "Are you a non technical co founder?"
 date: 2013-04-27 14:00
-category:
-tagline: ""
-tags: []
+categories: startups
+tagline: "everyone is looking for someone to build his or her dream"
+tags: [entrepreneurship, startups, advice]
 ---
 
 My friend Julian from Airbnb recently sent me this article <a href="http://benogle.com/2013/03/25/an-idea-for-non-technical-founders-service-first-business.html" target="_blank">An idea for non-technical co-founders: try a service-first business</a> written by Ben Ogle, it was one of the best articles I've read so far in my startup career.

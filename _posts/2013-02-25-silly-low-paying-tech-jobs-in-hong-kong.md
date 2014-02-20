@@ -2,9 +2,8 @@
 layout: post
 title: "Silly Low Paying Tech Jobs in Hong Kong"
 date: 2013-02-25 14:00
-category:
-tagline: ""
-tags: []
+categories: webdev
+tags: [hong kong, software development, career]
 ---
 
 A few days ago I came across a job search site, and given I have decided to dive into a geeky path, so I clicked into the site to see whether there will be a future for being a tech guy in the Hong Kong industry. Not to my surprise, the first thing I noticed was the extremely low paying monthly salary ranging from HK$8,000 to $12,000 (that is about US$1,000 to $1,500 a month) as a web developer or designer. What struck me hard was that these jobs require specialized skill, at least not everyone could become a person capable of working with HTML, CSS, PHP and SQL in a few months. And so what is the reason that they still get paid so little working six days a week? Why are employers still offering a salary that anyone could barely survive with in Hong Kong?

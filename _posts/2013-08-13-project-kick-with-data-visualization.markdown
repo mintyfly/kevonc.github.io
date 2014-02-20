@@ -2,9 +2,9 @@
 layout: post
 title: "Project Kick with Data Visualization"
 date: 2013-08-13 08:15
-categories:
-tagline: ""
-tags: []
+categories: webdev projects
+tagline: "the world is overwhelmed with data to do more powerful things"
+tags: [kickstarter, data visualization, wdi]
 ---
 
 Ever since I'm exposed to two projects built by WDI alumni Larry Buchanan, I was determined to have a second project based on Data Visualization. What it means is extracting an enormous lot of data from somewhere, analyze them, and display the data in a way that an everyday person could understand. Great, the next step, the most difficult indeed, was to find the data. My partner Alina and I started out looking for datasets everywhere, and it was not an easy task. The data has to be formatted in a not-so-ugly way, and it has to be somewhat interesting. We began our project by researching on how to use <a href="http://datamine.mta.info/" target="_blank">New York MTA API</a>, but the General Transit Feed Specification (GTFS) was a little too much to take on at that moment, so we set out to work on another very exciting idea about <a href="http://www.kickstarter.com/" target="_blank">Kickstarter.com</a>.

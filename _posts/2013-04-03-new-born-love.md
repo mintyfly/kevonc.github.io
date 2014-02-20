@@ -2,9 +2,9 @@
 layout: post
 title: "生兒育女奇妙之處"
 date: 2013-04-03 14:00
-category:
-tagline: ""
-tags: []
+categories: life chinese
+tagline: "a new born baby brings so much to the family"
+tags: [appreciation, family]
 ---
 
 我家增添了一個小寶寶，他是我表弟，四個月大。

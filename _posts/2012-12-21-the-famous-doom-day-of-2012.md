@@ -2,9 +2,8 @@
 layout: post
 title: "世界末日？"
 date: 2012-12-21 14:00
-category:
-tagline: ""
-tags: []
+categories: anecdote chinese
+tags: [global]
 ---
 
 2012年12月21日，這是全世界人一直等一直等的一天。有人期待，有人驚恐．

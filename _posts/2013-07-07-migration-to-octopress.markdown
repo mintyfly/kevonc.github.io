@@ -2,9 +2,8 @@
 layout: post
 title: "Migration to Octopress"
 date: 2013-07-07 08:47
-categories:
-tagline: ""
-tags: []
+categories: webdev blog
+tags: [sharing]
 ---
 
 When I first thought of blogging about my tech adventure and sharing some code, I considered Wordpress and Tumblr because of their powerful system and following function respectively. I went with Tumblr because it was a bit more simple to use, until I started putting code in my blog post and everything got messy.

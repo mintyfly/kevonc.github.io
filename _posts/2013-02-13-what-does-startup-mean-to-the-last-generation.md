@@ -2,9 +2,8 @@
 layout: post
 title: "他們不明白的，那不用多解釋"
 date: 2013-02-13 14:00
-category:
-tagline: ""
-tags: []
+categories: startups chinese
+tags: [career]
 ---
 
 每次當我跟上一代的前輩分享自己的前途時，他們臉上永遠有著一副「搞什麼？」的表情，他們不明白，更沒有興趣去明白，只要你過一陣子回來告訴我你成功了就好。

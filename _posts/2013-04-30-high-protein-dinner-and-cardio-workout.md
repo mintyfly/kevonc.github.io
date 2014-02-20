@@ -2,9 +2,9 @@
 layout: post
 title: "High Protein Dinner and Cardio Workout"
 date: 2013-04-30 14:00
-category:
-tagline: ""
-tags: []
+categories: life
+tagline: "don't wait until it is too late"
+tags: [health, workout, diet]
 ---
 
 I'm a die hard fan of white rice. I'm serious, I consume four bowls of rice everyday, two for lunch and two for dinner. It is kind of ridiculous considering how much carbs and calorie it contains. Yesterday I made a decision to reduce my consumption in rice for dinner and switch to a high protein meal. I never hate dry chicken breast, so it is not as painful for me, and I want to show you guys what I ate last night for dinner:

@@ -2,9 +2,8 @@
 layout: post
 title: "When Front-End Meets Back-End"
 date: 2013-08-01 23:08
-categories:
-tagline: ""
-tags: []
+categories: webdev
+tags: [ajax]
 ---
 
 I was extraordinarily joyful today, mainly because I finally came to experience when front-end development crossovers back-end development. After seven weeks of focusing on each topic from Ruby, to HTML/CSS, to Sinatra, to Database, to Rails, to Javascript, to jQuery, to Ajax... now I can experience the beauty of web development. I know I haven't written a technical post for a long time, so I would like to introduce a work flow I've been working on today.

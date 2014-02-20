@@ -2,9 +2,9 @@
 layout: post
 title: "It is why and how you do it that matters"
 date: 2012-10-21 14:00
-category:
-tagline: ""
-tags: []
+categories: life
+tagline: "life is too short not to try everything"
+tags: [life, advice, reflection]
 ---
 
 Last night, I had an amazing dinner with my family at this restaurant called 四川菜大平伙 SiChuan Da Ping Huo. Why was it so amazing? Simply because the food was spicy and yummy and the price was way beyond reasonable. For $320 (+10% SC) per person, you get to enjoy the authentic sichuan cuisine!

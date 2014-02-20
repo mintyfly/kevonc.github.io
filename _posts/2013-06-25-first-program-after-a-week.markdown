@@ -2,9 +2,8 @@
 layout: post
 title: "First Program after A Week"
 date: 2013-06-25 19:56
-categories:
-tagline: ""
-tags: []
+categories: webdev
+tags: [wdi, ruby]
 ---
 
 It has been awhile since I wrote my last blog post, and this is because I was spending a lot of time building my first legit ruby program, a stock exchange simulator that allows clients to purchase stocks with real-time market price for multiple portfolios. This program really pieces all the ruby concepts together for me, a better use of arrays and hash, a lot of if else statements, and a lot of methods. The most challenging part of the program is how to do Test Driven Development and write codes that are easy to read and maintain, and I certainly can improve my codes by adding in helper method. If you would like to check out my source code, please visit Stock Exchange on my Github.
