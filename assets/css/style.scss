@@ -22,6 +22,12 @@ $colorLightChoco: #b5a19e;
 $colorGrey: #757374;
 //
 
+// bootstrap fix
+.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+//
 
 body {
   font-family: 'Proxima Nova', Helvetica, Arial, sans-serif;
@@ -33,17 +39,21 @@ body {
   height: auto;
 }
 
+footer {
+  padding: 0 20px;
+}
+
 // custom container
 .container-narrow {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 860px;
   hr {
     margin: 10px 0;
   }
 }
 
 .content {
-  padding-top: 20px;
+  padding: 20px 10px 0 10px;
 }
 
 // posts index
@@ -111,6 +121,7 @@ ul.posts {
 .post-full {
   .tagline {
     text-align: center;
+    margin: 24px 0;
   }
 }
 
@@ -174,4 +185,9 @@ ul.posts {
   }
 }
 
-
+// responsive
+@media screen and (max-width: 767px) {
+  .navi, footer {
+    padding: 0 10px;
+  }
+}

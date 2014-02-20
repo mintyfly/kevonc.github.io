@@ -3,44 +3,42 @@
   <span class="date">{{ page.date | date: "%B %-d, %Y" }}</span>
 </div>
 
-<div class="row post-full">
-  <div class="col-xs-12">
-    <div class="content">
-      {% if page.tagline %}
-        <h5 class="tagline">"{{page.tagline}}"</h5>
-      {% endif %}
-      {{ content }}
-    </div>
-
-    <div class="tag-boxes">
-      {% unless page.categories == empty %}
-        <ul class="tag-box inline">
-          <li><span class="glyphicon glyphicon-leaf"></span></li>
-          {% assign categories_list = page.categories %}
-          {% include JB/categories_list %}
-        </ul>
-      {% endunless %}
-
-      {% unless page.tags == empty %}
-        <ul class="tag-box inline">
-          <li><span class="glyphicon glyphicon-tags"></span></li>
-          {% assign tags_list = page.tags %}
-          {% include JB/tags_list %}
-        </ul>
-      {% endunless %}
-    </div>
-
-    <div class="pagination">
-      <ul>
-      {% if page.previous %}
-        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">Previous: {{ page.previous.title }}</a></li>
-      {% endif %}
-      {% if page.next %}
-        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next: {{ page.next.title }}</a></li>
-      {% endif %}
-      </ul>
-    </div>
-
-    {% include JB/comments %}
+<div class="post-full">
+  <div class="post-content">
+    {% if page.tagline %}
+      <h5 class="tagline">"{{page.tagline}}"</h5>
+    {% endif %}
+    {{ content }}
   </div>
+
+  <div class="tag-boxes">
+    {% unless page.categories == empty %}
+      <ul class="tag-box inline">
+        <li><span class="glyphicon glyphicon-leaf"></span></li>
+        {% assign categories_list = page.categories %}
+        {% include JB/categories_list %}
+      </ul>
+    {% endunless %}
+
+    {% unless page.tags == empty %}
+      <ul class="tag-box inline">
+        <li><span class="glyphicon glyphicon-tags"></span></li>
+        {% assign tags_list = page.tags %}
+        {% include JB/tags_list %}
+      </ul>
+    {% endunless %}
+  </div>
+
+  <div class="pagination">
+    <ul>
+    {% if page.previous %}
+      <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">Previous: {{ page.previous.title }}</a></li>
+    {% endif %}
+    {% if page.next %}
+      <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next: {{ page.next.title }}</a></li>
+    {% endif %}
+    </ul>
+  </div>
+
+  {% include JB/comments %}
 </div>
