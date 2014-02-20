@@ -15,7 +15,7 @@
     <div class="tag-boxes">
       {% unless page.categories == empty %}
         <ul class="tag-box inline">
-          <li><i class="icon-folder-open"></i></li>
+          <li><span class="glyphicon glyphicon-leaf"></span></li>
           {% assign categories_list = page.categories %}
           {% include JB/categories_list %}
         </ul>
@@ -23,7 +23,7 @@
 
       {% unless page.tags == empty %}
         <ul class="tag-box inline">
-          <li><i class="icon-tags"></i></li>
+          <li><span class="glyphicon glyphicon-tags"></span></li>
           {% assign tags_list = page.tags %}
           {% include JB/tags_list %}
         </ul>

@@ -117,14 +117,18 @@ ul.posts {
 // tag-box
 .tag-boxes {
   margin: 20px 0;
+  font-size: 0.9em;
   .tag-box {
     list-style: none;
     margin-left: -40px;
     overflow: hidden;
     li {
       line-height: 28px;
-      i {
-        opacity: 0.9;
+      span.glyphicon {
+        font-size: 1.5em;
+        color: $colorDarkChoco;
+        margin-right: 10px;
+        margin-top: 6px;
       }
     }
     &.inline {
@@ -133,9 +137,9 @@ ul.posts {
       }
     }
     a {
-      padding: 3px 6px;
+      padding: 6px 9px;
       margin: 2px;
-      background: #eee;
+      background: lighten($colorLightChoco,30);
       color: #555;
       border-radius: 3px;
       text-decoration: none;
@@ -145,7 +149,7 @@ ul.posts {
         font-size: 0.8em;
       }
       &:hover {
-        background-color: #e5e5e5;
+        background-color: lighten($colorLightChoco,22);
       }
       &.active {
         background: #57A957;
@@ -158,6 +162,7 @@ ul.posts {
 
 // pagination
 .pagination {
+  margin: 0;
   ul {
     list-style: none;
     margin-left: -40px;
