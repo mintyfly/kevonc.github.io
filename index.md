@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "kevon's blog | life and code"
 ---
 {% include JB/setup %}
 
