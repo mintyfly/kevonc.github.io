@@ -10,7 +10,7 @@ I was extraordinarily joyful today, mainly because I finally came to experience 
 
 Developers use Ajax to send requests to server and to make changes to the page without any page reload. With Rails, I'm able to send post requests through Ajax and retrieve records from database.
 
-<strong>Step 1: Use jQuery to do Ajax call </strong>
+###Step 1: Use jQuery to do Ajax call
 Define a click function that calls to Ajax and perform a 'put' to update the database. Notice for "task.id", I'm getting back the id from the task object.
 
 {% highlight javascript %}
@@ -24,7 +24,7 @@ Define a click function that calls to Ajax and perform a 'put' to update the dat
   });
 {% endhighlight %}
 
-<strong>Step 2: Define a complete method in controller with Ruby on Rails</strong>
+###Step 2: Define a complete method in controller with Ruby on Rails
 I'm finding a task record based on its id and changing its completed column (boolean) from false to true, then I call a respond_to to provoke the next javascript action.
 
 {% highlight ruby %}
@@ -38,7 +38,7 @@ I'm finding a task record based on its id and changing its completed column (boo
   end
 {% endhighlight %}
 
-<strong>Step 3: Continue the action with jQuery</strong>
+###Step 3: Continue the action with jQuery
 In my views folder, I have complete.js.erb with the following code and remove the appropriate task once respond_to in controller calls. This continues to execute javascript action even after Ajax call.
 
 {% highlight javascript %}

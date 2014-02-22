@@ -9,9 +9,9 @@ tags: [health, workout, diet]
 
 I'm a die hard fan of white rice. I'm serious, I consume four bowls of rice everyday, two for lunch and two for dinner. It is kind of ridiculous considering how much carbs and calorie it contains. Yesterday I made a decision to reduce my consumption in rice for dinner and switch to a high protein meal. I never hate dry chicken breast, so it is not as painful for me, and I want to show you guys what I ate last night for dinner:
 
-1) Two pieces of chicken breast, marinated and roasted in oven for 25 minutes;
-2) Half can of tuna;
-3) Lots of lettuce iceberg to wrap chicken and tuna!
+1. Two pieces of chicken breast, marinated and roasted in oven for 25 minutes;
+2. Half can of tuna;
+3. Lots of lettuce iceberg to wrap chicken and tuna!
 
 Canned tuna is quite hard to take in with the smell and texture it has, but it is still manageable.
 

@@ -131,9 +131,20 @@ ul.posts {
 }
 
 .post-full {
-  .tagline {
-    text-align: center;
-    margin: 24px 0;
+  padding-top: 24px;
+  .post-content {
+    img {
+      &.full {
+        width: 100%;
+      }
+      &.half {
+        width: 50%;
+      }
+    }
+    .tagline {
+      text-align: center;
+      margin-bottom: 24px;
+    }
   }
 }
 

@@ -15,4 +15,3 @@ Okay, enough of what I'm currently working on. The point I want to stress for an
 Another deadly important advice I want to give is please appreciate trial and error. I've always like Math more than English or Literature because there is a definite answer to every question, and it is only the matter of how many times you try before you find success. Programming is the same, the more you play around with your code, the better you get, the more experience you acquire. If you're stuck and can't figure out the next move, play with it, StackOverflow it, Google it, and finally grab a mentor to ask. Don't rely heavily on your instructors for help because then you will never be able to find the answer yourself!
 
 I will soon to get back to writing some technical post, please stay tuned!
-
