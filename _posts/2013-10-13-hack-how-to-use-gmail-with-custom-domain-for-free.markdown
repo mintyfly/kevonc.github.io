@@ -20,14 +20,14 @@ Now, you need to register a new Gmail account to connect with your email from cu
 ###Step 4
 Head back to Hostgator, log in to the control panel. Create new email account kevon@yourcustomdomain.com and set up email forwarder so that kevon@yourcustomdomain.com will forward all of its email to kevonishappy@gmail.com.
 
-<img src="http://i.imgur.com/U6bA7KA.jpg" title="Hosted by imgur.com" class="full">
+<img src="https://s3-ap-southeast-1.amazonaws.com/kevoncheung-blog/20131013-gmail-01.jpg" class="full">
 
 ###Step 5
 Really this is the last step, log into your Gmail account kevonishappy@gmail.com, and do <strong>Settings</strong> -> <strong>Accounts</strong>. Under <strong>Send mail as:</strong>, click <strong>Add another email address you own</strong>. A pop up window should come up and ask for more information, now enter your name (Kevon) and email address (kevon@yourcustomdomain.com). Leave the <strong>Treat as an alias</strong> checked.
 
 Next step you would want to choose <strong>Send through yourcustomdomain.com SMTP servers</strong>. For SMTP Server: enter mail.yourcustomdomain.com. For Username and Password, enter your credentials for your kevon@yourcustomdomain.com. After that, simply go to your webmail, which is yourcustomdomain.com/webmail, and log in to verify the connection.
 
-<img src="http://i.imgur.com/81mxtCk.jpg" title="Hosted by imgur.com" class="full">
+<img src="https://s3-ap-southeast-1.amazonaws.com/kevoncheung-blog/20131013-gmail-02.jpg" class="full">
 
 ###Final Words
 Now not only you receive all your emails from kevon@yourcustomdomain.com in your kevonishappy@gmail.com account, you can also send or reply email as kevon@yourcustomdomain.com! How amazing and cost-effective is that for a startup company? I hope this helps out anyone who has this trouble.

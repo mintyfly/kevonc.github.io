@@ -6,7 +6,7 @@ categories: startups chinese
 tags: [entrepreneurship, startups, learning]
 ---
 
-留影於2008年的台北，當時還是兩位小伙子
+<img src="https://s3-ap-southeast-1.amazonaws.com/kevoncheung-blog/20130119-story-of-sponfed.jpg" alt="The Story of Sponfed" class="full" />
 
 <span style="color: #f15a29; font-weight: bold;">香港商報特稿 － 2013年 1月 19日</span>
 
