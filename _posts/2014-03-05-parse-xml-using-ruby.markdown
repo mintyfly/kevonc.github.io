@@ -29,13 +29,17 @@ Turn the url into a readable XML format
 
     xml_data = Net::HTTP.get_response(URI.parse(url)).body
 
+Turn it into a document
+
+    doc = Document.new(xml_data)
+
 Set the root, which is the first layer of tag
 
     root = doc.root
 
 Now when you should be able to list each element out
 
-    root.each_element {|food| puts food }
+    root.each_element {|e| puts e }
 
 To grab a specific one
 
@@ -49,3 +53,16 @@ To get just the name of each breakfast item
 Now you might notice, the responses are wrapped in name tag, how do you get rid of it?
 
     root.each_element {|food| puts food.elements["name"].text }
+
+When the tag has an id, you can retrieve the id name using attributes
+
+    root.attributes['id']
+
+What if you want the whole block of code with that id?
+
+    root.elements["breakfast_menu[@id='this_is_the_id']"]
+
+It gets more fun if you want to get all the tags "food", this is different from just using each_element as that will print out everything
+
+    root.each_element('//food') {|food| puts food}
+
