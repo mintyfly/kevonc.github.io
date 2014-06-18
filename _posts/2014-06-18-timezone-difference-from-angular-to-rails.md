@@ -6,7 +6,7 @@ categories: webdev
 tags: [coding rails angular]
 ---
 
-Lately I have been working on an internal project at Favorite Medium that uses Angular JS for web interface and Rails for API. I set it up this way because I was desperate to learn Angular JS, and I prove my desire right by liking Angular JS a lot.
+Lately I have been working on an internal project at Favorite Medium that uses Angular JS for web interface and Rails for API. I use this stack because I was desperate to learn Angular JS, and I prove my desire right by liking Angular JS a lot. I encountered one issue regarding how Angular and Rails interpret time differently based on timezone and it reverts any date I input in the form by a day. This is how I solve it.
 
 In the app, there are multiple date fields, here let's say Date of Birth. The user inputs his DOB on a form and sends a request to the Rails API to update the record, straight forward enough. The problem I was having was a time difference issue: when a user inputs March 1st, 1990 as his DOB, Angular interprets it as 1990-03-01 00:00 along with your time zone of +08 00. The date reaches Rails and because it is using UTC, it flips the time 8 hours back so that the datetime is now 1990-02-28 16:00, and if your database column is Date, it will save as 1990-02-28, missing one day! It was quite an annoying issue because I do not care about the time zone difference, I simply want to state a correct date.
 
