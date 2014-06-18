@@ -12,34 +12,38 @@ I have played with Sass before, mostly setting variables and nesting. Today I le
 
  In CSS, if you have two classes, say .bagel and .croissant, and they both have the same background-color and border, you usually copy and paste the exact code into both class like this.
 
-	.bagel {
-	background-color: #000;
-	border: 1px solid #fff;
-	}
+{% highlight css %}
+.bagel {
+ background-color: #000;
+ border: 1px solid #fff;
+}
 
-	.croissant {
-	background-color: #000;
-	border: 1px solid #fff;
-	color: red;
-	}
+.croissant {
+ background-color: #000;
+ border: 1px solid #fff;
+ color: red;
+}
+{% endhighlight %}
 
 Now with Sass, you can either use mixin (@include) or just @extend to incorporate the styles.
 
 Using mixin:
 
-	@mixin breakfast {
-	background-color: #000;
-	border: 1px solid #fff;
-	}
+{% highlight scss %}
+@mixin breakfast {
+ background-color: #000;
+ border: 1px solid #fff;
+}
 
-	.bagel {
-	@include breakfast;
-	}
+.bagel {
+ @include breakfast;
+}
 
-	.croissant {
-	@include breakfast;
-	color: red;
-	}
+.croissant {
+ @include breakfast;
+ color: red;
+}
+{% endhighlight %}
 
 Wonderful.
 

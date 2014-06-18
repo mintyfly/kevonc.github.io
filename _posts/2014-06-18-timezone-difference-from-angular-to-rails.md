@@ -12,14 +12,16 @@ In the app, there are multiple date fields, here let's say Date of Birth. The us
 
 Coming to the conclusion, I decided to modify the datetime on client side to make up for the timezone difference. I wrote a Date service with a function to add the timezone offset.
 
-	addTimezoneDiff: function (object) {
-		var timeDiff = Math.abs(new Date().getTimezoneOffset());
-		angular.forEach(object, function(value, key) {
-			if (value !== null && typeof value.getMonth === 'function') {
-				object[key] = new Date(value * 1 + (1000 * 60 * timeDiff));
-			}
-		});
-		return object;
-	}
+{% highlight javascript %}
+addTimezoneDiff: function (object) {
+  var timeDiff = Math.abs(new Date().getTimezoneOffset());
+    angular.forEach(object, function(value, key) {
+      if (value !== null && typeof value.getMonth === 'function') {
+        object[key] = new Date(value * 1 + (1000 * 60 * timeDiff));
+      }
+    });
+  return object;
+}
+{% endhighlight %}
 
 Basically what it does is instead of passing 1990-03-01 00:00, it passes 1990-03-01 08:00 to Rails and Rails will fix it by flipping it back to 1990-03-01 00:00. To be honest, I do not like this approach and I beleive there is a better way. I am happy to take any advice if any of you stumble upon my post; in the meanwhile, this works for me.

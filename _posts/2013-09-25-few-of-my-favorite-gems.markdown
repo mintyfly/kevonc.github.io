@@ -15,24 +15,28 @@ For the project, I used multiple gems to support the development, which included
 
 Here is one way to do it - Telling the controller to render JSON that includes associated records.
 
-	class BooksController < ApplicationController
-	  def index
-	    @books = Book.order("created_at desc")
-	    respond_to do |format|
-	      format.json do
-	        render :json => @books.to_json(:include => { :author => { :only => :firstname } })
-	      end
-	    end
-	  end
-	end
+{% highlight ruby %}
+class BooksController < ApplicationController
+  def index
+    @books = Book.order("created_at desc")
+    respond_to do |format|
+      format.json do
+        render :json => @books.to_json(:include => { :author => { :only => :firstname } })
+      end
+    end
+  end
+end
+{% endhighlight %}
 
 But, the structure of the JSON is set in this case, which has a lot of layers (book.author.firstname). And I want it to format in a different way. To do that, I need Rabl to come to rescue.
 
-	attributes :name, :price
+{% highlight ruby %}
+attributes :name, :price
 
-	node do |book|
-	  { :author => book.author.firstname }
-	end
+node do |book|
+  { :author => book.author.firstname }
+end
+{% endhighlight %}
 
 This way, you can construct a JSON with three keys (name, price, and author), and calling (book.author) will directly give you the first name of the author. It is quite a hack.
 
