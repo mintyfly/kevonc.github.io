@@ -25,3 +25,13 @@ addTimezoneDiff: function (object) {
 {% endhighlight %}
 
 Basically what it does is instead of passing 1990-03-01 00:00, it passes 1990-03-01 08:00 to Rails and Rails will fix it by flipping it back to 1990-03-01 00:00. To be honest, I do not like this approach and I beleive there is a better way. I am happy to take any advice if any of you stumble upon my post; in the meanwhile, this works for me.
+
+###UPDATES:
+I posted the question on <a href="http://stackoverflow.com/questions/24298997/timezone-offset-in-angular-js-and-rails">StackOverflow</a> and received a better solution from <a href="http://stackoverflow.com/users/634824/matt-johnson">Matt Johnson</a>.
+
+{% highlight javascript %}
+var dt = //  whatever Date object you get from the control
+dt.setHours(dt.getHours() + 12); // adjust to noon
+var pad = function(n) { return (n < 10 ? '0' : '') + n; }
+var dob = dt.getFullYear() + '-' + pad(dt.getMonth()+1) + '-' + pad(dt.getDate());
+{% endhighlight %}
