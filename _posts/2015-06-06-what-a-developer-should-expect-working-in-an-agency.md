@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What a Developer / Programmer / Software Engineer Should Expect Working in an Agency"
-date: 2015-01-08 21:05
+date: 2015-06-06 19:19
 categories: career webdev
 tagline: "expect changes, embrace changes"
 tags: [advice, career, agency, working, coding, development house]
