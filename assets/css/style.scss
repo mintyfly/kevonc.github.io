@@ -275,6 +275,54 @@ ul.posts {
   }
 }
 
+// projects
+#portfolio {
+  margin-top: 20px;
+  ul {
+    list-style-type: none;
+  }
+}
+
+.workItem {
+  margin-bottom: 40px;
+  aside {
+    padding-right: 50px;
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    h2 {
+      color: #333333;
+    }
+    h3 {
+      font-size: 0.9em;
+      margin: 0 0 10px 0;
+      a:hover {
+        text-decoration: underline;
+      }
+    }
+    p {
+      margin-top: 0;
+      font-size: 0.9em;
+      color: #333333;
+    }
+  }
+  .tags {
+    li {
+      font-size: 0.9em;
+    }
+  }
+  section {
+    padding-right: 50px;
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    img {
+      width: 200px;
+      height: auto;
+    }
+  }
+}
+
 // responsive
 @media screen and (max-width: 767px) {
   .content {

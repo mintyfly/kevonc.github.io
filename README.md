@@ -6,6 +6,9 @@ sharing about life and tech
 	gem install jekyll
 	gem install jekyll-sass
 
+# run server locally localhost:4000
+	jekyll serve
+
 # create a post
 	rake post title="Hello World"
 
