@@ -3,8 +3,16 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }} | kevon's blog | life and code</title>
-    {% if page.description %}<meta name="description" content="{{ page.description }} | Kevon Cheung is a Web Developer specializing in Ruby on Rails and JavaScript. As a Startup Enthusiast, he lives and breathes by the idea of exploring and creating values.">{% endif %}
+    {% if page.description %}<meta name="description" content="{{ page.description }} | Kevon Cheung is a Web Developer and Startup Enthusiast, specializing in Ruby on Rails and JavaScript. He lives and breathes by the idea of exploring and creating values.">{% endif %}
     <meta name="author" content="{{ site.author.name }}">
+
+    <!-- Open Graph data -->
+    <meta property="og:site_name" content="kevon's blog | life and code" />
+    <meta property="og:title" content="kevon's blog | life and code" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://www.kevoncheung.com/" />
+    <meta property="og:image" content="http://kevoncheung.com/assets/images/logo.png" />
+    <meta property="og:description" content="Kevon Cheung is a Web Developer and Startup Enthusiast, specializing in Ruby on Rails and JavaScript. He lives and breathes by the idea of exploring and creating values." />
 
     <!-- Enable responsive viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
