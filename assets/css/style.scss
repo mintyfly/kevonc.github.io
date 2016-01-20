@@ -140,6 +140,9 @@ ul.posts {
       &.half {
         width: 50%;
       }
+      &.small {
+        max-width: 200px;
+      }
     }
     .tagline {
       text-align: center;
