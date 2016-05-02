@@ -7,7 +7,7 @@ tagline: "I am the master of my faith, I am the captain of my soul"
 tags: [lessons, advice]
 ---
 
-There are so many life mottos out there from all these famous people; for me, I believe everyone has his/her own set of life mottos and it is worth taking note of so we can remind ourselves from time to time.
+There are so many life mottos out there from all these famous people; for me, I believe everyone should have a personal set of life mottos and it is worth writing them down so we can remind ourselves from time to time.
 
 From reflecting my early career, these are the 7 ones that shape me into who I am.
 
