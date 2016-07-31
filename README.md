@@ -1,6 +1,6 @@
 # kevon's blog
 
-sharing about life and tech
+sharing about life, startup, and code
 
 # setup
 	gem install jekyll
