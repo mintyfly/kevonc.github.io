@@ -32,10 +32,22 @@ body {
   font-size: 16px;
 }
 
-.main-logo {
-  width: 150px;
-  height: auto;
+.navi {
+  text-align: center;
+  a {
+    color: $colorDarkChoco;
+  }
+  h4, h5 {
+    font-weight: 700;
+  }
+  .main-avatar {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    width: 150px;
+    height: auto;
+  }
 }
+
 
 footer {
   padding: 0 20px;
@@ -56,16 +68,6 @@ footer {
 
 .content {
   padding: 20px 10px 0 10px;
-}
-
-.navi {
-  a {
-    color: $colorDarkChoco;
-  }
-  h4, h5 {
-    text-align: center;
-    font-weight: 700;
-  }
 }
 
 // posts index
