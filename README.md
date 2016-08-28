@@ -12,6 +12,9 @@ sharing about life, startup, and code
 # create a post
 	rake post title="Hello World"
 
+# commit code
+	git push origin source
+
 # publishing steps
 	rake generate
 	rake publish
