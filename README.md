@@ -15,3 +15,9 @@ sharing about life, startup, and code
 # publishing steps
 	rake generate
 	rake publish
+
+# markdown basics
+	https://daringfireball.net/projects/markdown/basics
+
+# color palette
+	http://paletton.com/#uid=33i0u0kbKt43xNg7jAngKo8lyjJ
