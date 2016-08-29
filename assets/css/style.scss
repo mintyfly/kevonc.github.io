@@ -50,7 +50,8 @@ body {
 }
 
 footer {
-  padding: 0 20px;
+  text-align: center;
+  padding: 20px;
   color: $colorBlack;
   a {
     color: $colorBlack;
@@ -133,6 +134,11 @@ ul.posts {
   margin: 20px 0;
 }
 
+.social-icon {
+  width: 40px;
+  margin: 12px 6px;
+}
+
 
 
 // post-page
@@ -167,7 +173,7 @@ ul.posts {
 
 // tag-box
 .tag-boxes {
-  margin: 20px 0;
+  margin: 20px 0 0 0;
   font-size: 0.9em;
   .tag-box {
     list-style: none;
@@ -211,17 +217,17 @@ ul.posts {
   }
 }
 
+// social
+.social {
+  margin: 20px 0 0 0;
+}
+
 // post pagination
 .pagination {
-  margin: 0;
+  margin: 20px 0 0 0;
   ul {
     list-style: none;
     margin-left: -40px;
-    li {
-      a {
-        color: $colorGrey;
-      }
-    }
   }
 }
 
@@ -339,6 +345,10 @@ ul.posts {
     }
   }
 }
+
+
+
+
 
 // responsive
 @media screen and (max-width: 767px) {

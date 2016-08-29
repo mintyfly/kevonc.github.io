@@ -9,6 +9,20 @@
       <h5 class="tagline">"{{page.tagline}}"</h5>
     {% endif %}
     {{ content }}
+    <div class="social">
+      Follow me on <a href="https://www.instagram.com/kevon/" target="_blank">Instagram</a> if you would like to get updates on my blog.
+    </div>
+  </div>
+
+  <div class="pagination">
+    <ul>
+    {% if page.next %}
+      <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next Post: {{ page.next.title }}</a></li>
+    {% endif %}
+    {% if page.previous %}
+      <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">Last Post: {{ page.previous.title }}</a></li>
+    {% endif %}
+    </ul>
   </div>
 
   <div class="tag-boxes">
@@ -27,17 +41,6 @@
         {% include JB/tags_list %}
       </ul>
     {% endunless %}
-  </div>
-
-  <div class="pagination">
-    <ul>
-    {% if page.previous %}
-      <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">Previous: {{ page.previous.title }}</a></li>
-    {% endif %}
-    {% if page.next %}
-      <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next: {{ page.next.title }}</a></li>
-    {% endif %}
-    </ul>
   </div>
 
   {% include JB/comments %}
