@@ -14,10 +14,11 @@
 }
 
 // color schemes
-$colorDarkChoco: #302c2b;
-$colorChoco: #755754;
-$colorLightChoco: #b5a19e;
+$colorBlack: #302c2b;
 $colorGrey: #757374;
+$colorPrimary: #588B8B;  // dark green
+$colorSecondary: #83AAAA;   // light green
+$colorThird: #C05C5C;  // red
 //
 
 // bootstrap fix
@@ -35,7 +36,7 @@ body {
 .navi {
   text-align: center;
   a {
-    color: $colorDarkChoco;
+    color: $colorBlack;
   }
   h4, h5 {
     font-weight: 700;
@@ -48,12 +49,12 @@ body {
   }
 }
 
-
 footer {
-  padding: 0 20px;
-  color: $colorDarkChoco;
+  text-align: center;
+  padding: 20px;
+  color: $colorBlack;
   a {
-    color: $colorDarkChoco;
+    color: $colorBlack;
   }
 }
 
@@ -76,7 +77,7 @@ ul.posts {
   margin-left: -40px;
   li.post {
     padding: 20px 0;
-    border-bottom: 1px dashed $colorLightChoco;
+    border-bottom: 1px dashed $colorSecondary;
     &:last-child {
       padding-bottom: 10px;
       border-bottom: 0;
@@ -102,11 +103,11 @@ ul.posts {
   font-family: 'Proxima Nova Bold', Helvetica, Arial, sans-serif;
   font-size: 1.3em;
   font-weight: 700;
-  color: $colorChoco;
+  color: $colorPrimary;
   margin: 4px 0;
   padding: 0;
   a {
-    color: $colorChoco;
+    color: $colorPrimary;
     font-weight: 700;
   }
 }
@@ -114,7 +115,12 @@ ul.posts {
 .tagline {
   font-style: italic;
   font-size: 1.2em;
-  color: $colorLightChoco;
+  color: $colorSecondary;
+}
+
+.quote {
+  font-size: 0.9em;
+  color: $colorThird;
 }
 
 .date {
@@ -122,6 +128,18 @@ ul.posts {
   color: $colorGrey;
   text-transform: uppercase;
 }
+
+.full-image {
+  width: 100%;
+  margin: 20px 0;
+}
+
+.social-icon {
+  width: 40px;
+  margin: 12px 6px;
+}
+
+
 
 // post-page
 .page-header {
@@ -155,7 +173,7 @@ ul.posts {
 
 // tag-box
 .tag-boxes {
-  margin: 20px 0;
+  margin: 20px 0 0 0;
   font-size: 0.9em;
   .tag-box {
     list-style: none;
@@ -165,7 +183,7 @@ ul.posts {
       line-height: 28px;
       span.glyphicon {
         font-size: 1.5em;
-        color: $colorDarkChoco;
+        color: $colorBlack;
         margin-right: 10px;
         margin-top: 6px;
       }
@@ -178,7 +196,7 @@ ul.posts {
     a {
       padding: 6px 9px;
       margin: 2px;
-      background: lighten($colorLightChoco,30);
+      background: lighten($colorSecondary,30);
       color: #555;
       border-radius: 3px;
       text-decoration: none;
@@ -188,7 +206,7 @@ ul.posts {
         font-size: 0.8em;
       }
       &:hover {
-        background-color: lighten($colorLightChoco,22);
+        background-color: lighten($colorSecondary,22);
       }
       &.active {
         background: #57A957;
@@ -199,17 +217,17 @@ ul.posts {
   }
 }
 
+// social
+.social {
+  margin: 20px 0 0 0;
+}
+
 // post pagination
 .pagination {
-  margin: 0;
+  margin: 20px 0 0 0;
   ul {
     list-style: none;
     margin-left: -40px;
-    li {
-      a {
-        color: $colorGrey;
-      }
-    }
   }
 }
 
@@ -217,20 +235,20 @@ ul.posts {
 .categories, .tags {
   padding-top: 4px;
   padding-bottom: 10px;
-  border-bottom: 1px dashed $colorLightChoco;
+  border-bottom: 1px dashed $colorSecondary;
 }
 
 .category-list, .tag-list {
   a {
-    color: $colorChoco;
+    color: $colorPrimary;
   }
 }
 
 // archive
 .archive {
   .year {
-    color: $colorDarkChoco;
-    border-bottom: 1px dashed $colorLightChoco;
+    color: $colorBlack;
+    border-bottom: 1px dashed $colorSecondary;
   }
   ul.posts {
     list-style: none;
@@ -262,7 +280,7 @@ ul.posts {
           font-size: 16px;
           margin: 0;
           a {
-            color: $colorChoco;
+            color: $colorPrimary;
           }
         }
         ul.post-cat {
@@ -327,6 +345,10 @@ ul.posts {
     }
   }
 }
+
+
+
+
 
 // responsive
 @media screen and (max-width: 767px) {

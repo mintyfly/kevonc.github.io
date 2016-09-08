@@ -13,6 +13,15 @@ Everyday is a lesson when your knowledge and experience contribute to it.
 # create a post
 	rake post title="Hello World"
 
+# commit code
+	git push origin source
+
 # publishing steps
 	rake generate
 	rake publish
+
+# markdown basics
+	https://daringfireball.net/projects/markdown/basics
+
+# color palette
+	http://paletton.com/#uid=33i0u0kbKt43xNg7jAngKo8lyjJ
