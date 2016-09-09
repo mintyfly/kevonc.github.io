@@ -24,7 +24,7 @@ When you surf the internet, every time you stumble upon people who are inspiring
 > Working in a startup means working closely with the founders. If the founder is inspiring and can teach you loads, that's the startup you want to work in.
 
 ### Go Out
-Since cold emailing people is difficult, your best bet is to be out there and constantly meet people and make friends. You don’t need an intention to make friends, but you never know when you would bump into someone who is doing really cool, amazing things. People call this “networking”, and yes, there is no secret sauce to it. I met Michelle, founder of First Code Academy, at a Sunday Entrepreneur meetup one day in 2013, and we only started a conversation about working together at the end of 2015. See?
+Since cold emailing people is difficult, your best bet is to be out there and constantly meet people and make friends. You don’t need an intention to make friends, but you never know when you would bump into someone who is doing really cool, amazing things. People call this “networking”, and yes, there is no secret sauce to it. I met Michelle, founder of First Code Academy, at a Sunday Entrepreneur meetup one day in 2013, and we only started a conversation about working together at the end of 2014. See?
 
 > Branch out and meet more people. A lot of them are doing cool things, you might not get a job right away, but opportunities might show up in front of you one day.
 
