@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>kevon's blog</title>
+ <link href="http://kevonc.github.io/" rel="self"/>
+ <link href="http://kevonc.github.io"/>
+ <updated>2016-09-19T22:54:20+08:00</updated>
+ <id>http://kevonc.github.io</id>
+ <author>
+   <name>Kevon Cheung</name>
+   <email>kevon.cheung@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>You Have Been Finding Jobs The Wrong Way</title>
+   <link href="http://kevonc.github.io/posts/you-have-been-finding-jobs-the-wrong-way"/>
+   <updated>2016-09-09T21:49:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/you-have-been-finding-jobs-the-wrong-way</id>
+   <content type="html">&lt;p&gt;If you were just on any job portal like JobsDB or LinkedIn looking for a job, you might want to read this blog post because you have been finding jobs the wrong way. Everyone knows that finding a job is hard, almost as hard as finding your significant half. What’s worse is, when you start dating someone you don’t like that much, which is kind of like taking a job you’re not so interested in. Now, if you want to find a job that you actually enjoy, read on. Disclaimer: this is more for a startup job.&lt;/p&gt;
+
+&lt;h3 id=&quot;dont-rely-on-jobs-portal&quot;&gt;Don’t Rely on Jobs Portal&lt;/h3&gt;
+
+&lt;p&gt;When a company puts up a job opening on a job portal, it is because it is the fastest way to source a large pool of applicants. They have an opening and you want a job, doesn’t that sound like the perfect match? The truth is, how do you know that you are actually interested in the company, the role, and the people, or you are simply just getting a job for the sake of having a job? It is possible that you will end up with something you are happy with through job portals, but to maximize your chance of finding a job you desire , you must do things differently.&lt;/p&gt;
+
+&lt;h3 id=&quot;company&quot;&gt;Company&lt;/h3&gt;
+&lt;p&gt;Read a lot about what people out there are doing and know what gets you curious. For example, if you read an article about &lt;a href=&quot;http://firstcodeacademy.com&quot; target=&quot;_blank&quot;&gt;First Code Academy&lt;/a&gt; on Tech in Asia, go to First Code’s website, and if what they do get your attention, go to the Career page and start looking around for a role that you have the skills and passion for. Apply there. If you want to go the extra mile, find out the person who is in charge of hiring and impress them, possibly the founder(s) or founding member(s). In the past at First Code, we have received from these applicants market research, new campaign ideas for marketing, or even illustration on why they would be a good fit to us. Try not to go to the Human Resources person as they have seen too many applicants and all they do is filtering based on a few criteria to lower your chance.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Read more news about what companies are out there doing cool things, approach the cool companies.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;people&quot;&gt;People&lt;/h3&gt;
+&lt;p&gt;When you surf the internet, every time you stumble upon people who are inspiring to you and you dream of working alongside them, take down their names and where they work. Getting to know them would be a challenge as you can expect that a lot of others are doing the same to approach them. Yet people say “If there is a will, there is a way”, dig around the internet until you can find the contact. Write a personalized email and try creative ways to stand out.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Working in a startup means working closely with the founders. If the founder is inspiring and can teach you loads, that’s the startup you want to work in.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;go-out&quot;&gt;Go Out&lt;/h3&gt;
+&lt;p&gt;Since cold emailing people is difficult, your best bet is to be out there and constantly meet people and make friends. You don’t need an intention to make friends, but you never know when you would bump into someone who is doing really cool, amazing things. People call this “networking”, and yes, there is no secret sauce to it. I met Michelle, founder of First Code Academy, at a Sunday Entrepreneur meetup one day in 2013, and we only started a conversation about working together at the end of 2014. See?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Branch out and meet more people. A lot of them are doing cool things, you might not get a job right away, but opportunities might show up in front of you one day.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To get a job you desire is extremely important. Think about it - when you do not have a job you enjoy, you start looking around for another job. After a few switches, commitment becomes the first thing any interviewer asks you and it hurts your chance of getting a job. Therefore, to find a job that you are excited about has a long-term effect on your career, and just remember one thing, everything builds on top of each other.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How We Define Our Company Culture at First Code Academy</title>
+   <link href="http://kevonc.github.io/posts/how-we-define-our-company-culture-at-first-code-academy"/>
+   <updated>2016-08-28T21:00:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/how-we-define-our-company-culture-at-first-code-academy</id>
+   <content type="html">&lt;p&gt;Ever since Michelle and I read Tony Hsieh’s &lt;a href=&quot;https://www.amazon.com/gp/product/0446576220/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0446576220&amp;amp;linkCode=as2&amp;amp;tag=kevon-20&amp;amp;linkId=ee5073a25ed1b1b4a5750837accd88b3&quot; target=&quot;_blank&quot;&gt;Delivering Happiness&lt;/a&gt;, we were intrigued by the way Tony runs Zappos and how culture plays a major role in the building of the shoe empire. Nowadays, a respectable company is not represented by its huge revenue or operating margin, a more convincing way of measuring is through its impact on the world and its employee’s happiness. In the book, Tony mentioned that there are only 3 key areas that are worth investing into when everything else could be copied easily, and the trio is a brand, culture, and pipeline. With a huge admiration towards building a well-defined company culture, I want to talk about how we define our culture at &lt;a href=&quot;http://firstcodeacademy.com&quot; target=&quot;_blank&quot;&gt;First Code Academy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;When I joined First Code in January 2015, it was the early period of the startup (one and a half year in). The campus looked like someone just rented an empty furnished space yesterday, the people have titles but no one was exactly sure what to work on, and there was certainly no sign of a strong culture. Just like most startups, at that point of time, the style (I wouldn’t say culture) of First Code was hugely defined by the personality of its founder, &lt;a href=&quot;http://www.sunmichelle.com/&quot; target=&quot;_blank&quot;&gt;Michelle&lt;/a&gt;. It was about working hard, moving fast, experimenting new ideas, and becoming close to our parents and students.&lt;/p&gt;
+
+&lt;p&gt;We focused most of our energy on making sure the startup was growing rapidly and we were achieving goals that we set for ourselves. What we neglected was the development of a place where people would wake up and be excited about it, would stay after working hours just because they genuinely want to, and would talk about it casually with anyone like it is her own business. It was until late 2015 that Michelle and I started to think about what a company culture meant and really poured our heart into shaping a culture at First Code.&lt;/p&gt;
+
+&lt;p&gt;We started reading a lot of books about this topic, Tony Hsieh’s &lt;a href=&quot;https://www.amazon.com/gp/product/0446576220/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0446576220&amp;amp;linkCode=as2&amp;amp;tag=kevon-20&amp;amp;linkId=ee5073a25ed1b1b4a5750837accd88b3&quot; target=&quot;_blank&quot;&gt;Delivering Happiness&lt;/a&gt;, Howard Schultz’s &lt;a href=&quot;https://www.amazon.com/gp/product/0786883561/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0786883561&amp;amp;linkCode=as2&amp;amp;tag=kevon-20&amp;amp;linkId=f35f270d21c6ffd59bc71e259a05a578&quot;&gt;Pour Your Heart Into It&lt;/a&gt;, and Phil Knight’s &lt;a href=&quot;https://www.amazon.com/gp/product/1501135910/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1501135910&amp;amp;linkCode=as2&amp;amp;tag=kevon-20&amp;amp;linkId=37da1b98e081021684173bf20b0ba0ff&quot;&gt;Shoe Dog&lt;/a&gt; were the prints that really got a piece of our hearts. We jotted down notes while reading them, and instantly they sparked interesting things we wanted to try at First Code. We understood that culture couldn’t be developed in a day or by one person, and evidently, it was not shaped solely by executing a few todos. It was going to take time and determination, and we had both. The next step was to put them into actions, finding out what culture and values our team possessed by digging into our memories.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;full-image&quot; src=&quot;/assets/images/posts/firstcode-teamhk.jpg&quot; alt=&quot;First Code Academy Team Hong Kong&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It might be easier to list out 8-10 core values to First Code and then ask every team member to follow, but we chose to do it the other way around - we looked at what examples we could spot in the last few months and we started from there. For example, First Code has been running in a super lean way, and we tend to move into new campus before it is ready. This was a great example of “Done is Better than Perfect”. We often host lunch and learn sessions for team members to share knowledge, be it time management or Photoshop. That’s right, we have “a culture of learning”! When I open my email inbox, I often see tons of emails with replies filled with “Thank you” to our team members for big and small achievements. We “show appreciation and gratitude towards each other on the team”. The list just kept on going until we had to stop and weighed which one was more important as a company. Eventually, with all the examples, we came down to 8 core values at First Code:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Done is better than perfect&lt;/li&gt;
+  &lt;li&gt;Cultivate a culture of learning&lt;/li&gt;
+  &lt;li&gt;Be resourceful and solution oriented&lt;/li&gt;
+  &lt;li&gt;Be humble&lt;/li&gt;
+  &lt;li&gt;Show appreciation and gratitude&lt;/li&gt;
+  &lt;li&gt;Create fun and a bit of spontaneity&lt;/li&gt;
+  &lt;li&gt;Build a passionate and positive team and family spirit&lt;/li&gt;
+  &lt;li&gt;Create impact through community service &amp;amp; social responsibility&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These core values and the stories behind them became training materials for each new team member. We do not expect everyone to get it just because we talk about it once, as a matter of fact, the new member has to feel the culture and sees examples in her own eyes. From the day when we wrote down the 8 core values of First Code, we have seen a tremendous increase in actions and behaviors that fit into our culture and values. The team became more efficient as team members started using these core values to make independent decisions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;full-image&quot; src=&quot;/assets/images/posts/firstcode-outing.jpg&quot; alt=&quot;First Code Academy Team Outing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sometimes, though, when you’re inside a bubble, it prevents you from seeing what is outside. Although we were excited and contented about how First Code’s culture was shaping internally, there was one thing we weren’t 100% sure of and we were curious to find out - what would parents say about First Code’s culture? What do they really think? We reached out to a few parents with one simple question “What do you think of First Code Academy’s culture?” The responses were overwhelming and we got a ton of encouragement we did not expect. I would like to share one of the responses that made our hearts drop while reading it.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;span class=&quot;quote&quot;&gt;“The way that I have experienced First Code culture is by observing the way my daughter &lt;strong&gt;__&lt;/strong&gt;_ experiences it.&lt;br /&gt;&lt;br /&gt;
+First Code is the smartest and most progressive amongst all her activities: art, language, sports on top of her normal international school curriculum. She is truly excited about coming to First Code and especially proud of what she is creating. This is not a “course” to her. It is an expression of herself and a most powerful one as she gains “control” of an environment that she creates. I’d love to be a child again so I could be part of it in that way.&lt;br /&gt;&lt;br /&gt;
+As a professional admiring the same people you admire, I see your culture as fun empowering bold and unafraid; approachable collaborative warm yet cool and hip; transparent open forward-looking.&lt;br /&gt;&lt;br /&gt;
+Inspired by the ones who made history by thinking further than current reality and inspiring because these heroes are “on the walls” and talking to all of us in your space all the time. As I can compare to P&amp;amp;G, Coca-Cola, COFCO, Swire or &lt;strong&gt;__&lt;/strong&gt;__ that I have experienced, another major trait comes up: FRESH, spontaneous, authentic.”&lt;br /&gt;&lt;br /&gt;
+By a Parent of First Code Academy&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I attribute this positive culture we have to all current and former team members, our parents, and our students. With the energy, excitement, and curiosity from everyone, I believe we are creating a place that is filled with two important elements in life: learning and happiness. So now, for anyone who is running a startup, instead of pulling your hair out to crank out that list of core values, follow the 4 steps:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Learn from other companies you admire and take note of their key culture and values&lt;/li&gt;
+  &lt;li&gt;Be a leader and do it yourself; if you do it long enough, your team members will follow&lt;/li&gt;
+  &lt;li&gt;Look around and spot examples among the team&lt;/li&gt;
+  &lt;li&gt;Make a list of company core values, make them part of the required training materials, and continue to iterate on them&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;What is one example of your team that clearly defines your company culture? Drop me a note. Would like to hear it!&lt;/p&gt;
+
+&lt;p&gt;If you’re interested to read more about First Code’s culture: &lt;a href=&quot;http://hk.firstcodeacademy.com/careers&quot; target=&quot;_blank&quot;&gt;firstcodeacademy.com&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>7 Life Mottos I Live By</title>
+   <link href="http://kevonc.github.io/posts/7-life-mottos-i-live-by"/>
+   <updated>2016-05-02T21:00:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/7-life-mottos-i-live-by</id>
+   <content type="html">&lt;p&gt;There are so many life mottos out there from all these famous people; for me, I believe everyone should have a personal set of life mottos and it is worth writing them down so we can remind ourselves from time to time.&lt;/p&gt;
+
+&lt;p&gt;From reflecting my early career, these are the 7 ones that shape me into who I am.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you can’t do the small things well, don’t mind the big things&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Never be late&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Be humble, there are a lot of people smarter than you&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Early birds get the worms&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you cannot decide for yourself, no one can&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Don’t look back, look forward&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hard work will pay off, just be patient&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>7 Books to Read in 2016</title>
+   <link href="http://kevonc.github.io/posts/7-books-to-read-in-2016"/>
+   <updated>2016-01-16T22:00:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/7-books-to-read-in-2016</id>
+   <content type="html">&lt;p&gt;Year 2016 is the first year I am drafting up a detailed annual plan for myself. After reading Chris Guillebeau’s &lt;a href=&quot;http://chrisguillebeau.com/how-to-conduct-your-own-annual-review/&quot; target=&quot;_blank&quot;&gt;“How to Conduct Your Own Annual Review”&lt;/a&gt;, I came up with 14 measureable targets in the fields of Relationship (Family &amp;amp; Friends), Finance, Health, Learning, and Travel. I didn’t set a target for reading books because it is a no brainer for me that I must and will read a lot. It is funny because I hated reading in my childhood, and now I treat books as one of my closest friends, so I spent some time making a list of books I will read in 2016. I hope you’ll find some of them interesting, and please also share with me what you’re reading!
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ecx.images-amazon.com/images/I/51gQBXnRSgL._SX344_BO1,204,203,200_.jpg&quot; class=&quot;small&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;###1. &lt;a href=&quot;http://www.amazon.com/gp/product/0544668251/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0544668251&amp;amp;linkCode=as2&amp;amp;tag=kevon-20&amp;amp;linkId=VLZSCIP7ABPLTSYL&quot; target=&quot;_blank&quot;&gt;Thing Explainer: Complicated Stuff in Simple Words&lt;/a&gt;
+By Randall Munroe&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why?&lt;/strong&gt; Heard that the author only uses the 1,000 most common words in the English language to explain various subjects. Perfect for someone like me who doesn’t have a large library of vocabularies but still have the curiosity to explore new topics!
+&lt;br /&gt;
+&lt;strong&gt;Review on Mar 20, 2016:&lt;/strong&gt; It is not as interesting as it seems. The words end up being too simple to actually tell you anything.&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;http://ecx.images-amazon.com/images/I/51m5-B0GaXL._SX322_BO1,204,203,200_.jpg&quot; class=&quot;small&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;###2. &lt;a href=&quot;http://www.amazon.com/gp/product/0345472322/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0345472322&amp;amp;linkCode=as2&amp;amp;tag=kevon-20&amp;amp;linkId=ZTVB2LAVXAJUM52A&quot; target=&quot;_blank&quot;&gt;Mindset: The New Psychology of Success&lt;/a&gt;
+By Carol Dweck&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why?&lt;/strong&gt; From my last blog post, I talked about success, and I do believe mindset is one of the keys to success.
+&lt;br /&gt;
+&lt;strong&gt;Review on Jan 27, 2016:&lt;/strong&gt; Hmmm, I would not recommend this book at all, I stopped reading because of 2 main reasons.
+&lt;br /&gt;
+1) After reading around different chapters, it seems to only talk about one message - why you should have a growth mindset, not a fixed mindset. Using a lot of small stories to bring out the same message, the book does feel like an infinite loop.
+&lt;br /&gt;
+2) And the stories are not even interesting ……&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;http://ecx.images-amazon.com/images/I/51q5s%2BX3RcL._SX329_BO1,204,203,200_.jpg&quot; class=&quot;small&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;###3. &lt;a href=&quot;http://www.amazon.com/gp/product/1591847834/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1591847834&amp;amp;linkCode=as2&amp;amp;tag=kevon-20&amp;amp;linkId=WBJFFD6AQ3YIYZZ2&quot; target=&quot;_blank&quot;&gt;Superbosses: How Exceptional Leaders Master the Flow of Talent&lt;/a&gt;
+By Sydney Finkelstein&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why?&lt;/strong&gt; A new book without any review yet, but leadership book is always a good one.&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;http://ecx.images-amazon.com/images/I/51RxBGThHAL._SX335_BO1,204,203,200_.jpg&quot; class=&quot;small&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;###4. &lt;a href=&quot;http://www.amazon.com/gp/product/150112174X/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=150112174X&amp;amp;linkCode=as2&amp;amp;tag=kevon-20&amp;amp;linkId=VQ24CITNGPPTNBPG&quot; target=&quot;_blank&quot;&gt;Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days&lt;/a&gt;
+By Jake Knapp, John Zeratsky, Braden Kowitz&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why?&lt;/strong&gt; Sprint is a popular concept in the startup space yet no one really knows how it works; I’m curious to find out more about how to build products faster.&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;http://ecx.images-amazon.com/images/I/41Ek-9qFyPL._SX327_BO1,204,203,200_.jpg&quot; class=&quot;small&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;###5. &lt;a href=&quot;http://www.amazon.com/gp/product/0385348371/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0385348371&amp;amp;linkCode=as2&amp;amp;tag=kevon-20&amp;amp;linkId=MMR3KE4WHULND2ZB&quot; target=&quot;_blank&quot;&gt;Nonsense: The Power of Not Knowing&lt;/a&gt;
+By Jamie Holmes&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why?&lt;/strong&gt; I’m quite intrigued by the ambiguity of many things, maybe it is better staying this way.&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;http://ecx.images-amazon.com/images/I/5157brmzuVL._SX329_BO1,204,203,200_.jpg&quot; class=&quot;small&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;###6. &lt;a href=&quot;http://www.amazon.com/gp/product/0804136726/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0804136726&amp;amp;linkCode=as2&amp;amp;tag=kevon-20&amp;amp;linkId=D5EGHPGLDBE2OKB6&quot; target=&quot;_blank&quot;&gt;Performing Under Pressure: The Science of Doing Your Best When It Matters Most&lt;/a&gt;
+By Hendrie Weisinger, J. P. Pawliw-Fry&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why?&lt;/strong&gt; Some people say they cannot deal with pressure, yet some people like Cristiano Ronaldo (famous footballer) said he loves the pressure of the game. I just want to do my best.
+&lt;br /&gt;
+&lt;strong&gt;Review on Mar 20, 2016:&lt;/strong&gt; Again, not a big fan of theory book in which what the author does is just simply bring out examples after examples to prove a simple point. It doesn’t excite me at all.&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;http://ecx.images-amazon.com/images/I/41V%2B9ogNeSL._SX336_BO1,204,203,200_.jpg&quot; class=&quot;small&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;###7. &lt;a href=&quot;http://www.amazon.com/gp/product/081298840X/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=081298840X&amp;amp;linkCode=as2&amp;amp;tag=kevon-20&amp;amp;linkId=JCRYFNTLDUJ5UBDX&quot; target=&quot;_blank&quot;&gt;When Breath Becomes Air&lt;/a&gt;
+By Paul Kalanithi&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why?&lt;/strong&gt; A close one of mine passed away from lung cancer 16 years ago. What does it feel like when you’re so close to death? I want to find out.
+&lt;br /&gt;
+&lt;strong&gt;Review on Feb 10, 2016:&lt;/strong&gt; A strong recommendation. I don’t think a lot of people actually study death before it hits them, which is sad because a lot of times it could be too late. I like the book a lot because it carries us through his own life, the gains, and the struggles… it is very real, too real. You could feel the author’s perseverance in fighting for his life.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Knowing Yourself is The Key to Your Own Journey</title>
+   <link href="http://kevonc.github.io/posts/knowing-yourself-is-the-key-to-your-own-journey"/>
+   <updated>2015-11-24T22:45:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/knowing-yourself-is-the-key-to-your-own-journey</id>
+   <content type="html">&lt;p&gt;One night over dinner, a college friend asked me “What is your life goal?” It was definitely a rare question that not many peers have asked me at this stage of our lives. It was a tough question! I don’t know what life goals I have because it changes all the time. If you asked me in primary school, I would have given you the standard “a businessman” answer. In high school, you might hear “an investment banker who makes a lot of money”. And then in college, you probably hear “an aspiring figure who stands out from the crowd”.&lt;/p&gt;
+
+&lt;p&gt;That night, my answer was “I wanted to be successful, of course it is based on your own definition of success, then I want to enjoy what I do and keep learning and learning.” To me, I think I know myself pretty well to make the appropriate small steps towards a life I want. I’m not saying I can help you find yourself, nor am I the person you should learn from if you’re lost, I just want to share my thinking.&lt;/p&gt;
+
+&lt;p&gt;A lot of times, I hear peers saying that they do not know what they want in life, as they just want to live well. They can’t figure out a key interest that they want their lives to be evolved around. I find it weird, particularly because we as humans should be pretty good at finding out what we like, say we know what food we like, we know what we prefer to do over weekend, and we know which songs we like most. It should be pretty easy to know what we like, is it not?&lt;/p&gt;
+
+&lt;p&gt;I am determined that my career and life will be surrounded by tech, using software to make lives more efficient and fun. I don’t know exactly what it will be, or whether the idea will change, but at least for now, this is what I’m aiming for. So how do I find this out? What is the searching process? One trick is I think about what I did most as a kid. What were you doing most of the time in your childhood? Was it playing violin? Was it creating nice artwork in sketch book? What about on the weekend? Did you spend all night, sacrificing your sleep, to work on something you love? Most of the time, if you’re willing to sacrifice time to do one thing over another, you’re interested in it. This is a good place to start to find your true interest.&lt;/p&gt;
+
+&lt;p&gt;For me when I was a 13-14 years old boy, I was playing a bit of sports, but my true passion was going home to sit in front of my computer. I would go online, looked at my favorite websites, checked out what new features or designs they have implemented, and finally copied as much as I could to my very own website. Reverse-engineering and replicating was an excellent way to learn!&lt;/p&gt;
+
+&lt;p&gt;After knowing what you like, it is time to break it down into small steps so it is more achievable. You can’t expect yourself to be one of the crazy millionaire stories out there, instead be humble and come up with a plan. After majoring in Finance in college, I knew that it was not worth my time getting a job in that field, because eventually I would switch because of lack of interest and start from scratch again. I tried running a business with peers when I was at &lt;a href=&quot;http://www.babson.edu/&quot; target=&quot;_blank&quot;&gt;Babson College&lt;/a&gt;, where we had this FME course and everyone had to be part of a business. To be honest, that was good but it wasn’t real! To get the real failure, the only way is to try it. Therefore, I told myself, why not try and fail and see what I’m good at and what I’m bad at. I worked on a startup idea for 6 months. Ended up, I wasn’t good at anything and I have dozens of things to improve on. So, tackle one baby step, one goal at a time.&lt;/p&gt;
+
+&lt;p&gt;Even though I’m sharing how to find myself, I’m still far, really far away from success. I set high bars for myself in order to achieve more in life and I believe I can make it one day, just not sure when. From all the things I’m bad at, I cherry picked coding to be my next focus. Why? Because I spent a lot of time working on websites and I got a lot of satisfaction from it. So it is time to learn how to code. Making websites did not count as coding to me back then, because there were lots of tools that helped you. All you need to do is read the installation guide and work your way out. To code means creating the whole structure of a website, understanding data models, and processing information from one end to another. How I learn to code was a long process. I won’t get into it today, but it was this small desire of knowing how to code that I studied coding for 9 months and eventually landed a job as a Software Engineer to face the world with a new skill I just acquired.&lt;/p&gt;
+
+&lt;p&gt;As if I haven’t gone far enough from where I started, in about a year time, I realized business skills were essential no matter what industry you’re in. When I worked as a programmer, I observed how my boss and managers deal with clients and was immediately curious to find out what it means to run and deal with real people. When I learned about &lt;a href=&quot;firstcodeacademy.com&quot; target=&quot;_blank&quot;&gt;First Code Academy&lt;/a&gt; from Michelle, the founder, I could see myself being part of it because it combines startup, education, and technology. It seemed like a perfect fit to me.&lt;/p&gt;
+
+&lt;p&gt;Taking you through the 3 changes in my life is because I want to tell you that, to be joyful waking up everyday, first you need to know what you want (something small and achievable). Based on that, you will find a job that doesn’t feel like a job, as you enjoy what you do and pour your heart into it (Read &lt;a href=&quot;http://www.amazon.com/Pour-Your-Heart-Into-Starbucks/dp/0786883561&quot; target=&quot;_blank&quot;&gt;Howard Schultz’s Pour Your Heart into It&lt;/a&gt; - Story of Starbucks). Everyday serves as a lesson; ask humble questions and seek advice from people who have done it already.&lt;/p&gt;
+
+&lt;p&gt;My sister once told me that everyone on earth gets 24 hours a day, in which 8 hours are spent in sleep, another 8 are allocated for work, and the remaining 8 hours are the key that defines a person’s life. Whether I choose to watch TV or read books, go on Youtube or take an online course, or get drunk with friends or chat with friends to push each other forward, these decisions are crucial when the 8 hours accumulate. This cannot be more true.&lt;/p&gt;
+
+&lt;p&gt;Final word, when you wonder what your next job is, just find out one thing you seek to learn (say building your network, or mastering social media marketing, or becoming a rockstar sales) and stop being greedy. There is no perfect job out there, as long as you stay true to yourself, you’ll integrate everything and that would be your “perfect job”.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What a Developer / Programmer / Software Engineer Should Expect Working in an Agency</title>
+   <link href="http://kevonc.github.io/posts/what-a-developer-should-expect-working-in-an-agency"/>
+   <updated>2015-06-06T19:19:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/what-a-developer-should-expect-working-in-an-agency</id>
+   <content type="html">&lt;p&gt;Well, it has been almost a year since I last wrote a blog post. I would like to take this chance to give an update on what I’m doing. Since leaving &lt;a href=&quot;http://www.favoritemedium.com/&quot; target=&quot;_blank&quot;&gt;Favorite Medium&lt;/a&gt;, a Software Development Agency in Singapore, at the end of 2014, I joined &lt;a href=&quot;http://firstcodeacademy.com/&quot; target=&quot;_blank&quot;&gt;First Code Academy&lt;/a&gt; in Hong Kong with a mission to empower the next generation to become creators with technology. I am taking this chance to reflect on my experience working as a Software Engineer in an agency, hoping that those who are looking for jobs after a coding bootcamp will see this post and find it helpful.&lt;/p&gt;
+
+&lt;p&gt;###1. Uncertain time span for each project
+Working on a client project means you’ll have no idea how long you’ll be paired with the product, sometimes it could mean years, or 3 weeks. The benefit of working in an agency is that the project tends to be short, such as 3 months, and you’ll be working on a new project with a different stack. If you’re lucky to be with an agency like Favorite Medium, you’ll be exposed to a lot of projects that are built from scratch, from architecture, to APIs, to Android apps. They will also allow you to build internal projects while waiting for a client project to kick off, and you can learn Angular JS, Scala, or whatever you find interesting! Amazing right? The downside is you will also get projects that last more than a year and so called “Legacy Code” that is hard to maintain after more than a dozen programmers have worked on it.&lt;/p&gt;
+
+&lt;p&gt;###2. A programmer needs to know how to communicate
+One of the biggest takeaways from my experience there was how to communicate with your team and external clients. I remembered I was sent to Seoul, Korea to handover a project to our Korean client. The team there was a group of Microsoft programmers, and they did not program in Ruby. My task was to advise them how to set up their own servers, databases, and local development environment. I also had to teach them how to make code changes. It was an extremely difficult thing to do as they only spoke half English. The good thing was that all of them were truly talented and picked up in 4 days and I got to return to Singapore with a smile. Being a programmer is not just about banging out code on your keyboards, you need to know how to document the code, you need to be able to explain what you just did in plain language and defend your decision to code in a certain way, and you need to communicate! Yes, a lot of communication! For me, I would say the best programmers tend to challenge others to do things in better ways, present their ideas concisely and clearly, and share their knowledge with peers. These all make use of communication.&lt;/p&gt;
+
+&lt;p&gt;###3. Client is king
+The developer and design team has a ton of expertise in the field and is able to make recommendations on how a project can be built. However, as all of you know, client is king. They have their own priorities and preference in the product, so in many cases, you’ll have to compromise in order to fit their timeline, taste, and everything. It is not exactly different in other industries anyway. Personally I think working with client is something every should master, and you shouldn’t let this scare you away from working at an agency. At the end of the day, if you’re working in a startup, your client is your coworkers. If you’re a founder of a startup, your client is everyone in your company and all your customers. So, practice the art of working with clients!&lt;/p&gt;
+
+&lt;p&gt;###4. Write code that other programmers can understand
+A lot of times, you think that you are the only person who is on this project, and start to go down the messy-code approach. Never do that! You might think that it is just “testing code” and you’ll fix it later to clean it up. The truth is once it is developed, it is hard to redo it (just simply a hassle and I think only a few will do that). Naming variables is the simplest thing in programming, but it is an art. To name your varaibles so that it is short and everyone can understand is hard. I learn the hard way as the senior programmer I worked with often scolded at me for the terrible naming conventions. Besides, document the code well and do it frequently, do not leave it til the end.&lt;/p&gt;
+
+&lt;p&gt;###5. What is it like working in an agency?
+If you are lucky, the culture and environment of the agency should facilitate learning. At Favorite Medium, the managers are super open about learning new things, a new language or framework. Projects often have realistic deadlines, and you’ll be learning while working. Of course, there are times where you have to rush something before the deadline, then the team works in the evening as well, but deadline doesn’t happen frequently. Hours are fixed and working environment is relaxed. A lot of the meetings will be hosted online through Google Hangout or Skype, but you won’t really work directly with the client. Usually there is a project manager in between who handles client communication and assign tasks accordingly.&lt;/p&gt;
+
+&lt;p&gt;###Final words
+Excellent learning experience to start off your career at an agency (aka development house), find out what you truly like and go from there. I had an amazing time in the 14 months at Favorite Medium.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Timezone Difference from Angular to Rails</title>
+   <link href="http://kevonc.github.io/posts/timezone-difference-from-angular-to-rails"/>
+   <updated>2014-06-18T16:09:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/timezone-difference-from-angular-to-rails</id>
+   <content type="html">&lt;p&gt;Lately I have been working on an internal project at Favorite Medium that uses Angular JS for web interface and Rails for API. I use this stack because I was desperate to learn Angular JS, and I prove my desire right by liking Angular JS a lot. I encountered one issue regarding how Angular and Rails interpret time differently based on timezone and it reverts any date I input in the form by a day. This is how I solve it.&lt;/p&gt;
+
+&lt;p&gt;In the app, there are multiple date fields, here let’s say Date of Birth. The user inputs his DOB on a form and sends a request to the Rails API to update the record, straight forward enough. The problem I was having was a time difference issue: when a user inputs March 1st, 1990 as his DOB, Angular interprets it as 1990-03-01 00:00 along with your time zone of +08 00. The date reaches Rails and because it is using UTC, it flips the time 8 hours back so that the datetime is now 1990-02-28 16:00, and if your database column is Date, it will save as 1990-02-28, missing one day! It was quite an annoying issue because I do not care about the time zone difference, I simply want to state a correct date.&lt;/p&gt;
+
+&lt;p&gt;Coming to the conclusion, I decided to modify the datetime on client side to make up for the timezone difference. I wrote a Date service with a function to add the timezone offset.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;nx&quot;&gt;addTimezoneDiff&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;object&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;timeDiff&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Math&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;abs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;().&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getTimezoneOffset&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;angular&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;forEach&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;object&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;key&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!==&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;typeof&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getMonth&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;function&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;object&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;key&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1000&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;60&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;timeDiff&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;object&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Basically what it does is instead of passing 1990-03-01 00:00, it passes 1990-03-01 08:00 to Rails and Rails will fix it by flipping it back to 1990-03-01 00:00. To be honest, I do not like this approach and I beleive there is a better way. I am happy to take any advice if any of you stumble upon my post; in the meanwhile, this works for me.&lt;/p&gt;
+
+&lt;p&gt;###UPDATES:
+I posted the question on &lt;a href=&quot;http://stackoverflow.com/questions/24298997/timezone-offset-in-angular-js-and-rails&quot;&gt;StackOverflow&lt;/a&gt; and received a better solution from &lt;a href=&quot;http://stackoverflow.com/users/634824/matt-johnson&quot;&gt;Matt Johnson&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;dt&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//  whatever Date object you get from the control&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;dt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setHours&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;dt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getHours&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;12&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// adjust to noon&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;pad&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;?&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;0&amp;#39;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;dob&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;dt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getFullYear&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;-&amp;#39;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;pad&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;dt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getMonth&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;-&amp;#39;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;pad&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;dt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;getDate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why You Should Work Overseas in Your Early Career</title>
+   <link href="http://kevonc.github.io/posts/why-you-should-work-overseas-in-your-early-career"/>
+   <updated>2014-03-06T16:16:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/why-you-should-work-overseas-in-your-early-career</id>
+   <content type="html">&lt;p&gt;Exactly 123 days ago I moved to Singapore, from Hong Kong, and began to live a life I would never have imagined before. No, it is not one of those dramatic, crazy lives you’ve seen in the movies; in fact it is a simple, peaceful life of a 23-year-old continuing to be alone overseas. The fact that I work away from my home city has given me a chance to look at another concrete jungle in Asia in a local perspective. Most importantly, I have no fear of being alone and am able to form numerous excellent habits. To me, the pros of working overseas far exceed the cons in this early stage of my career, hence I would hope that more young people would opt to do the same before it is too late. Responsibilities tend to pile up as you get older, and it is likely you’ll stay in your home city for the rest of your life, then these few years fresh off university might be your favorable time to do so.&lt;/p&gt;
+
+&lt;p&gt;###Travel with your eyes, not your camera
+The word “traveling” has a special meaning to me. Most of the time you and I, the ones that have a full-time job and only have limited days to travel, would fly to a city or island with a “tourist” book in hand that you pick up from the bookstore. You eat, you walk, you snap a few photos, and in no time you’re back at home. I enjoy this kind of exploration, but something is missing from this 5-day-trip, something important.&lt;/p&gt;
+
+&lt;p&gt;On top of the fun, I also care and want to know more about what local people do over weekends, how the government is helping its people, and why expats enjoy working in this city etc. I need way more than 5 days to achieve that. Personally, from spending three months in New York in the summer of 2013, to now I’ve been in Singapore for four months, I know for the fact that you have to be physically present in a city to find out the answers to those questions, and trust me, this is way more fulfilling than just being a tourist and eating local food.&lt;/p&gt;
+
+&lt;p&gt;###Open your eyes in multiple aspects
+I was looking for a job in Singapore, and that opened a door for me to learn how I would survive in the two major cities, Hong Kong and Singapore, because I got to evaluate income in relative to cost of living.&lt;/p&gt;
+
+&lt;p&gt;Income is probably the first factor everyone looks at, but living standard is as important. For example, the same job in the two cities might make you the same amount of money, but which one costs you more? Some insights I’ve gathered over the past few months allow me to do simple comparison between Hong Kong and Singapore. In terms of food, Singapore has more choices which you could go from a $4SGD dinner or a $120 one and still get your stomach filled, whereas in Hong Kong, the starting point is slightly higher and you can hardly find a $25HKD dinner. If you can handle hawker food, you will be able to save a ton of money.&lt;/p&gt;
+
+&lt;p&gt;For transportation, Singapore is well connected through MRT and bus, and to go from airport to downtown, it costs you $2SGD if you take MRT! It would take you about $40HKD for bus or $60-100 for airport express if you’re in Hong Kong. Again, big money saver. Lastly, Singapore has a 7% tax on goods and services, so shopping definitely will hurt your wallet. And the list goes on and on, but you get the point. From daily tiny things, you could find out about the city and make comparisons to where you come from. Maybe one day you’ll find a place that fits your lifestyle more than your home town.&lt;/p&gt;
+
+&lt;p&gt;###Be uncomfortable and grow to be fearless and independent
+The ultimate benefit of working overseas is definitely the personal growth you’ll achieve. In a new city, you have a ton of time with yourself. You’ll have plenty of time to think about your life and how you want to pursue goals. Working in a new city is different from studying in university; those in your age and with similar background are not there anymore, you’re all alone. However, the greatest thing about being alone is you’re so independent that you no longer fear to be alone. You spend your time wisely and appreciate the number of things you’re able to do.&lt;/p&gt;
+
+&lt;p&gt;I have formed a number of habits, which include working out regularly, reading books, trying out different activities, and blogging (sharing) of course! I would hit the gym whenever I can; I would read a lot of books I enjoy (I was never a reading person, I have always hated it); I would go rock climbing and archery on the weekends; I would enjoy a Sunday afternoon at home or in a park reading about Hatching Twitter and writing up blog posts. I have no doubt I’ve developed a healthy routine for myself, and I’m enjoying. If I were in Hong Kong, it would have been much more difficult.&lt;/p&gt;
+
+&lt;p&gt;Lastly, since I’m in an entirely fresh place without any best friends around, every single person I meet post a new challenge to me. I have to figure out the best way to interact with them, and this teaches me about people! Sometimes I have to get out of my comfort zone, but that’s okay.&lt;/p&gt;
+
+&lt;p&gt;Anyway, above are just the obvious reasons for working overseas, there are much more to the experience. I hope I have given you enough reasons to at least think about your young career or even make an attempt to apply for a job elsewhere.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>10 Lessons I Learned From My First Failed Startup</title>
+   <link href="http://kevonc.github.io/posts/10-lessons-i-learned-from-my-first-failed-startup"/>
+   <updated>2014-02-06T14:00:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/10-lessons-i-learned-from-my-first-failed-startup</id>
+   <content type="html">&lt;p&gt;Writing up this post has been in my mind since about a year ago in the beginning of 2013. That was the time when I decided Sponfed would not work out and it was time for us to move on. The delay came from my busy schedule to picking up coding and finding a software engineer job. I wrote half of it in late-2013, but never managed to finalize the details.&lt;/p&gt;
+
+&lt;p&gt;Flashing back to the summer of 2012, I graduated from college and had to face the crude real world. Only in my senior year had I discovered more about tech, web development, and startups, so I had been brainstorming for ideas throughout my final year in college. After two months of preparation, Sponfed was launched in September 2012 as a sponsorship platform startup to connect brand owners and event organizers. The idea was exciting, and everyone I met loved it. Most of them even expressed strong need in this service.&lt;/p&gt;
+
+&lt;p&gt;The next six months was a big learning curve for me and my two co-founders. There were tons of meetings, tons of networking events, some pitches, and some rough work developing the website. In March 2013, I decided to accept that we failed to turn the (we thought) brilliant idea into a business, and called a peaceful breakup. We went separate ways and continued on the journey each person had.&lt;/p&gt;
+
+&lt;p&gt;Doing startup is tough, and that’s why everyone should try it. Only if you have tried to take on the challenge would you understand the magic and challenge inside. Here I want to share 10 lessons I learned from this particular failure:&lt;/p&gt;
+
+&lt;p&gt;###1. Age matters and be in the right industry
+When you have a startup to sell a product, taking even $10 from a customer is hard enough. Sponfed intended to connect sponsorships that were range from $3,000HKD to $1,000,000HKD, this kind of deals wasn’t something three twenty-something years old could easily do. People tend to associate your age with your ability to do business in that price range. In your 20s, it is much more convincing to work on creative ideas that do not have a huge price tag. Be at the right place at the right time.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;###2. Don’t be afraid to share equity, idea, and success
+During the preparation period, I was out seeking for technical co-founder or a team of developers to work together to build this sponsorship platform. I had a few great choices, from freelancer, to web dev firm, to unknown tech guy who seemed to have more than 10 years of experience in building successful online businesses, but I was too worried about the potential consequences to get these people on board. What if they screw me over? What if the tech guy has absolute control over the company because he handles all the code (the valuables). You can’t be scared of every tiny detail. If you pick the right person, the business will go a step further; if you do not pick at all, you’re still at step zero. However, keep in mind that at the end of the day, if you don’t know your co-founder well or you have never worked with him/her before, it will be a huge challenge going forward in months, or years. To start the first venture, never plan to do everything by yourself, pick the right talent and build it together.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;###3. Iterate and learn
+Building startup is like standing in a forest, you never know what is in front of you and which direction leads to the way out. The key is make a ton of assumptions, test and validate them, and constantly look for feedback from real customers. To sum it up, just follow Lean Startup. Our team did not learn and iterate fast enough; it was also because of the lag time between each communication point. I recommend setting up morning meeting to reflect and go over lessons learned from the previous day and try to adjust the startup’s direction quickly.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;###4. Don’t meet everyone
+When you have a business, people love to meet up with you to have coffee to explore opportunities. However, in early stage, only meet with the ones that are potential customers or could offer significant advice. This is because meeting people is extremely time consuming and most of the time, you gain nothing. In Sponfed, we had to meet up with a lot of brand owners and event organizers to learn about their needs, only about 30% of the meetings actually carry on and turn into further discussion. Make your selection wise.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;###5. Build a team with different talents
+The three co-founders of Sponfed were all non-technical (and now I’m a Software Engineer). I was the one who took care of the website, one of them was doing marketing and PR, and another was on sales and operation. It seems like a good combination of people, yet don’t forget we were planning to be in the tech scene. Therefore, instead of three business people, a more ideal combo would be a developer, a designer, and a business person. Make sure your team has different skill-sets when you start.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;###6. It takes time, so have faith
+It took Sponfed a couple months to build partnerships with other companies and got actively approached by event organizers. Almost 99% of startups don’t get the attention they want, and what you should do is have faith in your business if it works, and one day it will come back to you. Keep fighting until you reach a point where things cannot be changed. If you’re dead sure about that, then call a breakup and try again in the future.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;###7. A prototype needs to work
+Since we didn’t get a developer in our team, I was the one who built the website for Sponfed and it did not have a lot of functions. Bounce rate was almost 70% and retention rate was 0%, basically after the first visit, no one would come back to our website. Our prototype was more or less a website showcasing the business, thus there was no purpose for them to come back after the first time. To create a platform, make sure the prototype has enough functionalities to get going. Don’t just tell what you do, show what you can do.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;###8. People are generally nice
+When you go out and tell people about your idea, I would say about 80% of the time, you would receive feedback that praises the idea. They would say they would use your service if they’re an event organizer. Don’t get tricked into this illusion and think that your idea or business can make big money now, the reality is feedback is easy to give, money is not. Instead of telling people about your idea, I would recommend going straight to the customer and see if they would pay.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;###9. Freemium is dangerous
+A pricing strategy called Freemium has become significantly popular in the last few years. The idea is to give customers a taste of your service so that they’ll be willing to pay to use more features. Be careful of this strategy because in order to move from free to a payment, it takes extra effort to show the value you’re bringing to the table. At Sponfed, we were offering our service for free to begin with, and we even offered extra manual help to ensure everything went our way. It was a dangerous move as we moved from an online service to an offline service, and we were not validating the right assumption. So, it makes sense to offer a free account type if you’re building a software, if not, you are better off charging people on the first day and really validate your assumption.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;###10. Say thank you to families and friends
+Without their support, doing startup will be a rougher and tougher path. It takes a ton of courage to be in this space, it takes a ton of braincells to be thinking about how to work it out all day, and it takes up a ton of opportunity cost. Nevertheless, the experience is unforgettable and the realization will only bring you more greatness in the future, regardless of what you do.&lt;br /&gt;&lt;br /&gt;
+Thanks for reading this, I hope you will make the same mistake that I made, but realised them faster, as only mistakes will make you stronger. Stay cool and carry on!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>First Job as a Software Engineer in Singapore</title>
+   <link href="http://kevonc.github.io/posts/first-job-as-a-software-engineer-in-singapore"/>
+   <updated>2013-12-01T15:59:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/first-job-as-a-software-engineer-in-singapore</id>
+   <content type="html">&lt;p&gt;So it was almost two months since my last blog post, and it wasn’t because I was not keeping up with my tech learnings. It was more because I was busy looking for a company I see fit and going through the interview process. Now that I’ve settled down in Singapore, I can review my process of landing a job with you all.&lt;/p&gt;
+
+&lt;p&gt;After I graduated with GA WDI in the first week of September, I had a few days off visiting friends in Austin, Texas (first time, good memories) and then headed back to Hong Kong to begin my job search. There are about three types of companies that I could look into: 1) startups with fresh idea and team, 2) software development agencies, and 3) enormous advertising agencies with media work.&lt;/p&gt;
+
+&lt;p&gt;Each of them posts a different pros and cons list, and there isn’t a way to measure them without working in every single one. Thus, I went with my gut feelings, but first let me briefly run through what each of them is like. Startups (3-5 people team) are a tough land for Junior Developers, they tend to look for developers that are generalists with more experience. Even when the startups get up to 50 people, with a 7-8 people dev team, they’re still very reluctant in hiring a junior guy who requires lots of attention. Dev shops or agencies are in high demands, they usually receive a lot of projects, ranging from large big-name clients to small startup websites, thus they’re more willing to hire developers in different levels. The pros about dev shop are you will be in a high-pressure env with tight deadlines, forcing you to work smartly and to pick up new materials quickly, the con is that the deadlines discourage you to learn new exciting things you want to. Lastly, huge ad agencies, they definitely have the tightest deadline in all because they serve big-names. Most of their works are about creative and media, so it could be a touchscreen product for guests to play with at an opening event, or a digital directory placed in the mall. It will be an exciting place to work in if you’re into front-end and media work.&lt;/p&gt;
+
+&lt;p&gt;Yeah..I have a hard time choosing how to start my career as a Software Engineer. I ended up joining a software development shop called Favorite Medium (FM) with offices in San Fran, Seoul and Singapore (where I’m based now). A huge part of my decision was because of the diverse team FM has, the internatinal coverage, the fact that I’m directly chatting with the CEO since the very beginning, the confidence I have that I’ll be an important part of the company etc. Well, that means cultural and personal fit.&lt;/p&gt;
+
+&lt;p&gt;Today was exactly a month after I started, and I have been working on a project from front-end, back-end, to deployment. I have to handle everything myself, which is extremely stressful because I haven’t learned a lot of them! But wait, my goal right now is learn and practice, so afterall it is for my own good. From a ruby framework that’s not Rails or Sinatra (rare right?), to JavaScript animations, to API integrations, to AWS deployment… I really picked up a lot from doing this project, I’m also very thankful to have some helpful colleagues who constantly clear off my roadblocks.&lt;/p&gt;
+
+&lt;p&gt;That was my story for the past two months, it was stressful(!), especially this is my first job and I have to move to a new country. Nevertheless, I’m thankful that my tech journey has kept going strong. If you’re a person currently in a Web Development Bootcamp, feel free to share your story of job searching as well!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hack: How to Use Gmail with Custom Domain for Free</title>
+   <link href="http://kevonc.github.io/posts/hack-how-to-use-gmail-with-custom-domain-for-free"/>
+   <updated>2013-10-13T11:46:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/hack-how-to-use-gmail-with-custom-domain-for-free</id>
+   <content type="html">&lt;p&gt;When I checked Google Apps for Business last week, I found out that to set up your custom domain to use Gmail, you would have to pay 5 USD per month per user. It was no longer free! A year ago, I was using it for my startup and I remembered it could host up to 10 users for free. To figure out a way so that I can continue using Gmail for my own domain for free, I set out to hack it. And this is how I do it.&lt;/p&gt;
+
+&lt;p&gt;###Step 1
+Of course, to start off, you will need to register your own domain name. I use &lt;a href=&quot;http://www.namecheap.com/?aff=57162&quot;&gt;Namecheap&lt;/a&gt; because it is easy and it covers a lot of extensions, including my new favorite .us (which is only 3 USD per year).&lt;/p&gt;
+
+&lt;p&gt;###Step 2
+After getting your domain, let’s say yourcustomdomain.com here. You have to login into your Namecheap account and set the DNS to point to your own hosting server. I use &lt;a href=&quot;http://secure.hostgator.com/~affiliat/cgi-bin/affiliates/clickthru.cgi?id=bunkev&quot;&gt;Hostgator&lt;/a&gt; for years already because of its great customer service. I usually go on to their online chat and get my question answered within 5 minutes.&lt;/p&gt;
+
+&lt;p&gt;###Step 3
+Now, you need to register a new Gmail account to connect with your email from custom domain. This will be the account you access everyday. I created kevonishappy@gmail.com.&lt;/p&gt;
+
+&lt;p&gt;###Step 4
+Head back to Hostgator, log in to the control panel. Create new email account kevon@yourcustomdomain.com and set up email forwarder so that kevon@yourcustomdomain.com will forward all of its email to kevonishappy@gmail.com.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-ap-southeast-1.amazonaws.com/kevoncheung-blog/20131013-gmail-01.jpg&quot; class=&quot;full&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;###Step 5
+Really this is the last step, log into your Gmail account kevonishappy@gmail.com, and do &lt;strong&gt;Settings&lt;/strong&gt; -&amp;gt; &lt;strong&gt;Accounts&lt;/strong&gt;. Under &lt;strong&gt;Send mail as:&lt;/strong&gt;, click &lt;strong&gt;Add another email address you own&lt;/strong&gt;. A pop up window should come up and ask for more information, now enter your name (Kevon) and email address (kevon@yourcustomdomain.com). Leave the &lt;strong&gt;Treat as an alias&lt;/strong&gt; checked.&lt;/p&gt;
+
+&lt;p&gt;Next step you would want to choose &lt;strong&gt;Send through yourcustomdomain.com SMTP servers&lt;/strong&gt;. For SMTP Server: enter mail.yourcustomdomain.com. For Username and Password, enter your credentials for your kevon@yourcustomdomain.com. After that, simply go to your webmail, which is yourcustomdomain.com/webmail, and log in to verify the connection.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-ap-southeast-1.amazonaws.com/kevoncheung-blog/20131013-gmail-02.jpg&quot; class=&quot;full&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;###Final Words
+Now not only you receive all your emails from kevon@yourcustomdomain.com in your kevonishappy@gmail.com account, you can also send or reply email as kevon@yourcustomdomain.com! How amazing and cost-effective is that for a startup company? I hope this helps out anyone who has this trouble.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Few of My Favorite Gems</title>
+   <link href="http://kevonc.github.io/posts/few-of-my-favorite-gems"/>
+   <updated>2013-09-25T15:37:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/few-of-my-favorite-gems</id>
+   <content type="html">&lt;p&gt;It has been awhile since I last wrote a blog post. After WDI that ended early Sept, I have been exploring different opportunities and working on a project. It was a project that I was trying to do before taking WDI, and back then it would take me a lot of time to figure out one small function (because I would have no idea where to start). Now, I am able to put together the core functions relatively quick, and use more time fixing details and enhancing the app.&lt;/p&gt;
+
+&lt;p&gt;For the project, I used multiple gems to support the development, which included devise, omniauth, simple form, carrierwave, friendly_id, rabl, kaminari, active admin and fog. I wanted to talk about a few of them specifically.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/nesquena/rabl&quot; target=&quot;_blank&quot;&gt;Rabl&lt;/a&gt; is a popular gem for generating JSON, XML etc. The idea is to customize JSON representation when ActiveRecord “to_json” method does not provide the exact JSON you want. In my project, I have a class (say Book) that connects to multiple join tables (say Authors) , and if I get a json from the Book controller, the json does not return the authors of the book because it is stored in another table. I need the JSON to include the authors to perform specific JavaScript function.&lt;/p&gt;
+
+&lt;p&gt;Here is one way to do it - Telling the controller to render JSON that includes associated records.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;BooksController&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;ApplicationController&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;index&lt;/span&gt;
+    &lt;span class=&quot;vi&quot;&gt;@books&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Book&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;order&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;created_at desc&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;respond_to&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
+      &lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;json&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;render&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:json&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;vi&quot;&gt;@books&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;to_json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:include&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:author&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:only&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:firstname&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;
+      &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;But, the structure of the JSON is set in this case, which has a lot of layers (book.author.firstname). And I want it to format in a different way. To do that, I need Rabl to come to rescue.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;attributes&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:price&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;node&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;book&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:author&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;book&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;author&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;firstname&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;This way, you can construct a JSON with three keys (name, price, and author), and calling (book.author) will directly give you the first name of the author. It is quite a hack.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/norman/friendly_id&quot; target=&quot;_blank&quot;&gt;Friendly ID&lt;/a&gt; is particularly useful because most of the time, we would want the url to reprensent more meaningful subject (say the name of the book). It is not ideal to have the id in the url, such as localhost:3000/books/1. It is confusing. Using Friendly ID, you just need to add a column to your book table :slug. The slug will generated based on the name of the book and the url will become localhost:3000/books/harry-potter. Much cleaner right?&lt;/p&gt;
+
+&lt;p&gt;Every project I learn something new, which gem did you use recently? Share with me!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Write Your Own Quicksort Algorithm</title>
+   <link href="http://kevonc.github.io/posts/write-your-own-quicksort-algorithm"/>
+   <updated>2013-08-30T10:43:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/write-your-own-quicksort-algorithm</id>
+   <content type="html">&lt;p&gt;Week 11, we’re wrapping up the immersive program and getting ready for final project. This week was mostly Computer Science topics which included sorting algorithm which is very interesting in my point of view. There are &lt;a href=&quot;http://en.wikipedia.org/wiki/Sorting_algorithm&quot;&gt;a ton of sorting algorithms&lt;/a&gt; out there and all of them work, but the key is which one performs the sorting task faster. The popular ones are &lt;a href=&quot;http://en.wikipedia.org/wiki/Bubble_sort&quot;&gt;Bubblesort&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Insertion_sort&quot;&gt;Insertion Sort&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Bogosort&quot;&gt;Bogosort&lt;/a&gt; (the inefficient one), and of course, &lt;a href=&quot;http://en.wikipedia.org/wiki/Quicksort&quot;&gt;Quicksort&lt;/a&gt;. Ruby natively uses Quicksort. Here I want to show a sort function I wrote in JavaScript.&lt;/p&gt;
+
+&lt;p&gt;Before that, let’s talk about the concept behind Quicksort. The logic is basically pick a middle point (pivot), bring all the numbers lower than pivot to the left, and numbers larger than pivot to the right. This creates 3 arrays from 1 array. Then you run the same function to the 3 arrays again (this is called recursive function) until all the arrays each contains 1 number. It looks like this:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;13&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;9&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// 7 is pivot&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;13&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;9&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Run the same function on [4,1,2] with pivot of 1 and [13,9,8] with pivot of 9&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;[][&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;9&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;13&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Run the same function again on [4,2], this time the pivot is 2&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;[][&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][][&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;9&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;13&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// All sorted&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Did you see a pattern here? We’re running a recursive function that runs until all arrays have a length of 1. Let’s look at the code!&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;nb&quot;&gt;Array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;prototype&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;sort&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;nx&quot;&gt;less&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[],&lt;/span&gt;
+      &lt;span class=&quot;nx&quot;&gt;equal&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[],&lt;/span&gt;
+      &lt;span class=&quot;nx&quot;&gt;greater&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[],&lt;/span&gt;
+      &lt;span class=&quot;nx&quot;&gt;pivot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;pivot&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;parseInt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)];&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;++&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;nx&quot;&gt;num&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
+      &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;num&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;pivot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;less&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;num&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;pivot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;equal&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;num&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;pivot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;greater&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;less&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;sort&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;().&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;concat&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;equal&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;greater&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;sort&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;The code is self-explanatory, the if statement looks at the length of the array and determine whether to just return it (if there is only 1 number) or run down to split into 3 arrays (if there are 2 or more numbers). The focus should be on the last line where the less array and greater array are being sorted and all three arrays are added up and pushed up to the last layer, this way the recursive function can get back to the top layer and return the nicely sorted array!&lt;/p&gt;
+
+&lt;p&gt;Share with me your way of writing a Quicksort algorithm or a sorting algorithm you write in a different language. I would love to see them!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Project Kick with Data Visualization</title>
+   <link href="http://kevonc.github.io/posts/project-kick-with-data-visualization"/>
+   <updated>2013-08-13T08:15:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/project-kick-with-data-visualization</id>
+   <content type="html">&lt;p&gt;Ever since I’m exposed to two projects built by WDI alumni Larry Buchanan, I was determined to have a second project based on Data Visualization. What it means is extracting an enormous lot of data from somewhere, analyze them, and display the data in a way that an everyday person could understand. Great, the next step, the most difficult indeed, was to find the data. My partner Alina and I started out looking for datasets everywhere, and it was not an easy task. The data has to be formatted in a not-so-ugly way, and it has to be somewhat interesting. We began our project by researching on how to use &lt;a href=&quot;http://datamine.mta.info/&quot; target=&quot;_blank&quot;&gt;New York MTA API&lt;/a&gt;, but the General Transit Feed Specification (GTFS) was a little too much to take on at that moment, so we set out to work on another very exciting idea about &lt;a href=&quot;http://www.kickstarter.com/&quot; target=&quot;_blank&quot;&gt;Kickstarter.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Kickstarter only has a private API, whereas other crowd funding site like &lt;a href=&quot;https://www.crowdtilt.com/learn/developers&quot; target=&quot;_blank&quot;&gt;Crowdtilt&lt;/a&gt; offers a public API. However, we were only interested in the crowd funding giant and would not give up just because they don’t have an API. Scraping immediately came to our mind, and I literally spent the whole weekend writing up a quite-heavy rake task to scrape Kickstarter.com with Mechanize. The scraping part was not difficult, as Kickstarter provides metadata that is very recognizable DOM elements to Mechanize. The tough part was figuring out the actual URL i should tell Mechanize to do the job, as Kickstarter uses AJAX request to pull in data when a user scroll down, so HTML only displays the first 15 projects, not the ones that come in by AJAX. Here’s the trick, simple as it seems, pagination is a must have on many websites, so I simply placed a page number at the end of the url and all the pages are in front of my eyes immediately.&lt;/p&gt;
+
+&lt;p&gt;After scraping, another major task of ours was to analyze and display the data. We had spent more time working with D3 to display the data as it was our first time playing with it, thus we need to learn from scratch in a very short period of time. Therefore, our data analysis part was not very extensive but that’s a way to improve in the future. Working with D3 was harder than I thought, not only do I need a good Javascript foundation, but it was a nice (weird) concept to learn. The way D3 works is that you have to select elements that are not there yet, by doing so, you’re telling the program “Hey, my friends are not here yet, but let me reserve some seats for them!” A few articles about D3 that really got me off the ground are listed at the end of this blog post. I strongly recommend spending some time reading about D3, looking at what other developers did with it, and then play with it by creating simple rectangles and circles.&lt;/p&gt;
+
+&lt;p&gt;Those are the two main components of Project Kick (&lt;a href=&quot;http://projectkick.us&quot; target=&quot;_blank&quot;&gt;projectkick.us&lt;/a&gt;), and now is lesson time! After we had our rake task to scrape the entire Kickstarter site, we had a database filled with raw data, and they are not directly useful to D3 because it is best for D3 when the entire dataset is formatted nicely. The challenge we faced was turning the raw data into an useful set of data specifically for D3, and so we had to write another rake task to populate extra tables for formatted data. My recommendation on that is to do it the other way around, figured out what data is needed in D3’s standpoint, and extract data based on that. Of course, we only had a week of time to actually learn so many new things, so we wouldn’t be able to accomplish that.&lt;/p&gt;
+
+&lt;p&gt;Looking at the code now, there are a ton of rooms for improvement. Nevertheless, I’m extremely happy and proud of the project given the production time of one week. I’m excited to show this to everyone and even people at Kickstarter! I slowly come to realize that I enjoy front-end work more, and it is a good sign that I’ve figured out! On a side note, my personal website &lt;a href=&quot;http://kevoncheung.com&quot; target=&quot;_blank&quot;&gt;kevoncheung.com&lt;/a&gt; has finally come to life. It is very simple but good enough at this point as version 1.0.&lt;/p&gt;
+
+&lt;p&gt;###Appendices
+####Larry Buchanan’s Projects
+#####&lt;a href=&quot;http://www.newyorker.com/sandbox/business/citi-bike.html&quot; target=&quot;_blank&quot;&gt;http://www.newyorker.com/sandbox/business/citi-bike.html&lt;/a&gt;
+#####&lt;a href=&quot;http://www.newyorker.com/sandbox/business/ncaa.html&quot; target=&quot;_blank&quot;&gt;http://www.newyorker.com/sandbox/business/ncaa.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;####D3
+#####&lt;a href=&quot;http://mbostock.github.io/d3/tutorial/bar-2.html&quot; target=&quot;_blank&quot;&gt;http://mbostock.github.io/d3/tutorial/bar-2.html&lt;/a&gt;
+#####&lt;a href=&quot;http://bost.ocks.org/mike/join/&quot; target=&quot;_blank&quot;&gt;http://bost.ocks.org/mike/join/&lt;/a&gt;
+#####&lt;a href=&quot;http://thecodingtutorials.blogspot.com/2012/07/introduction-to-d3.html&quot; target=&quot;_blank&quot;&gt;http://thecodingtutorials.blogspot.com/2012/07/introduction-to-d3.html&lt;/a&gt;
+#####&lt;a href=&quot;http://www.fascinatedwithsoftware.com/blog/post/2012/09/01/Visualizing-Data-with-D3.aspx&quot; target=&quot;_blank&quot;&gt;http://www.fascinatedwithsoftware.com/blog/post/2012/09/01/Visualizing-Data-with-D3.aspx&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>When Front-End Meets Back-End</title>
+   <link href="http://kevonc.github.io/posts/when-front-end-meets-back-end"/>
+   <updated>2013-08-01T23:08:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/when-front-end-meets-back-end</id>
+   <content type="html">&lt;p&gt;I was extraordinarily joyful today, mainly because I finally came to experience when front-end development crossovers back-end development. After seven weeks of focusing on each topic from Ruby, to HTML/CSS, to Sinatra, to Database, to Rails, to Javascript, to jQuery, to Ajax… now I can experience the beauty of web development. I know I haven’t written a technical post for a long time, so I would like to introduce a work flow I’ve been working on today.&lt;/p&gt;
+
+&lt;p&gt;Developers use Ajax to send requests to server and to make changes to the page without any page reload. With Rails, I’m able to send post requests through Ajax and retrieve records from database.&lt;/p&gt;
+
+&lt;p&gt;###Step 1: Use jQuery to do Ajax call
+Define a click function that calls to Ajax and perform a ‘put’ to update the database. Notice for “task.id”, I’m getting back the id from the task object.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;completeButton&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;&amp;lt;button class=&amp;quot;complete&amp;quot;&amp;gt;complete&amp;lt;/button&amp;gt;&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;completeButton&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;click&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ajax&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
+      &lt;span class=&quot;nx&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;put&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;nx&quot;&gt;dataType&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;script&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+      &lt;span class=&quot;nx&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;/complete/&amp;#39;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;task&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;id&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;###Step 2: Define a complete method in controller with Ruby on Rails
+I’m finding a task record based on its id and changing its completed column (boolean) from false to true, then I call a respond_to to provoke the next javascript action.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;  &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;complete&lt;/span&gt;
+    &lt;span class=&quot;vi&quot;&gt;@task&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Task&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;find&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;params&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;vi&quot;&gt;@task&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;update_attribute&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:completed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+    &lt;span class=&quot;n&quot;&gt;respond_to&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
+      &lt;span class=&quot;nb&quot;&gt;format&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;js&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;###Step 3: Continue the action with jQuery
+In my views folder, I have complete.js.erb with the following code and remove the appropriate task once respond_to in controller calls. This continues to execute javascript action even after Ajax call.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;task&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;li[data-id=&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;%=&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;task&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;id&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&amp;gt;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;]&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;task&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;remove&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;My short example summarizes the way Javascript interacts with Rails and this crossover definitely will expand the possibilities for my future projects even more. I’m sure this is just a small part of what front-end and back-end can do together, but I’m excited enough. With project two coming through, I’m looking forward to have a project that is useful to New Yorkers and surrounds data analytics and visual display.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Power of Javascript</title>
+   <link href="http://kevonc.github.io/posts/the-power-of-javascript"/>
+   <updated>2013-07-28T10:02:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/the-power-of-javascript</id>
+   <content type="html">&lt;p&gt;Week 6, Javascript week. After this week we are half way through the program, and what bugs me the most is that I still want to learn a ton of things in this short period of time. I want to be good at JS and write elegant scripts in Coffeescript, and I want to get familiar with Ajax to make requests, and … and.&lt;/p&gt;
+
+&lt;p&gt;I have learned the basics of JS before, but I totally forgot what it is like. I am able to perform a few click and fadeIn effects in jQuery, and that’s all I can do. This time I’m starting from scratch and with the Ruby knowledge, I get familiar with JS in a fairly reasonable speed. I am starting to see bits in this uglier language (compared to Ruby), and how pieces come together. One lab I did over the past 2 days was a Hangman game wrote in Javascript (no jQuery yet), and I utilized the &lt;a href=&quot;http://underscorejs.org/&quot; target=&quot;_blank&quot;&gt;Underscore library&lt;/a&gt; to simplify codes and &lt;a href=&quot;http://raphaeljs.com/&quot; target=&quot;_blank&quot;&gt;Raphael library&lt;/a&gt; to draw. With the two amazing libraries, I finished the Hangman Challenge with satisfaction! &lt;a href=&quot;http://kevoncheung.com/anecdotes/hangman/&quot; target=&quot;_blank&quot;&gt;You can visit the game here!&lt;/a&gt; Lets talk about challenges of this game and what I learned from it.&lt;/p&gt;
+
+&lt;p&gt;1) The Logic Flow: To create a game that is user-friendly, I’ve to think about the flow carefully about what functions to write and where they belong. For example, I need a makeGuess function as well as checkLetter, checkWin, checkLose etc. By the end of the game, I have about 20 functions that each perform different task, and some of them are connected to each other. I definitely recommend listing out all the functions to build a structure of the entire game first, and then go into each function and write the code.&lt;/p&gt;
+
+&lt;p&gt;2) Debugging: I forgot how many times I bumped into errors and got stuck in the process of writing this game (because there are too many), and I’ve seen other coursemates got stuck in the logic loop and did not know what to do. A practice of mine helps a ton, and everytime I see errors popping out of my console, I’m excited more than confused, because errors are the best in guiding me through to solve the problems! You will know its worse to have no errors popping out but your game is not working. This practice is nothing special, but it does save me time and lead me step by step to the finish line. After writing specific functions out, I tend to drop a console.log in the window.onload script and let it prints out results everytime I load the page. If its an anonymous function, let it run; if it takes parameter, place in a suitable argument for now and revisit later. As it goes on, I will have all the things I want printed out in console neatly, and I would know what to do next.&lt;/p&gt;
+
+&lt;p&gt;A very important point I would like to stress is don’t be offended by writing a function that you have no idea would perform. A coursemate of mine had a question another day, he was confused why we couldn’t just write big chunk of code in sequence, instead we went through trouble writing functions that take in a parameter (but we have no idea what parameter will get passed in). He is lost because without a specific set of data to get processed, it is hard to write functions. In fact, when you write functions, you should just imagine what kind of parameter should go in, and place data or variable that fit the function in your mind temporarily. Say you are writing up a function to make guesses for Hangman, you are likely to have&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;makeGuess = function(guessedLetter) {...}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;, what does guessedLetter mean? You will never know because it is a “user input”! But for now, you can just imagine it is the letter “a”. After you finish coding it up, console.log(makeGuess(“a”)) to see what comes out. Bingo. Move on to the next challenge.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>No CRUD App</title>
+   <link href="http://kevonc.github.io/posts/no-crud-app"/>
+   <updated>2013-07-24T23:27:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/no-crud-app</id>
+   <content type="html">&lt;p&gt;Finally, I heard someone saying this, “Don’t build a CRUD app!” It was David, the guy who is leading GA engineering team, who said that. I cannot agree more to this statement when it comes to deciding what project WDI students should build, and that’s exactly what I did in my first project. I created &lt;a href=&quot;http://thefinale.herokuapp.com/&quot; target=&quot;_blank&quot;&gt;The Finale&lt;/a&gt; which is a music game that players have to choose the genre for the songs. The main reason why I decided to go for a game was because I did not want to build a CRUD app. CRUD app (create, read, update, and destroy) means an application that stores in data and display it back, and 99.999% of CRUD apps are user-generated content with no algorithm in behind. Therefore, it basically means anyone could build it, and there is no programming challenge.&lt;/p&gt;
+
+&lt;p&gt;I am still a little disappointed about my first game because even though it is a game, there is no algorithm in the back end. It is purely just a multiple choice engine. If any of you decides to go into a coding program, make sure you come with some ideas of what to build. Don’t approach this with a startup mindset, because lots of business ideas just require a CRUD app and then all you need to do is go out and get users. Think of something that could make use of data, analysis, and computation. Maybe a grahpic pretty way of displaying populations, or a special ranking system for soccer teams. It is when creativity kicks in … it’s time for me to squeeze out those creative juice as well.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>First Hackathon Experience</title>
+   <link href="http://kevonc.github.io/posts/first-hackathon-experience"/>
+   <updated>2013-07-22T19:14:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/first-hackathon-experience</id>
+   <content type="html">&lt;p&gt;For the past 2 days, I’ve experienced my first ever Hackathon through a hardcore 30 hours coding session. The Hackathon, &lt;a href=&quot;http://battlehack.org/new-york/&quot; target=&quot;_blank&quot;&gt;Battle Hack New York&lt;/a&gt;, was hosted by Paypal and the winner will compete in the World Finals in San Jose. For me and three other WDI coursemates, our mission was not to win any prizes; our goal was to participate, learn, and have fun. It was quite an experience for a junior developer, thereby I would like to share bits of it with everyone.&lt;/p&gt;
+
+&lt;p&gt;To kick it off on Saturday morning 9AM, everyone, which means developers, designers, and entrepreneurs, arrive and has a chance to pitch his or her idea by recording a short video. Based on the videos, the rest of the crowd would be able to form teams and started hacking right away. The WDI crew decided to work together because we wanted to build a product together through this first experience, and our idea was a parking spot sharing web app that allows anyone to price tag his parking spot for other users. We splitted up the work, Teddy was in charge of hooking up the Google Map API, Wesley was the front-end designer, whereas Zach and I engaged ourselves in applying the Paypal, Twilio, and Sendgrid APIs.&lt;/p&gt;
+
+&lt;p&gt;Tasks were allocated, so we started coding right after lunch. The first few hours was painful as the Paypal API was incredibly tough to implement, and we had to make a couple of trips to get assistance from many people, including &lt;a href=&quot;https://twitter.com/YayNickQ&quot; target=&quot;_blank&quot;&gt;Nick&lt;/a&gt; from Sendgrid and &lt;a href=&quot;https://twitter.com/jonmarkgo&quot; target=&quot;_blank&quot;&gt;Jonathan&lt;/a&gt; from Twilio. If you ask me what’s the biggest thing I got out of this hackathon, I would tell you that we got familiar with a ton of APIs (the four above). After exhausting ourselves with tired eyes in the freezing room, the organizing team suddenly rushed into our room and announced that we’ve won the Best Idea Award with the parking spot app! It was unbelievable, shocking, and even overwhelming to learn about that because now, we are responsible to build a great product by tomorrow, as people are watching us! That thought passed through my mind but soon enough I was back to the excitement, celebrating our victory (haha) of winning four quad-copters among ourselves. The filming crew was absolutely fantastic as they came by many times to interview us about our experience, and we loved to share the journey with the rest of the world, with whoever wanting to start diving into software development.&lt;/p&gt;
+
+&lt;p&gt;Happy hours always flew fast, and all of a sudden it was past midnight and we did not get a lot of work done. I basically focused on connecting our application with &lt;a href=&quot;http://www.twilio.com/&quot; target=&quot;_blank&quot;&gt;Twilio&lt;/a&gt; and &lt;a href=&quot;http://sendgrid.com/&quot; target=&quot;_blank&quot;&gt;Sendgrid&lt;/a&gt;. I was pretty grateful that the two APIs were so much easier to implement than the Paypal API. Taking a short break by walking around NYC Alley became a routine and I saw many after many passed out on couches, whereas the luckier ones took spots in the nap center with air mattress. I was crashing by around 4AM and had to take an hour and half to recharge, when I returned at 6AM, that was when we started sprinting towards our finished product.&lt;/p&gt;
+
+&lt;p&gt;Everyone was working hard on his own parts, and we practiced a ton of git commands, finally came to realize how hard it is to do collaborative programming. The product slowly came together and we were feeling great about what we were able to build in the past 20 hours or so, considering we were only programming for five weeks. Not to our surprise, our story actually attracted people and the Paypal team was extra friendly to us, the media interviewed our story, and &lt;a href=&quot;https://generalassemb.ly/&quot; target=&quot;_blank&quot;&gt;Generally Assembly&lt;/a&gt; actaully tweeted about us. To that point, we already made a pretty huge accomplishment in our part and we were happy to check out other people’s projects and to learn from them.&lt;/p&gt;
+
+&lt;p&gt;To wrap up my experience, I totally had a ton of fun at the hackathon. Everyone who wants to become a developer should totally participate in hackathons in any way. Even though our product was not quite up to standard, but it was beautiful in our eyes. I also came to realize the requirement of winning this kind of competition is to have high coding abilith. The idea does not matter as much in a hackathon, though it does matter in a startup competition. In a hackathon, the ability to demonstrate skills and to represent the city to join the World Finals was a big part. However, there is no need to get discourged by that because winning is not the major part of the experience. What I’ve learned in that 30 hours far exceeded anything, and not to mention we won quad-copters, raspberry PI, and a couple free tees!&lt;/p&gt;
+
+&lt;p&gt;After I went home, I passed out around 9PM on Sunday and slept til 8AM the next morning. It was an amazing sleep. I hope this sharing will tempt you enough to participate in the next hackathon near you.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Get Started Early and Go Full Speed</title>
+   <link href="http://kevonc.github.io/posts/get-started-early-and-go-full-speed"/>
+   <updated>2013-07-16T08:57:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/get-started-early-and-go-full-speed</id>
+   <content type="html">&lt;p&gt;Week 5. First project started. Before coming into WDI, I’ve had an idea that could solve my own problem - an app that allows users to mark down their favorite attractions and restaurants in a city and efficiently pin all the places on the map, so that they can share with friends who ask for recommendations, and friends can schedule to visit places in the same area. I thought it was a great idea using Foursquare API, until I found out Foursquare actually possesses this functionality that I had to come up with a new idea. I wanted to build an app that was slightly different than what we’ve been building in class. The app should not just be a CMS system getting input from users (because for this kind of project, who are the users really?), and the app should not just display information extracted from an API. After giving some thoughts, I decided to build a game in which users can explore new music while having a little fun. I call it - The Finale.&lt;/p&gt;
+
+&lt;p&gt;Browsing around the Soundcloud API, I noticed a couple expectations not being met. The major downside was Soundcloud took away the function where developers can extract the hottest songs from the site, thus only the latest songs created by individuals can be used. That being said, a game to guess the artist of the song would not be possible becaues all the songs are by unknown people. Also, I have to use jQuery to perform some functionalities for a game like this. We haven’t learned any jQuery in class, but through my own study on Codeschool and other textbooks, I had a pretty good understanding of how it is structured. Programming languages are fairly similar, so once you get the grisp, you can handle any language with a bit of practicing.&lt;/p&gt;
+
+&lt;p&gt;Okay, enough of what I’m currently working on. The point I want to stress for any future students of coding school is to start early, and to go hard on pre-work. Don’t expect that a 12-week course will equip you to be the best programmers, you have to give a ton of time and effort to achieve that. There are a ton of well-organized resources online to get you very familiar with the languages  and frameworks, so utilitze these free resources to get yourself a jump start in the immersive course. That way you don’t fall behind and accumulate your problems. In your first project, you will begin to use jQuery, Bootstrap, some gems like Devise and OmniAuth etc.&lt;/p&gt;
+
+&lt;p&gt;Another deadly important advice I want to give is please appreciate trial and error. I’ve always like Math more than English or Literature because there is a definite answer to every question, and it is only the matter of how many times you try before you find success. Programming is the same, the more you play around with your code, the better you get, the more experience you acquire. If you’re stuck and can’t figure out the next move, play with it, StackOverflow it, Google it, and finally grab a mentor to ask. Don’t rely heavily on your instructors for help because then you will never be able to find the answer yourself!&lt;/p&gt;
+
+&lt;p&gt;I will soon to get back to writing some technical post, please stay tuned!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why You Should Take An Immersive Coding Course</title>
+   <link href="http://kevonc.github.io/posts/why-you-should-take-an-immersive-coding-course"/>
+   <updated>2013-07-12T07:39:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/why-you-should-take-an-immersive-coding-course</id>
+   <content type="html">&lt;p&gt;Today is Week 4 Day 5, and I cannot believe one third of the course has gone by so quickly. I’ve gathered a list of technical topics I want to share, but I can’t seem to find the time to write about them because I’m constantly working on my applications. Today I am going to talk about the difference between learning coding at home using online resources versus taking an immersive course with instructors and other students. I feel that a lot of people also have this concern in mind, “Hey, the course is so expensive, is it worth it?”&lt;/p&gt;
+
+&lt;p&gt;I self taught myself how to code a few months before I enroll into WDI at GA, so I took countless codeschool or codeacademy exercises, read about ten books about different topics such as Ruby, Rails, jQuery etc, did a few tutorials, and built a few simple app with Rails. I did not know how much I taught myself until I’m writing this blog post right now. Nevertheless, I still decided to join an immersive course in New York because they provide experience you’ll never get on your own. I constantly ask myself, “Is this the right decision?”, and to be honest, I was asking myself the same question in Week 1 because I have seen or tried writing so much code in the past few months that learning from the basics seem like learning algebra 2 again.&lt;/p&gt;
+
+&lt;p&gt;So we started off the course learning Ruby, then Sinatra, and now Rails with a bunch of small topics in between. I slowly realized I was wrong. Teaching myself really did get me a jump start to start building with the help of Rails and the dozens of gems out there, but I never really truly understand what each line does. Learning from basics got me thinking, even a simple Ruby program or a Rails app without scaffold become good practice for me. Yesterday I was helping another student for about an hour and half with his Rails app, and do you know how I felt? I felt like a ninja because I understand the connection between codes in Model, View, and Controller! I’m able to explain and guide someone else.&lt;/p&gt;
+
+&lt;p&gt;Learning from basics and getting plenty of practice is just one reason why I would recommend taking an immersive course. The other reasons kicked in this week as we had a panel of Rails developer coming in to speak about their experience and career journey, and give legit advice on how to get there. We also had a field trip yesterday to a New York Startup called &lt;a href=&quot;http://www.howaboutwe.com/&quot; target=&quot;_blank&quot;&gt;How About We&lt;/a&gt;. I’ve been to the website before and I thought it is a young startup with maybe 10 employees max, and I was truly impressed when I walked in I to room  of about 30 people (thats just half of them). The best part is yet to come, &lt;a href=&quot;http://wearenytech.com/66-aaron-schildkrout-co-founder-and-co-ceo-of-howaboutwe-com&quot; target=&quot;_blank&quot;&gt;CEO Aaron Schildkrout&lt;/a&gt;, gave us a talk about development process which starts from ideation, to quarterly evaluate new ideas, to how design and development team have sprints to carry out production. I was smiling the whole time simply because I was amazed with all these things, I was fascinated! I’ve always been interested in startup and there is so much knowledge out there I want to learn. I thought to myself, “This is exactly the environment I want to be in, and this is exactly the process and work I love.” Leaving their office with tons of enlightenment, I know I picked the right path that I love, and I know I made a good decision joining an immersive course because it opens up more knowledge to me than sitting in front of my laptop at home every day.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Migration to Octopress</title>
+   <link href="http://kevonc.github.io/posts/migration-to-octopress"/>
+   <updated>2013-07-07T08:47:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/migration-to-octopress</id>
+   <content type="html">&lt;p&gt;When I first thought of blogging about my tech adventure and sharing some code, I considered Wordpress and Tumblr because of their powerful system and following function respectively. I went with Tumblr because it was a bit more simple to use, until I started putting code in my blog post and everything got messy.&lt;/p&gt;
+
+&lt;p&gt;As I go on my tech journey, I found out about Octopress which is a blogging framework for hackers. It does take some technical skills to install and get it running, but it is the perfect blogging system to share code. Therefore, it’s time to transfer my blog posts from Tumblr to Octopress. A few reasons why as a hacker, you should also use Octopress.&lt;/p&gt;
+
+&lt;p&gt;###1. Require no database, load in lightning speed
+Each blog post in Octopress is stored in individual markdown file, which is essentially text file. There is no need to go into database and grab data, thus it is ideal for blogs that only consist of text blog post.&lt;/p&gt;
+
+&lt;p&gt;###2. Syntax detection for code
+When you share code, you can specify a code block and define the language you’re writing. The syntax automatically matches in the outcome. Fabulous.&lt;/p&gt;
+
+&lt;p&gt;###3. Use Git to deploy
+Only one line of command is required to generate a new blog post, then go into Sublime Text to write it. And another line of command to deploy. Can you tell me an easier way than this?&lt;/p&gt;
+
+&lt;p&gt;###4. Free hosting by Github Pages
+Octopress can be hosted on Github Pages with no cost, it is because all the markdown files do not take up a lot of space. It is very nice of Github to offer us hackers this service!&lt;/p&gt;
+
+&lt;p&gt;If you’re ready to launch your own Octopress blog now, &lt;a href=&quot;http://www.moncefbelyamani.com/how-to-install-and-configure-octopress-on-a-mac/&quot;&gt;check out the documentation here&lt;/a&gt;. The official one has error in it.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sass and Active Record Take The Stage</title>
+   <link href="http://kevonc.github.io/posts/sass-and-active-record-take-the-stage"/>
+   <updated>2013-07-04T19:58:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/sass-and-active-record-take-the-stage</id>
+   <content type="html">&lt;p&gt;Happy July 4th! To do web development, sometimes it’s nice to get away from the computer and relax mind and body from coding for awhile. However, today I feel that I don’t need a break yet and would like to boost my learning, so I dive into Sass for the afternoon. The reason I pick Sass is because Sass is built into Rails, so that it is easier to implement than LESS. If you haven’t heard of Sass, it stands for Syntactically Awesome Stylesheets, which is an extension to CSS3 to make building stylesheets simple, fast, and fun.&lt;/p&gt;
+
+&lt;p&gt;I have played with Sass before, mostly setting variables and nesting. Today I learn more about parent selector, a bunch of color utility functions, writing conditional statements, and many more! It is truly powerful if you have experienced the pain of writing repetitive code in CSS, and not just that, the flexibility Sass provides makes the front-end design of the webpage consistent.&lt;/p&gt;
+
+&lt;p&gt;In CSS, if you have two classes, say .bagel and .croissant, and they both have the same background-color and border, you usually copy and paste the exact code into both class like this.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nc&quot;&gt;.bagel&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;border&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1px&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;solid&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#fff&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;nc&quot;&gt;.croissant&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;border&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1px&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;solid&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#fff&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;red&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Now with Sass, you can either use mixin (@include) or just @extend to incorporate the styles.&lt;/p&gt;
+
+&lt;p&gt;Using mixin:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-scss&quot; data-lang=&quot;scss&quot;&gt;&lt;span class=&quot;k&quot;&gt;@mixin&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt; breakfast&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+ &lt;span class=&quot;na&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mh&quot;&gt;#000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+ &lt;span class=&quot;na&quot;&gt;border&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;px&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;solid&lt;/span&gt; &lt;span class=&quot;mh&quot;&gt;#fff&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;nc&quot;&gt;.bagel&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;@include&lt;/span&gt;&lt;span class=&quot;nd&quot;&gt; breakfast&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;nc&quot;&gt;.croissant&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;@include&lt;/span&gt;&lt;span class=&quot;nd&quot;&gt; breakfast&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+ &lt;span class=&quot;na&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;red&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Wonderful.&lt;/p&gt;
+
+&lt;p&gt;Also, I would like to talk about Active Record today. Having been doing SQL for the past few days, I am not tired of it but I know there is a better way to interact with the database. Early this week Active Record was introduced, and there was no looking back to SQL. Official farewell to SQL.&lt;/p&gt;
+
+&lt;p&gt;I played around with Active Record for my assignment yesterday and finally came to realize the power of AR, it was so so smart. Multi-lines of code instantly becomes one line. When you are grabbing params from a form, it knows everything you’re doing and you can simply pass in (params) and done! The methods provided are also useful, such as find by, select, destroy etc. Knowing how to use AR, the time to “Rails” will arrive in no time! Can’t be more excited!&lt;/p&gt;
+
+&lt;p&gt;Once again, Happy Independence Day!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Debate over Use of Bootstrap</title>
+   <link href="http://kevonc.github.io/posts/debate-over-use-of-bootstrap"/>
+   <updated>2013-07-02T19:58:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/debate-over-use-of-bootstrap</id>
+   <content type="html">&lt;p&gt;On Day 1 of Week 3, the course started introducing styling with CSS, and it definitely turns all of my programs appealing. With previous experience handling CSS, I jumped into using Bootstrap to style my simple program. Some course mates debate that using external resources is not “your own work”, but I have a different perspective towards using external stylesheets.&lt;/p&gt;
+
+&lt;p&gt;In my point of view, hand styling for our course material serves as a practice for a lot of the students who just get introduced to the world of CSS. They need to understand the elements such as div, span, headings, paragraphs etc. For me, these tiny class assignment programs are better off using Bootstrap to reduce production time because not many people will get to see the product. Once it gets to final projects or websites that get to the eyes of audience, hand styling and customization are required. I’ll even consider using Bootstrap for my personal website, as long as enough customization is carried out.&lt;/p&gt;
+
+&lt;p&gt;Another note I want to make here is I’ve been trying to set a background image on div, but after dozens of attempt in different applications, I still fail to display an image at the background. Color works though, and that is weird. Furthermore, I’m definitely not a master in CSS, I am looking forward to pick up more CSS3 tricks including transition, animations, and effects. CSS3 surely replaces a lot of jobs that previously need to be done with jQuery and it’s just fascinating.&lt;/p&gt;
+
+&lt;p&gt;Transition is one of my favorites, and here is one example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;#id {
+ -webkit-transition: all 0.2s ease-in-out;
+ -moz-transition: all 0.2s ease-in-out;
+ -o-transition: all 0.2s ease-in-out;
+transition: all 0.2s ease-in-out;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Another interesting CSS to target just external links:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;a[href^=&quot;http&quot;] {
+style all you want;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;You might wonder, what? The same animation takes up four lines of the same code? You’re right. That’s because it caters to different browsers. Webkit is the browser engine used by Chrome and Safari, Mozilla is used by Firefox, -o is for Opera, and sometimes you see -ms which is for Internet Explorer. In the future, when you want to use border radius or effects, remember to serve all your audience with different browsers well :)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Appreciation</title>
+   <link href="http://kevonc.github.io/posts/appreciation"/>
+   <updated>2013-06-29T19:57:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/appreciation</id>
+   <content type="html">&lt;p&gt;Week 2 has come to an end, and I name the past five days the Week of Appreciation. So far it has been a journey from ground zero, kind of like starting from a kindergarden and slowly migrate to primary school then secondary school. We have picked up ruby, html, sinatra, and postgresql. I am thankful that I get to learn from the basics because that is something I couldn’t really do by myself. Flashback to the beginning of 2013, I taught myself how to build simple website with ruby on rails, and it was a tough road. I document my progress here. Yeah great, it was amazing, the site looks great because I know html and css. But what is the secret sauce inside? I had no clue back then, and that’s why I’m so so so grateful that I get to learn from the basics, it definitely shapes the concept 200 times better. I don’t want to just follow tutorials and build things, I want to truly understand each line of code and what it does, that’s what a true developer does.&lt;/p&gt;
+
+&lt;p&gt;PostgreSQL was easy to use with Rails. Simply rails generate bla bla bla and set each column and its type, BOOM, DONE! I didn’t know a line of SQL, and this past week I built a few programs that wrote SQL to create, read, update, and delete data from database. SQL is annoying but it is amazing. I finally get to realize.&lt;/p&gt;
+
+&lt;p&gt;Another thing I want to reflect on is debugging. Throughout the course, I’ve been debugging my own program every single day, and I have helped a few other students to find out what is interrupting the program to run properly. Debugging makes the lesson more meaningful, and helping other students really help me to grasp the concept better and be able to explain it in an easy-to-understand way. I believe this is also an essential element being a developer.&lt;/p&gt;
+
+&lt;p&gt;17% of the course is done. I’m feeling extremely good about it. The goal of next week is to do more self-study outside classroom, perhaps building something using API from my favorite app Instagram. Cheers.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Who Qualify as a Web Developer?</title>
+   <link href="http://kevonc.github.io/posts/who-qualify-as-a-web-developer"/>
+   <updated>2013-06-25T19:57:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/who-qualify-as-a-web-developer</id>
+   <content type="html">&lt;p&gt;I started picking up Web Development materials since the beginning of 2013, and I think I know quite a lot of resources out there that are available to use. I started building simple application, but more or less just a cms webpage, it was not something that requires a lot of engineering. I can make Wordpress websites that look good, and I can use Bootstrap or gem to make things happen. But the problem is, I cannot code a program from scratch…&lt;/p&gt;
+
+&lt;p&gt;Week 2 strikes me, from ruby to sinatra framework, I learned how to hand code the simplest web pages I’ve ever seen. What strikes me is that I dont think anyone can call himself a Web Developer unless he can code from scratch, and using external resources does not count. Nowadays, lots of people can build websites in a short period of time, lots of people know how to use templates, and lots of people can pretend they are Web Developers! I never called myself a Web Developer when I’m learning, simply because I don’t think I am qualified yet. After 7 days at WDI, with hand coding program, I finally feel like a Web Developer. I finally can talk like a developer, and think like one.&lt;/p&gt;
+
+&lt;p&gt;Today I also spent some time browsing around AngelList and noticed a lot of startups are hiring devs. These companies all have pretty brilliant ideas to work on, to disrupt the industry and create value. I was fascinated by the opportunities out there.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>First Program after A Week</title>
+   <link href="http://kevonc.github.io/posts/first-program-after-a-week"/>
+   <updated>2013-06-25T19:56:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/first-program-after-a-week</id>
+   <content type="html">&lt;p&gt;It has been awhile since I wrote my last blog post, and this is because I was spending a lot of time building my first legit ruby program, a stock exchange simulator that allows clients to purchase stocks with real-time market price for multiple portfolios. This program really pieces all the ruby concepts together for me, a better use of arrays and hash, a lot of if else statements, and a lot of methods. The most challenging part of the program is how to do Test Driven Development and write codes that are easy to read and maintain, and I certainly can improve my codes by adding in helper method. If you would like to check out my source code, please visit Stock Exchange on my Github.&lt;/p&gt;
+
+&lt;p&gt;Other than working on the Stock Exchange program, I also attended my first meetup in NYC with Code Crew! On a beautiful Sunday afternoon, a bunch of developers, new or experienced, gathered in a bar on the 34th street and shared information. I met a few new friends and found out that one of the organizers was actually an alum at our WDI program! This meetup is useful in a sense that experienced developers can share what tools they use to speed up the development time, or even sit together to hack for a bit. It was a fantastic gathering and I’m happy to be part of it in this city.&lt;/p&gt;
+
+&lt;p&gt;Okay, and this is week 2 already, now we are picking up HTML, CSS, and Sinatra. This must be an easy week for me since I have been playing with HTML/CSS since I was 14 or 15 years old, and Sinatra I’ve heard a lot about it before, but since I’ve been using Rails, I never really used it. It’s not a difficult framework to implement anyway.&lt;/p&gt;
+
+&lt;p&gt;What I’m looking forward this week is tonight there will be another meet up called Hack Fest, where about 75 people come together and hack together! Also, I plan to join a Hackathon this weekend to just get more exposure to real projects. It will be fun, I know! I’m so excited.&lt;/p&gt;
+
+&lt;p&gt;During this past weekend, I was actually looking forward to Monday where I can be learning and coding again. I mean, this feeling never hit me, or anyone I’m sure, in school! This is what it feels like when you’re doing something you love, and you don’t mind doing more of it! I’ve always known that I have a passion for web development (otherwise why would I be putting together websites when I was 15?), but this moment was still magical!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I'm Object-Oriented</title>
+   <link href="http://kevonc.github.io/posts/im-object-oriented"/>
+   <updated>2013-06-21T19:56:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/im-object-oriented</id>
+   <content type="html">&lt;p&gt;Day 4 was introduction to Class and Module, where Object-Oriented Programming kicked in. Along with functions, hash, and arrays, I was able to build a simple story-like program to perform tasks. Throughout the day it was exercises for scenarios where I had to create a class, drop a new object in there, the object has either hash or arrays, and another object is associated with that hash. It was a lot to take in. Even though I had a pretty good understanding to ruby bits, I was still struggling to piece the whole set of problem together. That was exactly why I enrolled WDI - to train my logical thinking. What I did eventually was writing down the story flow and tackling one after another, it was really helpful as I cruised through the problem.&lt;/p&gt;
+
+&lt;p&gt;One big note to myself was how to remove an object in a hash, the method being&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;hash.delete(:key)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;instead of using&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[:key]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;, it was because using key will signal ruby that delete was the hash when it wasn’t.&lt;/p&gt;
+
+&lt;p&gt;Another note was when printing out data was needed, using a hash is preferable to using an array.&lt;/p&gt;
+
+&lt;p&gt;This journey was definitely not just about coding, it was also about helping other students who struggled. As a student who had self-taught for a few months, I’ve been truly satisfied helping out others who have only been coding for 4 days. As my instructor said, teaching is a way of learning too!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>More Ruby Bits &amp; First Lab</title>
+   <link href="http://kevonc.github.io/posts/more-ruby-bits-and-first-lab"/>
+   <updated>2013-06-20T19:55:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/more-ruby-bits-and-first-lab</id>
+   <content type="html">&lt;p&gt;We continued to explore more ruby basics, introducing function, array, hash, and block. They are pretty simple bits to use when writing a program, yet the difficult part is understand how you can use them efficiently. To do that, one has to learn the list of methods associated, for instance, creating an array is no-hard task, but what can we do with an array? Select, reject, flatten, inject, uniq, shuffle, sample……. so many methods that it will take some time to digest! We haven’t done inject in class today, but from my research, it is a more complicated method yet truly rewarding! A simple task it could do is add up the numbers in array by simply injecting (0). I’m also amazed what inject can do, say if we want to convert keys to be strings and change names to be lowercase:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;hash = [[:first_name, 'Kevon'], [:last_name, 'Cheung']].inject({}) do |result, element|
+  result[element.first.to_s] = element.last.downcase
+  result
+end
+
+hash # =&amp;gt; {&quot;first_name&quot;=&amp;gt;&quot;kevon&quot;, &quot;last_name&quot;=&amp;gt;&quot;cheung&quot;}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Beautiful, isn’t it?&lt;/p&gt;
+
+&lt;p&gt;Day 3 also featured a lab exercise in which students in our WDI class should be randomly assigned to groups, and the size of the group is determined by an user input. Our task is to write a program that solves the problem. After about 10 minutes, my partner Beryl and I were able to figure out a way to solve the problem, a way we believed was quite smart. We used “times” “shuffle” and “shift” in our program to perform the computation, simply just shuffle an array of students and “puts” a group of student then cutting them off the array. And the best part came, I went over to check out some of our coursemates’ code, they approached the problem in a completely different way by using “while” and “slice”, interesting I think, programming really has no limits! The same problem can be solved in so many ways depending of each person’s logic process. Some people walk the conventional way, some do a shortcut. Magic, this is magic. And I love this magic. Check out the exercise here.&lt;/p&gt;
+
+&lt;p&gt;Coming into the course with preparation, I still pick up a lot of new knowledge from instructors and other students. The lectures are great, but I have to say labs and projects are the main reason why I’m here today. I want to train my logic thinking process, perform pair programming, and work in a team environment. That’s what self-teaching lacks.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ruby Rocks</title>
+   <link href="http://kevonc.github.io/posts/ruby-rocks"/>
+   <updated>2013-06-19T19:54:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/ruby-rocks</id>
+   <content type="html">&lt;p&gt;Second day of WDI was all about Ruby, we learned how to use “pry” to perform ruby computation, and we wrote code to build a simple calculator.&lt;/p&gt;
+
+&lt;p&gt;The bits of ruby come in handy with prior self-teaching experience, but it’s still nice to refresh my memory and gain new knowledge. One essential lesson from yesterday was when a function is defined, parameters can be return at the end for use later on. For example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;def ask_for_numbers()
+  puts &quot;What is the first number?&quot;
+  first = gets.chomp.to_i
+  puts &quot;What is the second number?&quot;
+  second = gets.chomp.to_i
+  return first, second
+end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;User is asked to input two numbers, and the function returns both numbers at the end. Later on when a computation is about to happen, the two numbers can be grabbed to use by “number_one, number_two = ask_for_numbers”. This is interesting because instead of using instance variables, now the two numbers can be used in association with other functions, so it is not limiting itself to just one function, but multiples.&lt;/p&gt;
+
+&lt;p&gt;Instructor David also dropped by to introduce me to testing with rspec. As Test-Driven Development (TDD) is getting in the way nowadays, it becomes a more ideal way to write code. I have previously touched upon rspec from Michael Hartl’s tutorial, and that tutorial was godly, it introduced so many elements in a Ruby on Rails application that becomes so useful when I start diving in deeper. In the following days, while we keep on learning the basics of Ruby and Rails. I’ll want to explore rspec a bit more.&lt;/p&gt;
+
+&lt;p&gt;It has only been two days and every student is already coding intensely in class, I’m thrilled to discuss some potential project ideas with classmates today.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>First day of WDI</title>
+   <link href="http://kevonc.github.io/posts/first-day-of-wdi"/>
+   <updated>2013-06-18T19:54:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/first-day-of-wdi</id>
+   <content type="html">&lt;p&gt;Before I passed out to bed at 10PM due to jetlag, yesterday was the first day of Web Development Immersive in a three-month period! The room was filled with excited students who were also a little bit anxious about what everyone was going to learn. Our first day was quite fulfilling, from talking about class cultures and logistics, to learning more about version control, to visiting projects created by the May batch, it was a good first day.&lt;/p&gt;
+
+&lt;p&gt;I’ve been developing simple rails app before this course, mostly building cms and using gems for difficult functions like authentication, files upload, voting system etc. All seem easy when someone else has done all the difficult parts for you, so when I checked out other students’ project, I tended to pay more attention on how they built certain functions, like the authentication. One of the teams told me they had to create it from scratch and were not allowed to use ‘devise’, sweet, I thought, this is what I’m here for.&lt;/p&gt;
+
+&lt;p&gt;For version control, since I’ve been working on some simple apps, I have been committing my code on github or bitbucket already. What’s new to the table is the collaborative aspect, which I’ve never done before. Create a branch and merge it back, and check what your teammate has done, these are new to me and are extremely useful when it comes to project time. I’m thrilled to experience collaborative web development.&lt;/p&gt;
+
+&lt;p&gt;Overall, a fantastic start for the program and I did feel like a high school student again. I’ve set my goals for this course clear and have a couple project ideas in mind I would like to build. Let’s see what today is about!&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Chasing Dream in New York City</title>
+   <link href="http://kevonc.github.io/posts/chasing-dream-in-new-york-city"/>
+   <updated>2013-06-05T19:49:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/chasing-dream-in-new-york-city</id>
+   <content type="html">&lt;p&gt;Next week will be a new start for my career as I will be traveling to New York City for an intensive 12-week web development program with General Assembly (GA). For me, the program is a lesson, an adventure, and also a step towards my dream. As you’ve probably read in my past posts, I’ve always wanted to be a web developer, building slick, functional, and fun applications for people to play with. I wanted to build sites like Airbnb, Buzzfeed, Says, and RoomReveal, and more importantly, fun projects like 8tracks and Represent.sg. Nothing gives me more pleasure than creating something from scratch and seeing it evolves into a beautifully designed and functional application.&lt;/p&gt;
+
+&lt;p&gt;Well, GA also offers the same course in Hong Kong, yet due to unforeseeable reason, the course is postponed to September. I remembered telling Allison, the GA coordinator in Hong Kong, that I would consider traveling 8000 miles to do the course in Boston or New York because I CANNOT WAIT. A lot of people who are interested in the course might take it to pick up a new skill, or because it is the new trend, but for me, I’ve been teaching myself how to code for the past few months, and I cannot procrastinate for another few months but to dive deep into this field right now. I know this is what I love doing and this is where my passion lies, I can see myself doing this as my career. Therefore, I made up my decision to return to the land I love and picked up this new challenge. What I want to achieve from this program is to search for a startup (an idea) I love and be part of it as a junior developer!&lt;/p&gt;
+
+&lt;p&gt;In the next few months, since I will only be surrounded by my course mates and codes, this blog will serve as my diary to the immersive web development course. I will be taking notes on the overall experience and new things I learn, it will be a heck of an experience living in NYC by myself, sitting in front of my laptop everyday, and stuffing my brain with new knowledge! I cannot wait, seriously.&lt;/p&gt;
+
+&lt;p&gt;Good luck to myself!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>一個工作決定一個人生</title>
+   <link href="http://kevonc.github.io/posts/your-life-is-determined-by-your-job"/>
+   <updated>2013-05-19T14:00:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/your-life-is-determined-by-your-job</id>
+   <content type="html">&lt;p&gt;剛剛在電視上看到一個關於「行船」的節目，介紹這份鮮為人知的工種。節目中的主角拼了十年，從見習員升上三副，到二副，到大副，最後成功考上船長。這份工作，比起很多另類行業都來得更辛苦，因為一行就要離開八個月或一年，根本很難跟家人，朋友，男女友相聚。另外工作跟居住地點也分不開，接受上司嚴謹的命令，文的勞的都要負責。最辛酸是拼了十年，做了船長後，還不是要長期漂流大海？這份工作，我想，在現今社會裡到底會有多少個港孩可以接受？&lt;/p&gt;
+
+&lt;p&gt;我們一班90後的孩子，會說話開始就給洗腦般的教學，認為要有一個有意義的人生就必須在大公司做個員工，大家想找的工作都離不開幾個行業，讀書不成的再去考慮其他。離開家這麼長時間？不行！整天在船上？不行！沒時間去玩？更加不行！我自己誠實地說，我也一定不會考慮行船。&lt;/p&gt;
+
+&lt;p&gt;所以，這個節目，令我在想會不會有一天，新一代都習慣某一些工種，而導致「行船」這一類的工作慢慢由年紀大的人來當任，直至青黃不接的一天？老實說，這類工作有很多，那我們以後生活，會不會因為沒有人去做而改變，還是一個社會會自動調節，令行業得以生存？&lt;/p&gt;
+
+&lt;p&gt;對於這種關於前程的想法，我最愛閱讀還是鍾子偉的文章，他的文筆很適合年輕人，都是有關夢想，想法，自我等。&lt;/p&gt;
+
+&lt;p&gt;每天我都在想自己到底在幹什麼，未來要幹什麼。今天的我，也其實還未認清前路，當下的我認為自己對寫網頁，網上程式比較有興趣，另外對一些傳統零售生意也特別有興趣，會一路向這方面鑽研，但機會還是要等，天時地利人和很重要。我大概還未夠努力，如果你看到這裡，請告訴我要更加努力！&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>High Protein Dinner and Cardio Workout</title>
+   <link href="http://kevonc.github.io/posts/high-protein-dinner-and-cardio-workout"/>
+   <updated>2013-04-30T14:00:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/high-protein-dinner-and-cardio-workout</id>
+   <content type="html">&lt;p&gt;I’m a die hard fan of white rice. I’m serious, I consume four bowls of rice everyday, two for lunch and two for dinner. It is kind of ridiculous considering how much carbs and calorie it contains. Yesterday I made a decision to reduce my consumption in rice for dinner and switch to a high protein meal. I never hate dry chicken breast, so it is not as painful for me, and I want to show you guys what I ate last night for dinner:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Two pieces of chicken breast, marinated and roasted in oven for 25 minutes;&lt;/li&gt;
+  &lt;li&gt;Half can of tuna;&lt;/li&gt;
+  &lt;li&gt;Lots of lettuce iceberg to wrap chicken and tuna!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Canned tuna is quite hard to take in with the smell and texture it has, but it is still manageable.&lt;/p&gt;
+
+&lt;p&gt;Why did I do this?&lt;/p&gt;
+
+&lt;p&gt;Well, many of my friends and I have been focusing on lifting weights and building the muscles, things we usually neglect are the cardio exercises and the healthy diet we should have along side with those liftings. And so I started following a series of Mike Chang’s exercises and building up a healthy food consumption plan. This is the &lt;a href=&quot;http://www.youtube.com/watch?v=9UAiMzZ2HeE&quot; target=&quot;_blank&quot;&gt;cardio exercise I’ve been doing&lt;/a&gt;, it is MAD intense! Also, when I got hungry, I never eat any snacks, just water and fruits! I hope this will work out well for me!&lt;/p&gt;
+
+&lt;p&gt;If you feel like losing your beer belly, join me today!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Are you a non technical co founder?</title>
+   <link href="http://kevonc.github.io/posts/are-you-a-non-technical-co-founder"/>
+   <updated>2013-04-27T14:00:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/are-you-a-non-technical-co-founder</id>
+   <content type="html">&lt;p&gt;My friend Julian from Airbnb recently sent me this article &lt;a href=&quot;http://benogle.com/2013/03/25/an-idea-for-non-technical-founders-service-first-business.html&quot; target=&quot;_blank&quot;&gt;An idea for non-technical co-founders: try a service-first business&lt;/a&gt; written by Ben Ogle, it was one of the best articles I’ve read so far in my startup career.&lt;/p&gt;
+
+&lt;p&gt;The core point Ben stresses is the approach founders usually have when they first have the “awesome” idea in mind: they tend to believe they have to build out the product first, then market and sell. For non-technical founders, who can they rely on? Oh right, finding a technical founder! Pitch the tech guy your “awesome” idea and pray that he will join you to execute it. HAHA, I’ve gone through that process in 2012 and I can tell you that it is tough, real tough!&lt;/p&gt;
+
+&lt;p&gt;First, all the people think they’ve had the best idea in the world! The reality is we all have different interest, thus a technical guy wouldn’t be as interested in your idea as you are. They probably have much more tech-advanced ideas to pursue on their own or are already collecting a nice paycheck every month from a startup or tech company. What makes them leave behind all these just to swim with you in an open sea? Second, even though you get it built, you still have to find customers. It will be such a waste to have a finished product but no one uses it! Tech person definitely would not like that waste of effort. And that’s why we have “Lean Startup” now to avoid that! If you have no idea what Lean Startup is, &lt;a href=&quot;http://blog.kevoncheung.com/posts/crushing-customer-development-in-singapore/&quot; target=&quot;_blank&quot;&gt;refer back to my previous post&lt;/a&gt;! Third, having an idea worths nothing, you will have a hard time negotiating with your technical partner. If you have a proven business model, you have the bargaining power.&lt;/p&gt;
+
+&lt;p&gt;Okay, soo… what shall you, a non-technical co-founder, do? Give up starting a business? No. As Ben mentions, it is possible to start a buisness without any tech, build up the distribution and customers and use technology to scale it up, make it convenient as hell that people cannot resist using it, grow it into a popular startup! You’ve got to try launching a business with resources you can find online like &lt;a href=&quot;https://www.strikingly.com/&quot; target=&quot;_blank&quot;&gt;Strikely&lt;/a&gt; and &lt;a href=&quot;http://launchrock.co/&quot; target=&quot;_blank&quot;&gt;Launchrock&lt;/a&gt;, or build a simple website describing your services using Wordpress. I know, more and more people are faking it nowadays, making customers too lazy to sign up because they feel like nothing is true; however, if your product or service is “that good”, they will. If it’s not “that good”, maybe it is not a feasible business!&lt;/p&gt;
+
+&lt;p&gt;To summarize all this, don’t waste time going out and looking for technical partner, meet one during a casual gathering or networking session. Use your time to start creating value first, then if you have proved yourself, investors and developers will come to you like sharks.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bullish or Bearish?</title>
+   <link href="http://kevonc.github.io/posts/bullish-or-bearish"/>
+   <updated>2013-04-25T14:00:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/bullish-or-bearish</id>
+   <content type="html">&lt;p&gt;It has been awhile since I last posted, and it was because recently I picked up two web projects to work on. One is an online voting system and another is a lifestyle platform. I had tons of fun coding even though that means a lot of time with my computer. Therefore, to make my day more fulfilling, I have been investing in the stock market along with web development tasks. Well, after all I’m still a Finance major who had been a portfolio manager for my school’s endowment fund (smile).&lt;/p&gt;
+
+&lt;p&gt;The reason why I enjoy it as a hobby, just like how I enjoy poker, is because “it’s gambling, but with skills”. There are risks and there are returns, but you are not betting on the odds without any information. You can see your hands in a poker game, and you can understand companies in the market inside-out. You are responsible for your own decision whether you want to be a risk taker or not. That’s the interesting part.&lt;/p&gt;
+
+&lt;p&gt;My investments focus solely in the Hong Kong market, and there have been extreme comments in 2013 about where the market is heading. Personally I’m optimistic about the 2nd half of the year and I believe in a bullish market. I’m not an experienced stock picker, but I still have some ground rules and interesting points I would like to share with you guys.&lt;/p&gt;
+
+&lt;p&gt;###1. Pick the big player
+Never invest in companies you’ve never heard of. That’s not exactly true, because our daily lives involve only a tiny number of listed companies. What it actually means is look at the company’s background, check if it is a major player in its industry, examine the volume, avoid buying companies with no one trading it. By investing in the big players, you get a higher dividend and also, as long as you have patience, your money won’t sink into the ocean.&lt;/p&gt;
+
+&lt;p&gt;###2. Fluctuation during the day tells more than just looking at the closing price
+Few years back I invested in a few stocks, and I didn’t follow the market closely and only checked the closing price once a day. I ended up losing a ton of money because I had no idea where the market was heading. I came to realize observation during the day is essential as it can provides insight about what could happen the next day or two. If you’re a busy person, don’t invest in stocks.&lt;/p&gt;
+
+&lt;p&gt;###3. Watch out for manipulation from funds
+Don’t believe in what magazine and newspaper say or recommend. Too many people are manipulating ups and downs in the market, and you have no way to avoid or observe that. However, if you pay attention to the companies’ news, and watch the particular stock prices raise and fall, you kind of sense that a few enormous funds are “playing” with the innocent public. Watch out for the shark.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>生兒育女奇妙之處</title>
+   <link href="http://kevonc.github.io/posts/new-born-love"/>
+   <updated>2013-04-03T14:00:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/new-born-love</id>
+   <content type="html">&lt;p&gt;我家增添了一個小寶寶，他是我表弟，四個月大。&lt;/p&gt;
+
+&lt;p&gt;經常聽到家長們新一代的寶寶很難養，常常動不動就大哭一場，比起以前的寶寶都很乖似的。我想，這是因為我們愈都愈寵壞他們(應該是父母們寵壞我們！）。&lt;/p&gt;
+
+&lt;p&gt;從前，一個媽媽要照顧三個孩子，沒有奶媽的幫助。一個哭了，先等一回吧。慢慢這些小生命就懂得怎樣體諒母親，減少發脾氣再自我長大。現在的寶寶，一出生就用最好的衣服，吃最難買來的奶粉，飯來張口，一哭就有幾個人過來服待，可能這樣就養得他們有壞習慣，變成覺得難養的感覺。&lt;/p&gt;
+
+&lt;p&gt;不過，看著寶寶慢慢長大，每一個月看他都長大不少，我知道為何女人們願意擁胎十月。用最痛的方法把他帶來這個世界，我了解到為何一個寶寶可以令一個家庭進入另一個階段。他，的確有他的吸引之處！有些男女朋友一早說明不會生兒女，他們可能還未感覺到寶寶的重要，覺得自己的玩樂比生下寶寶更重要，他們可能還未欣賞到人生的重點。我覺得能夠健康的看著寶寶出生，慢慢負責任的養大他，這才是人生最奇妙的地方！&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Crushing Customer Development in Singapore</title>
+   <link href="http://kevonc.github.io/posts/crushing-customer-development-in-singapore"/>
+   <updated>2013-03-26T14:00:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/crushing-customer-development-in-singapore</id>
+   <content type="html">&lt;p&gt;For the last six days, I traveled to one of the most exciting cities with curiosity and excitement. I used to live there for two whole years when I was two years old, and there wasn’t a tiny bit of memory left in my head. That’s why I was extremely excited to be back to Singapore all by myself, just adventure and exploration in front of me.&lt;/p&gt;
+
+&lt;p&gt;The primary purpose for the trip was to attend &lt;a href=&quot;http://leanstartupmachine.com/&quot; target=&quot;_blank&quot;&gt;Lean Startup Machine&lt;/a&gt; (LSM), an intensive weekend workshop which teaches entrepreneurs and innovators how to build disruptive products. As a believer in lean startup, I had read &lt;a href=&quot;http://theleanstartup.com/&quot; target=&quot;_blank&quot;&gt;Lean Startup&lt;/a&gt; by Eric Ries and &lt;a href=&quot;http://www.amazon.com/Running-Lean-Iterate-Works-OReilly/dp/1449305172&quot; target=&quot;_blank&quot;&gt;Running Lean&lt;/a&gt; by Ash Maurya, but book theories are still in the book, I had to grab this opportunity to attend the hands-on workshop to further learn the concepts. I purposely scheduled to arrive two days ahead of the workshop so that I could make good use of the trip to explore the city.&lt;/p&gt;
+
+&lt;p&gt;At LSM, we formed teams to develop fresh business ideas which we would test with real customers on the streets. The emphasis was using a problem-approach, therefore, we didn’t even think about the solution at the first place, all our effort was on “what problems do people have?” They often emphasized, &lt;span style=&quot;color: #3366ff;&quot;&gt;“The worst thing that can happen is building a product that no one wants!”&lt;/span&gt; As we all got excited about new business ideas, we made all these rough assumptions and it was not surprising to see how many of our assumptions were made up because we thought people want something, but they actually did not want it. Thanks to these real customers’ feedback from embarrassing ourselves on Orchard Road, almost all the teams have changed (we called it pivoted) from the original idea.&lt;/p&gt;
+
+&lt;p&gt;We learned about the right methodology to do startup at LSM, and I kept referring the concept back to my own startup, Sponfed. I realized there were a ton of mistakes we made: didn’t specify a specific market segment where the early adopters are, didn’t test assumptions and pivot enough, and didn’t come up with a way to present our product effectively when meeting with clients. The sponsorship space is definitely a tough market to go into, but we could have been more successful to tackle the problems if we had used the lean startup concept.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;half&quot; alt=&quot;Clarke Quay&quot; src=&quot;https://s3-ap-southeast-1.amazonaws.com/kevoncheung-blog/20130326-singapore-01.jpg&quot; /&gt;&lt;img class=&quot;half&quot; alt=&quot;Marina Bay&quot; src=&quot;https://s3-ap-southeast-1.amazonaws.com/kevoncheung-blog/20130326-singapore-02.jpg&quot; /&gt;&lt;img class=&quot;half&quot; alt=&quot;Sentosa&quot; src=&quot;https://s3-ap-southeast-1.amazonaws.com/kevoncheung-blog/20130326-singapore-03.jpg&quot; /&gt;&lt;img class=&quot;half&quot; alt=&quot;Garden by the Bay&quot; src=&quot;https://s3-ap-southeast-1.amazonaws.com/kevoncheung-blog/20130326-singapore-04.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Well, other than learning the startup methodology, I also visited a ton of places in Singapore, Night Safari, Garden by the Bay, Sentosa, Raffle Places, Clarke Quay, best rooftop bar &lt;a href=&quot;http://travel.cnn.com/singapore/drink/best-singapore-rooftop-bars-197848&quot; target=&quot;_blank&quot;&gt;1-Altitude&lt;/a&gt;, Little India, Orchard Road, Bugis, what a shame I didn’t get to Chinatown lol! I found Singapore to be a very lovely place, it is extremely small but ridiculously diverse, from Indians to Chinese to Malays to Westerners, you could expect everything there. From the riverside bars in Clarke Quay and Raffle Places to the outdoor ones on Orchard Road, I could say working short-term in Singapore is totally preferable to Hong Kong, but in terms of living permanently, I’m not too sure because things to do will run out pretty soon.&lt;/p&gt;
+
+&lt;p&gt;Other observations from my trip were that the architectures in the city are consistent with the similar modern touch, taxi drivers are very friendly and like to talk with the passengers, asking me whether hong kong girls are prettier looking. I have also had most of my meals at the hawker centers or food court, the food there is so cheap that I had to order two sometimes, but the quality? so-so.&lt;/p&gt;
+
+&lt;p&gt;I can now announce that Singapore has jumped onto my favorite list of cities right behind Bangkok and Taipei. To be honest, it is quite an ideal city to work overseas!&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Garden by the Bay&quot; src=&quot;https://s3-ap-southeast-1.amazonaws.com/kevoncheung-blog/20130326-singapore-05.jpg&quot; class=&quot;half&quot; /&gt;&lt;img alt=&quot;Boat Quay&quot; src=&quot;https://s3-ap-southeast-1.amazonaws.com/kevoncheung-blog/20130326-singapore-06.jpg&quot; class=&quot;half&quot; /&gt;&lt;img alt=&quot;Garden by the Bay&quot; src=&quot;https://s3-ap-southeast-1.amazonaws.com/kevoncheung-blog/20130326-singapore-07.jpg&quot; class=&quot;half&quot; /&gt;&lt;img alt=&quot;Little India&quot; src=&quot;https://s3-ap-southeast-1.amazonaws.com/kevoncheung-blog/20130326-singapore-08.jpg&quot; class=&quot;half&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Silly Low Paying Tech Jobs in Hong Kong</title>
+   <link href="http://kevonc.github.io/posts/silly-low-paying-tech-jobs-in-hong-kong"/>
+   <updated>2013-02-25T14:00:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/silly-low-paying-tech-jobs-in-hong-kong</id>
+   <content type="html">&lt;p&gt;A few days ago I came across a job search site, and given I have decided to dive into a geeky path, so I clicked into the site to see whether there will be a future for being a tech guy in the Hong Kong industry. Not to my surprise, the first thing I noticed was the extremely low paying monthly salary ranging from HK$8,000 to $12,000 (that is about US$1,000 to $1,500 a month) as a web developer or designer. What struck me hard was that these jobs require specialized skill, at least not everyone could become a person capable of working with HTML, CSS, PHP and SQL in a few months. And so what is the reason that they still get paid so little working six days a week? Why are employers still offering a salary that anyone could barely survive with in Hong Kong?&lt;/p&gt;
+
+&lt;p&gt;I became curious about this matter because a few weeks ago I applied to Dev Bootcamp in San Francisco. DBC is an intense program that will teach Ruby on Rails in 9 weeks, and on average graduates get paid US$80,000 annually for being an entry level developer. Hmmm…using my middle school math, that’s US$6,666 a month, almost four and a half times higher than working in Hong Kong. Just a few months of intense programming and anyone will “definitely” get a much better pay about 8,000 miles away.&lt;/p&gt;
+
+&lt;p&gt;So I started pondering, are the jobs really that different in HK and in SanFran? Is it the culture? Is it the boss?&lt;/p&gt;
+
+&lt;p&gt;In my point of view, culture stands as a huge differentiator in this situation. The competitive environment forces young people in Hong Kong to underestimate the value of their work, thus lowering their own expectations of salary. They tend to believe they have “no say” over what they are offered, and if they don’t take the job, someone will. This scenario makes it so easy for the employer to just stick with a low paying salary because eventually, a young man in bad financial shape will step into the shoe of this job and be willing to take the job with that amount of money. With this salary level, most of the jobs even require working on Saturday, which is totally ridiculous.&lt;/p&gt;
+
+&lt;p&gt;Secondly, a lot of business owners in Hong Kong pay more attention on the numbers (profit and cost) over the quality of working in a team (personality, motivation, company culture). I have interned in startups before, and the environment of startups is not far different from a normal small business. Everyone gets there around 9:30am, sits in front of their computers, and occasionally hold meetings. Though it is better, it is still too much like a traditional business without the fun and energy a startup should have. Employers look for the cheapest possible labor to do the job, and the overall culture and how happy this guy will be? Screw it, not a big deal.&lt;/p&gt;
+
+&lt;p&gt;If the majority of the industry (mostly fresh graduates from local universities) remain silent with the money they get paid, then the payroll will never be able to rise. It takes a whole system of people to make an impact, and it is a very difficult task. This is just what I feel about most tech jobs in town, I might be wrong because I’m extremely new to this. Hopefully I will see more upside rooms and potentials leading up to successful stories in the near future in my own land.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>他們不明白的，那不用多解釋</title>
+   <link href="http://kevonc.github.io/posts/what-does-startup-mean-to-the-last-generation"/>
+   <updated>2013-02-13T14:00:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/what-does-startup-mean-to-the-last-generation</id>
+   <content type="html">&lt;p&gt;每次當我跟上一代的前輩分享自己的前途時，他們臉上永遠有著一副「搞什麼？」的表情，他們不明白，更沒有興趣去明白，只要你過一陣子回來告訴我你成功了就好。&lt;/p&gt;
+
+&lt;p&gt;我嘗試過去解釋什麼是Startup，程式員做的是什麼，薪水不低於銀行家，可是太難了。&lt;/p&gt;
+
+&lt;p&gt;這些前輩對科技沒有認識，他們的地球跟我們不一樣，他們看的是報紙，我們看的是網上資訊；他們喜歡喝茶聊天，我們喜歡上網看YouTube。所以，今天的年青人，我們不用跟上一代解釋太多，只要有著自己的信念，相信自己能找到一條生活大道，可以養活自己跟享受工作享受生活，那就足夠。&lt;/p&gt;
+
+&lt;p&gt;現在的我們，跟十多年前已經不一樣了。現在如果你還不用腦袋去看世界，你會停留在過去，永遠走在科技和其他人後面！&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>人類進步令地球退步</title>
+   <link href="http://kevonc.github.io/posts/the-planet-is-regressing"/>
+   <updated>2013-01-29T14:00:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/the-planet-is-regressing</id>
+   <content type="html">&lt;p&gt;昨天晚上，我到深圳參加了遠房親戚的婚禮，很時尚很漂亮的婚禮。這是一個中港婚禮，一切美好，有動人的影片、說話專業的司儀、一流的樂隊。&lt;/p&gt;
+
+&lt;p&gt;我想說的並不是這場婚禮，而是我在一次又一次婚禮中的體會。所有婚禮都會有美食佳餚和客人分享，從小食到甜點，一定超過十樣食物。可能因為在酒店的關係，所有的美食都一定份量充足，有時什至超過十人份量，這是主人家禮貌的表現。&lt;/p&gt;
+
+&lt;p&gt;可是，在我參加了數場婚禮後，發現大家對這些所謂美食都不太感興趣，大家只想開開心心的看著一對新人變成夫妻。這堆食物在數小時的婚宴後將會送往垃圾房，我們人類愈進步，愈想把事情弄得好看，就愈忽略其他一切，我們需要這麼多食物嗎？為什麼我們可以一直浪費？&lt;/p&gt;
+
+&lt;p&gt;日常生活中，我們注意到的常常是自己，沒有他人，更沒有地球。這次反省令我想起2011年5月時我跟大學一個課堂去了土耳其三個星期，那次獲益良多，從種植士多啤利到住在落後村落的一星期，我由一個一直以為自己在宇宙很細小的伙子，變成一個認真對待環境的人。&lt;/p&gt;
+
+&lt;p&gt;還記得那天晚上，我們團裡四個很要好的男孩跟其中一名男導師坐在房間、喝著啤酒聊天。我不知道何來的勇氣，把我認為每個人都宇宙中都是很細少，好像做什麼都沒用的感覺說了出來。他們認為我的思想很瘋，什至腦子可能有點怪怪。那位男導師細心跟我們分享他的感受，他是一位攝影師，用了很多很多年的時間，走訪了地球很多地方，拍下不同人的生活，做成了一本書。而他為何會變了我們的本地導師，就是因為他要和年輕一代分享他的經歷，給我們一些新看法。他很偉大，雖然我真的想不起他仔細的分享內容，可是他改變了我的想法，令我不再覺得自己是微少的人類，反而我現在很喜歡跟人家講理論，什麼魚翅鵝肝不能吃，到支持回收廢物，到日常生活中不大量浪費，所有所有，源自一個土耳其之旅。&lt;/p&gt;
+
+&lt;p&gt;我不會說自己是一位為地球環境負出了很多的人，因為我還沒有做什麼，可是我盡量做好自己的本份，希望有一天也能影響「一個人」。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>兩小子破傳統勇創Sponfed網上平台</title>
+   <link href="http://kevonc.github.io/posts/the-story-of-sponfed"/>
+   <updated>2013-01-19T14:00:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/the-story-of-sponfed</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://s3-ap-southeast-1.amazonaws.com/kevoncheung-blog/20130119-story-of-sponfed.jpg&quot; alt=&quot;The Story of Sponfed&quot; class=&quot;full&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: #f15a29; font-weight: bold;&quot;&gt;香港商報特稿 － 2013年 1月 19日&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;兩位22歲年輕小伙子張介源、梁兆濱，都是來自典型的中產家庭，自小生活無憂，但為了追尋理想，毅然擺脫父母為他們苦心編織的安穩之道，走出傳統框框，共同建立了專門為活動找贊助的全新網上平台 &lt;a href=&quot;http://sponfed.com&quot;&gt;Sponfed&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;###年輕是本錢拓新天地&lt;/p&gt;
+
+&lt;p&gt;「別人認為年輕沒經驗是一項弱點，我們卻認為年輕就是本錢，就算跌倒了也有時間站起來再拚搏。」張介源、梁兆濱就是憑着敢想敢搏的精神，開拓自己的新天地。&lt;/p&gt;
+
+&lt;p&gt;###張介源：活動評核助宣傳品牌&lt;/p&gt;
+
+&lt;p&gt;22歲的張介源，是家中唯一的男丁，本來長輩已經準備好退下來讓他接手家族的貿易生意，但他卻堅持己見，與當年聖若瑟中學的同學梁兆濱齊闖一番新事業，建立網上平台Sponfed。這兩位年輕人說，Sponfed這個平台可以讓活動籌劃一方更容易找到適合他們的品牌，贊助他們金錢或是貨品，反之亦然。&lt;/p&gt;
+
+&lt;p&gt;張解釋：「透過Sponfed的網上平台，市場部門便可以利用我們現有的功能把不同的活動分類整理，再作挑選。另外，我們會要求申請方利用我們統一的表格填寫活動資料，令批閱的進度再提高。」值得一提的是，每個活動之后，品牌一方都可以向活動籌劃者評分，評核他們是否能夠好好利用贊助的資源去為品牌宣傳。久而久之，品牌一方便可以知道哪一個活動舉辦者符合他們的要求而且較有效宣傳他們的品牌。&lt;/p&gt;
+
+&lt;p&gt;###梁兆濱：贊助是很好宣傳途徑&lt;/p&gt;
+
+&lt;p&gt;梁說：「贊助真的是一個很好的宣傳途徑，在外國，有公司專門為品牌找適當的活動來贊助，從而增加品牌本身和其貨品的曝光率。它們會在每次活動之后作效用評估，滲透率如何，滿意度如何，所有事情都是有數得計。」張也補充道：「有些國際大牌子每年都會留一大堆產品作贊助所用。因為它們知道所有的雜誌宣傳也可能不及讓消費者親身試驗過它們的產品。」&lt;/p&gt;
+
+&lt;p&gt;###冀各界多支持創業者&lt;/p&gt;
+
+&lt;p&gt;談起父母的反對，梁說:「我大學在加拿大讀金融，而且在學時的幾份暑期工也是在基金公司做分析員，所以，父母也明確地表示很希望我可以繼續在這個行業里面打拚，我們更為此吵過好幾次架。」&lt;/p&gt;
+
+&lt;p&gt;他輕嘆：「畢竟，他們認為我歷練不夠，起碼應該找一間大公司好好磨練一下。」事實上，張和梁遇到的10個人，大概8個人都會告訴他們同一席話。&lt;/p&gt;
+
+&lt;p&gt;究竟是冥頑不靈，抑或是擇善固執？兩人都是從外國讀書回來，他們覺得「創業」這一條路在香港確實是非常難走。張是在波士頓的 &lt;a href=&quot;http://babson.edu&quot;&gt;Babson College&lt;/a&gt; 讀書回來，問到在香港創業跟在美國創業的分別，張說：「在美國，很多最頂尖的學校就如哈佛或普林斯頓出來的學生，也會去開創自己想做的事情。他們很有創意，能夠好好利用自己的知識，再加上無限的想像力，往往能夠想出嶄新主意，改變現狀。當然，成功是很少數，但起碼我非常佩服他們勇敢嘗試的膽量。」他認為香港的創業風氣近年有了明顯的增長，以及變得更多元化，但跟美國相比還有很大距離。他希望大眾能夠提供更多支持及鼓勵給香港的創業者，共創一個創意之都。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>新時代思想的士司機</title>
+   <link href="http://kevonc.github.io/posts/taxi-driver-who-understands-teenagers"/>
+   <updated>2013-01-13T14:00:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/taxi-driver-who-understands-teenagers</id>
+   <content type="html">&lt;p&gt;踏入2013年，遊玩過，玩到生病過，太多誘惑在我身邊周旋。從倒數那天，到和高中同學去澳門，之後再到台北四天，過數天後又去澳門。這一連串的活動和花錢速度令我一直自我反省，到底那些錢是值得花，那些是花多了？我太難把它分得清清楚楚，因為有時侯跟朋友出去，招呼是一定要的，你一直不付，人家會再找你玩嗎？這是一個天大的難題，沒有解決方法。幸好我最近一直在看一本關於誘惑的書，主要內容是說受得了誘惑的人才會成功。我太贊同，因為一個人如果長時間陪朋友，你花的那個時間沒有用來自我增值，對，你會有一個很好的朋友，但到最後你還是要靠自己養活自己。&lt;/p&gt;
+
+&lt;p&gt;我定下2013年給自己的一些條例，包括：&lt;/p&gt;
+
+&lt;p&gt;上半年到暑假，不能再去旅遊；下半年要看公司成積，如果穩定月收就可以去一次；
+澳門不可以再去；
+在香港，出去玩的時侯，先想想上一次是什麼時侯，不能在兩星期內出去超過一次。&lt;/p&gt;
+
+&lt;p&gt;今天是開始的一天，我回家路上就碰到一位很有思想的的士司機。他問我為什麼沒有跟朋友出去玩，他認為年青時侯可以瘋狂一點，錢永遠花不完，但力氣是會慢慢走下坡。最特別一點是我下車時侯他還不捨得，所以我在踏出的士車的那一步，我用了大約三、四分鐘去聽他講的。他支持大麻，但很反對青年人用藥，什至天拿水之類的。我還蠻驚訝，因為很少會有他那年紀的思想，他雖然有成熟的外表，但內心還是很活潑。我告訴他我已經玩了很多天，身心都很累了，現在只想睡覺跟做好事情。跟他告別後，是我的一個新開始。這一來的旅遊給了我啟示，一定要有自己方向，努力工作賺錢賺經驗，這樣才能維持著這樣的生活質素，這樣才能真正的玩，用自己的力氣自己的錢。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2013 Resolutions</title>
+   <link href="http://kevonc.github.io/posts/2013-resolutions"/>
+   <updated>2013-01-13T14:00:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/2013-resolutions</id>
+   <content type="html">&lt;p&gt;From my other post from last night, well technically this morning, I set up some 2013 resolutions for myself in the area of traveling and going out at night. I’m gonna add more in this post to review at the end of this year how many of those I achieve. A lot of times I will have goals like “keep a regular gym routine”, and I figure those generic goals never worked. Therefore, I’m going to go with some specific ones.&lt;/p&gt;
+
+&lt;p&gt;This post will stick to my front page so that I can remind myself from time to time.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No traveling until summer. If Sponfed is doing well with stable income, one trip is allowed;&lt;/li&gt;
+  &lt;li&gt;No more Macau in 2013;&lt;/li&gt;
+  &lt;li&gt;Going out only once every two weeks;&lt;/li&gt;
+  &lt;li&gt;Join a public competition - February 24, 2013 Standard Chartered Marathon 10km &lt;span style=&quot;color: #f15a29; font-weight: bold&quot;&gt;(finished in 57:42)&lt;/span&gt;;&lt;/li&gt;
+  &lt;li&gt;Master in Ruby on Rails and build at least two web applications on my own;&lt;/li&gt;
+  &lt;li&gt;Master in HTML5 and CSS3;&lt;/li&gt;
+  &lt;li&gt;Learn about a new friend’s life or career story per month;&lt;/li&gt;
+  &lt;li&gt;Read at least one book a month;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>世界末日？</title>
+   <link href="http://kevonc.github.io/posts/the-famous-doom-day-of-2012"/>
+   <updated>2012-12-21T14:00:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/the-famous-doom-day-of-2012</id>
+   <content type="html">&lt;p&gt;2012年12月21日，這是全世界人一直等一直等的一天。有人期待，有人驚恐．&lt;/p&gt;
+
+&lt;p&gt;我的確有點兒期待，不知道會發生什麼事，大好小好，如果是一樣可以讓世人反思的大事，更好！&lt;/p&gt;
+
+&lt;p&gt;我不怕在這種方式死亡，因為世事早有注定，和全球人一起死亡，又有什麼可怕？&lt;/p&gt;
+
+&lt;p&gt;現在問題是，下個世界末日的定日是何時？&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>It is why and how you do it that matters</title>
+   <link href="http://kevonc.github.io/posts/it-is-why-and-how-you-do-it-that-matters"/>
+   <updated>2012-10-21T14:00:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/it-is-why-and-how-you-do-it-that-matters</id>
+   <content type="html">&lt;p&gt;Last night, I had an amazing dinner with my family at this restaurant called 四川菜大平伙 SiChuan Da Ping Huo. Why was it so amazing? Simply because the food was spicy and yummy and the price was way beyond reasonable. For $320 (+10% SC) per person, you get to enjoy the authentic sichuan cuisine!&lt;/p&gt;
+
+&lt;p&gt;Using simple ingredient such as eggplant, potato, tofu, Da Ping Huo brought out the best side of them. Well, and I realized a restaurant can really relate to business or startup (because restaurant is a business of course haha). Having luxurious ingredients is like having a brilliant business idea. To become a popular restaurant, it is not plainly just serving wagyu beef or shark fin to your customers, it is the way you cook and the love chef and staff together put in. The same concept applies to a startup, having the most brilliant idea does not guarantee you success and fame. Everything got to start small and grow as time goes, it is how much effort you put in and how well the execution is. Value of what it is is far less important to how it is and why it is.&lt;/p&gt;
+
+&lt;p&gt;This What-How-Why reminds me of &lt;a href=&quot;http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action.html&quot;&gt;an inspiring talk by Simon Sinek&lt;/a&gt;, who conveyed a powerful marketing technique to all of us. When we try to bring out a message, we should always start with Why, then How, then What. Tell people why you want to do this and spread the message emotionally. Definitely worth checking it out.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Failure, so what?</title>
+   <link href="http://kevonc.github.io/posts/failure-so-what"/>
+   <updated>2012-10-18T14:00:00+08:00</updated>
+   <id>http://kevonc.github.io/posts/failure-so-what</id>
+   <content type="html">&lt;p&gt;Since graduated about four and a half months ago, I have been planning on a path towards entrepreneurship. I have heard a wide range of advice along the way, some suggesting me to get “real experience” first, others, about my age, would praise how bold I am. Right, I have chosen the path where failure happens quite frequently, and lots of people do give up after awhile, but this path presents lots of learning opportunities for a fresh grad like me. Just to name a few things I’ve already done or learned in the past few months: talking to endless strangers, networking, getting advice and feedback on a new business concept, evaluating the pros and cons of different approaches to business decisions, meeting potential partners and learning how to read who’s a good guy and who’s a bad guy, learning how to prioritize things and doing the important ones first….. bla bla bla. This list can easily go on and on, yet my passion and motivation will fuel me for the more stuff thats coming. After about a month of soft launch, the business is still raw and undeveloped. It does take time to create something, don’t let failure stop you.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>

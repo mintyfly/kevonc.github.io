@@ -1,0 +1,279 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>More Ruby Bits &amp; First Lab | kevon's blog | life, startup, and code</title>
+    
+      <meta name="description" content="Everyday is a lesson when your knowledge and experience contribute to it.">
+    
+    <meta name="author" content="Kevon Cheung">
+
+    <!-- Open Graph data -->
+    <meta property="og:site_name" content="kevon's blog | life, startup, and code" />
+    <meta property="og:title" content="kevon's blog | life, startup, and code" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://www.kevoncheung.com/" />
+    <meta property="og:image" content="http://kevoncheung.com/assets/images/logo.png" />
+    <meta property="og:description" content="Everyday is a lesson when your knowledge and experience contribute to it." />
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="icon" type="image/png" href="/assets/images/favicon.png" />
+
+    <link rel="stylesheet" href="/assets/css/pygments.css">
+
+    <!-- Le styles -->
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link href="/assets/css/styles.css" rel="stylesheet" type="text/css" media="all">
+
+    <!-- Le fav and touch icons -->
+  <!-- Update these with your own images
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+  -->
+
+    <!-- atom & rss feed -->
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-43131706-4', 'kevoncheung.com');
+      ga('send', 'pageview');
+
+    </script>
+
+  </head>
+
+  <body>
+    <div class="container-narrow">
+      <div class="row">
+        <div class="col-xs-12 col-sm-3">
+          <div class="navi">
+	<a href="/">
+	  <img src="/assets/images/kevon.jpg" alt="kevon's blog" class="main-avatar">
+	</a>
+
+	<a href="/">
+		<h4>Kevon Cheung</h4>
+	</a>
+
+	<h5>Everyday is a lesson. This is where I share about life, startup, and code.</h5>
+
+	<ul class="nav">
+		<li><a href="/about">About</a></li>
+		<li><a href="/contact">Contact</a></li>
+		<li><a href="/projects">Projects</a></li>
+		<li><a href="/videos">Videos</a></li>
+	  <li></li>
+	  <li></li>
+	  <li>
+
+
+  
+    
+      
+      	
+      	<li><a href="/archive">Archive</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/categories">Categories</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+      	
+      	<li><a href="/tags">Tags</a></li>
+      	
+      
+    
+  
+
+
+</li>
+	</ul>
+</div>
+        </div>
+        <div class="col-xs-12 col-sm-9">
+          <div class="content">
+            
+<div class="page-header">
+  <h4 class="title">More Ruby Bits &amp; First Lab</h4>
+  <span class="date">June 20, 2013</span>
+</div>
+
+<div class="post-full">
+  <div class="post-content">
+    
+    <p>We continued to explore more ruby basics, introducing function, array, hash, and block. They are pretty simple bits to use when writing a program, yet the difficult part is understand how you can use them efficiently. To do that, one has to learn the list of methods associated, for instance, creating an array is no-hard task, but what can we do with an array? Select, reject, flatten, inject, uniq, shuffle, sample……. so many methods that it will take some time to digest! We haven’t done inject in class today, but from my research, it is a more complicated method yet truly rewarding! A simple task it could do is add up the numbers in array by simply injecting (0). I’m also amazed what inject can do, say if we want to convert keys to be strings and change names to be lowercase:</p>
+
+<pre><code>hash = [[:first_name, 'Kevon'], [:last_name, 'Cheung']].inject({}) do |result, element|
+  result[element.first.to_s] = element.last.downcase
+  result
+end
+
+hash # =&gt; {"first_name"=&gt;"kevon", "last_name"=&gt;"cheung"}
+</code></pre>
+
+<p>Beautiful, isn’t it?</p>
+
+<p>Day 3 also featured a lab exercise in which students in our WDI class should be randomly assigned to groups, and the size of the group is determined by an user input. Our task is to write a program that solves the problem. After about 10 minutes, my partner Beryl and I were able to figure out a way to solve the problem, a way we believed was quite smart. We used “times” “shuffle” and “shift” in our program to perform the computation, simply just shuffle an array of students and “puts” a group of student then cutting them off the array. And the best part came, I went over to check out some of our coursemates’ code, they approached the problem in a completely different way by using “while” and “slice”, interesting I think, programming really has no limits! The same problem can be solved in so many ways depending of each person’s logic process. Some people walk the conventional way, some do a shortcut. Magic, this is magic. And I love this magic. Check out the exercise here.</p>
+
+<p>Coming into the course with preparation, I still pick up a lot of new knowledge from instructors and other students. The lectures are great, but I have to say labs and projects are the main reason why I’m here today. I want to train my logic thinking process, perform pair programming, and work in a team environment. That’s what self-teaching lacks.</p>
+
+    <div class="social">
+      Follow me on <a href="https://www.instagram.com/kevon/" target="_blank">Instagram</a> if you would like to get updates on my blog.
+    </div>
+  </div>
+
+  <div class="pagination">
+    <ul>
+    
+      <li class="next"><a href="/posts/im-object-oriented" title="I'm Object-Oriented">Next Post: I'm Object-Oriented</a></li>
+    
+    
+      <li class="prev"><a href="/posts/ruby-rocks" title="Ruby Rocks">Last Post: Ruby Rocks</a></li>
+    
+    </ul>
+  </div>
+
+  <div class="tag-boxes">
+    
+      <ul class="tag-box inline">
+        <li><span class="glyphicon glyphicon-leaf"></span></li>
+        
+        
+
+
+  
+     
+    	<li><a href="/categories.html#webdev-ref">
+    		webdev <span>23</span>
+    	</a></li>
+    
+  
+
+
+      </ul>
+    
+
+    
+      <ul class="tag-box inline">
+        <li><span class="glyphicon glyphicon-tags"></span></li>
+        
+        
+
+
+  
+     
+    	<li><a href="/tags.html#wdi-ref">wdi <span>13</span></a></li>
+     
+    	<li><a href="/tags.html#ruby-ref">ruby <span>4</span></a></li>
+    
+  
+
+
+
+      </ul>
+    
+  </div>
+
+  
+
+
+  <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_developer = 1;
+    var disqus_shortname = 'kevonc'; // required: replace example with your forum shortname
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+
+</div>
+
+
+          </div>
+        </div>
+        <div class="col-xs-12">
+          <hr>
+          <footer>
+  <p>&copy; 2016 <a href="http://kevoncheung.com">Kevon Cheung</a></p>
+  <a href="https://www.instagram.com/kevon/" target="_blank"><img class="social-icon" src="/assets/images/social/instagram.png" alt="Instagram"></a>
+  <a href="https://www.facebook.com/kevon69" target="_blank"><img class="social-icon" src="/assets/images/social/facebook.png" alt="Facebook"></a>
+  <a href="http://hk.linkedin.com/in/kevoncheung/" target="_blank"><img class="social-icon" src="/assets/images/social/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://github.com/kevonc" target="_blank"><img class="social-icon" src="/assets/images/social/github.png" alt="Github"></a>
+  <a href="https://twitter.com/kevon69" target="_blank"><img class="social-icon" src="/assets/images/social/twitter.png" alt="Twitter"></a>
+</footer>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>
+

@@ -1,0 +1,278 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>The Power of Javascript | kevon's blog | life, startup, and code</title>
+    
+      <meta name="description" content="Everyday is a lesson when your knowledge and experience contribute to it.">
+    
+    <meta name="author" content="Kevon Cheung">
+
+    <!-- Open Graph data -->
+    <meta property="og:site_name" content="kevon's blog | life, startup, and code" />
+    <meta property="og:title" content="kevon's blog | life, startup, and code" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://www.kevoncheung.com/" />
+    <meta property="og:image" content="http://kevoncheung.com/assets/images/logo.png" />
+    <meta property="og:description" content="Everyday is a lesson when your knowledge and experience contribute to it." />
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="icon" type="image/png" href="/assets/images/favicon.png" />
+
+    <link rel="stylesheet" href="/assets/css/pygments.css">
+
+    <!-- Le styles -->
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link href="/assets/css/styles.css" rel="stylesheet" type="text/css" media="all">
+
+    <!-- Le fav and touch icons -->
+  <!-- Update these with your own images
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+  -->
+
+    <!-- atom & rss feed -->
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-43131706-4', 'kevoncheung.com');
+      ga('send', 'pageview');
+
+    </script>
+
+  </head>
+
+  <body>
+    <div class="container-narrow">
+      <div class="row">
+        <div class="col-xs-12 col-sm-3">
+          <div class="navi">
+	<a href="/">
+	  <img src="/assets/images/kevon.jpg" alt="kevon's blog" class="main-avatar">
+	</a>
+
+	<a href="/">
+		<h4>Kevon Cheung</h4>
+	</a>
+
+	<h5>Everyday is a lesson. This is where I share about life, startup, and code.</h5>
+
+	<ul class="nav">
+		<li><a href="/about">About</a></li>
+		<li><a href="/contact">Contact</a></li>
+		<li><a href="/projects">Projects</a></li>
+		<li><a href="/videos">Videos</a></li>
+	  <li></li>
+	  <li></li>
+	  <li>
+
+
+  
+    
+      
+      	
+      	<li><a href="/archive">Archive</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/categories">Categories</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+      	
+      	<li><a href="/tags">Tags</a></li>
+      	
+      
+    
+  
+
+
+</li>
+	</ul>
+</div>
+        </div>
+        <div class="col-xs-12 col-sm-9">
+          <div class="content">
+            
+<div class="page-header">
+  <h4 class="title">The Power of Javascript</h4>
+  <span class="date">July 28, 2013</span>
+</div>
+
+<div class="post-full">
+  <div class="post-content">
+    
+      <h5 class="tagline">"will javascript become the most powerful language?"</h5>
+    
+    <p>Week 6, Javascript week. After this week we are half way through the program, and what bugs me the most is that I still want to learn a ton of things in this short period of time. I want to be good at JS and write elegant scripts in Coffeescript, and I want to get familiar with Ajax to make requests, and … and.</p>
+
+<p>I have learned the basics of JS before, but I totally forgot what it is like. I am able to perform a few click and fadeIn effects in jQuery, and that’s all I can do. This time I’m starting from scratch and with the Ruby knowledge, I get familiar with JS in a fairly reasonable speed. I am starting to see bits in this uglier language (compared to Ruby), and how pieces come together. One lab I did over the past 2 days was a Hangman game wrote in Javascript (no jQuery yet), and I utilized the <a href="http://underscorejs.org/" target="_blank">Underscore library</a> to simplify codes and <a href="http://raphaeljs.com/" target="_blank">Raphael library</a> to draw. With the two amazing libraries, I finished the Hangman Challenge with satisfaction! <a href="http://kevoncheung.com/anecdotes/hangman/" target="_blank">You can visit the game here!</a> Lets talk about challenges of this game and what I learned from it.</p>
+
+<p>1) The Logic Flow: To create a game that is user-friendly, I’ve to think about the flow carefully about what functions to write and where they belong. For example, I need a makeGuess function as well as checkLetter, checkWin, checkLose etc. By the end of the game, I have about 20 functions that each perform different task, and some of them are connected to each other. I definitely recommend listing out all the functions to build a structure of the entire game first, and then go into each function and write the code.</p>
+
+<p>2) Debugging: I forgot how many times I bumped into errors and got stuck in the process of writing this game (because there are too many), and I’ve seen other coursemates got stuck in the logic loop and did not know what to do. A practice of mine helps a ton, and everytime I see errors popping out of my console, I’m excited more than confused, because errors are the best in guiding me through to solve the problems! You will know its worse to have no errors popping out but your game is not working. This practice is nothing special, but it does save me time and lead me step by step to the finish line. After writing specific functions out, I tend to drop a console.log in the window.onload script and let it prints out results everytime I load the page. If its an anonymous function, let it run; if it takes parameter, place in a suitable argument for now and revisit later. As it goes on, I will have all the things I want printed out in console neatly, and I would know what to do next.</p>
+
+<p>A very important point I would like to stress is don’t be offended by writing a function that you have no idea would perform. A coursemate of mine had a question another day, he was confused why we couldn’t just write big chunk of code in sequence, instead we went through trouble writing functions that take in a parameter (but we have no idea what parameter will get passed in). He is lost because without a specific set of data to get processed, it is hard to write functions. In fact, when you write functions, you should just imagine what kind of parameter should go in, and place data or variable that fit the function in your mind temporarily. Say you are writing up a function to make guesses for Hangman, you are likely to have</p>
+
+<pre><code>makeGuess = function(guessedLetter) {...}
+</code></pre>
+
+<p>, what does guessedLetter mean? You will never know because it is a “user input”! But for now, you can just imagine it is the letter “a”. After you finish coding it up, console.log(makeGuess(“a”)) to see what comes out. Bingo. Move on to the next challenge.</p>
+
+    <div class="social">
+      Follow me on <a href="https://www.instagram.com/kevon/" target="_blank">Instagram</a> if you would like to get updates on my blog.
+    </div>
+  </div>
+
+  <div class="pagination">
+    <ul>
+    
+      <li class="next"><a href="/posts/when-front-end-meets-back-end" title="When Front-End Meets Back-End">Next Post: When Front-End Meets Back-End</a></li>
+    
+    
+      <li class="prev"><a href="/posts/no-crud-app" title="No CRUD App">Last Post: No CRUD App</a></li>
+    
+    </ul>
+  </div>
+
+  <div class="tag-boxes">
+    
+      <ul class="tag-box inline">
+        <li><span class="glyphicon glyphicon-leaf"></span></li>
+        
+        
+
+
+  
+     
+    	<li><a href="/categories.html#webdev-ref">
+    		webdev <span>23</span>
+    	</a></li>
+    
+  
+
+
+      </ul>
+    
+
+    
+      <ul class="tag-box inline">
+        <li><span class="glyphicon glyphicon-tags"></span></li>
+        
+        
+
+
+  
+     
+    	<li><a href="/tags.html#javascript-ref">javascript <span>1</span></a></li>
+    
+  
+
+
+
+      </ul>
+    
+  </div>
+
+  
+
+
+  <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_developer = 1;
+    var disqus_shortname = 'kevonc'; // required: replace example with your forum shortname
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+
+</div>
+
+
+          </div>
+        </div>
+        <div class="col-xs-12">
+          <hr>
+          <footer>
+  <p>&copy; 2016 <a href="http://kevoncheung.com">Kevon Cheung</a></p>
+  <a href="https://www.instagram.com/kevon/" target="_blank"><img class="social-icon" src="/assets/images/social/instagram.png" alt="Instagram"></a>
+  <a href="https://www.facebook.com/kevon69" target="_blank"><img class="social-icon" src="/assets/images/social/facebook.png" alt="Facebook"></a>
+  <a href="http://hk.linkedin.com/in/kevoncheung/" target="_blank"><img class="social-icon" src="/assets/images/social/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://github.com/kevonc" target="_blank"><img class="social-icon" src="/assets/images/social/github.png" alt="Github"></a>
+  <a href="https://twitter.com/kevon69" target="_blank"><img class="social-icon" src="/assets/images/social/twitter.png" alt="Twitter"></a>
+</footer>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>
+

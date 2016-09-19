@@ -1,0 +1,298 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Few of My Favorite Gems | kevon's blog | life, startup, and code</title>
+    
+      <meta name="description" content="Everyday is a lesson when your knowledge and experience contribute to it.">
+    
+    <meta name="author" content="Kevon Cheung">
+
+    <!-- Open Graph data -->
+    <meta property="og:site_name" content="kevon's blog | life, startup, and code" />
+    <meta property="og:title" content="kevon's blog | life, startup, and code" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://www.kevoncheung.com/" />
+    <meta property="og:image" content="http://kevoncheung.com/assets/images/logo.png" />
+    <meta property="og:description" content="Everyday is a lesson when your knowledge and experience contribute to it." />
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="icon" type="image/png" href="/assets/images/favicon.png" />
+
+    <link rel="stylesheet" href="/assets/css/pygments.css">
+
+    <!-- Le styles -->
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link href="/assets/css/styles.css" rel="stylesheet" type="text/css" media="all">
+
+    <!-- Le fav and touch icons -->
+  <!-- Update these with your own images
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+  -->
+
+    <!-- atom & rss feed -->
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-43131706-4', 'kevoncheung.com');
+      ga('send', 'pageview');
+
+    </script>
+
+  </head>
+
+  <body>
+    <div class="container-narrow">
+      <div class="row">
+        <div class="col-xs-12 col-sm-3">
+          <div class="navi">
+	<a href="/">
+	  <img src="/assets/images/kevon.jpg" alt="kevon's blog" class="main-avatar">
+	</a>
+
+	<a href="/">
+		<h4>Kevon Cheung</h4>
+	</a>
+
+	<h5>Everyday is a lesson. This is where I share about life, startup, and code.</h5>
+
+	<ul class="nav">
+		<li><a href="/about">About</a></li>
+		<li><a href="/contact">Contact</a></li>
+		<li><a href="/projects">Projects</a></li>
+		<li><a href="/videos">Videos</a></li>
+	  <li></li>
+	  <li></li>
+	  <li>
+
+
+  
+    
+      
+      	
+      	<li><a href="/archive">Archive</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/categories">Categories</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+      	
+      	<li><a href="/tags">Tags</a></li>
+      	
+      
+    
+  
+
+
+</li>
+	</ul>
+</div>
+        </div>
+        <div class="col-xs-12 col-sm-9">
+          <div class="content">
+            
+<div class="page-header">
+  <h4 class="title">Few of My Favorite Gems</h4>
+  <span class="date">September 25, 2013</span>
+</div>
+
+<div class="post-full">
+  <div class="post-content">
+    
+      <h5 class="tagline">"gem is your best friend in ruby development"</h5>
+    
+    <p>It has been awhile since I last wrote a blog post. After WDI that ended early Sept, I have been exploring different opportunities and working on a project. It was a project that I was trying to do before taking WDI, and back then it would take me a lot of time to figure out one small function (because I would have no idea where to start). Now, I am able to put together the core functions relatively quick, and use more time fixing details and enhancing the app.</p>
+
+<p>For the project, I used multiple gems to support the development, which included devise, omniauth, simple form, carrierwave, friendly_id, rabl, kaminari, active admin and fog. I wanted to talk about a few of them specifically.</p>
+
+<p><a href="https://github.com/nesquena/rabl" target="_blank">Rabl</a> is a popular gem for generating JSON, XML etc. The idea is to customize JSON representation when ActiveRecord “to_json” method does not provide the exact JSON you want. In my project, I have a class (say Book) that connects to multiple join tables (say Authors) , and if I get a json from the Book controller, the json does not return the authors of the book because it is stored in another table. I need the JSON to include the authors to perform specific JavaScript function.</p>
+
+<p>Here is one way to do it - Telling the controller to render JSON that includes associated records.</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">class</span> <span class="nc">BooksController</span> <span class="o">&lt;</span> <span class="no">ApplicationController</span>
+  <span class="k">def</span> <span class="nf">index</span>
+    <span class="vi">@books</span> <span class="o">=</span> <span class="no">Book</span><span class="o">.</span><span class="n">order</span><span class="p">(</span><span class="s2">&quot;created_at desc&quot;</span><span class="p">)</span>
+    <span class="n">respond_to</span> <span class="k">do</span> <span class="o">|</span><span class="nb">format</span><span class="o">|</span>
+      <span class="nb">format</span><span class="o">.</span><span class="n">json</span> <span class="k">do</span>
+        <span class="n">render</span> <span class="ss">:json</span> <span class="o">=&gt;</span> <span class="vi">@books</span><span class="o">.</span><span class="n">to_json</span><span class="p">(</span><span class="ss">:include</span> <span class="o">=&gt;</span> <span class="p">{</span> <span class="ss">:author</span> <span class="o">=&gt;</span> <span class="p">{</span> <span class="ss">:only</span> <span class="o">=&gt;</span> <span class="ss">:firstname</span> <span class="p">}</span> <span class="p">})</span>
+      <span class="k">end</span>
+    <span class="k">end</span>
+  <span class="k">end</span>
+<span class="k">end</span></code></pre></figure>
+
+<p>But, the structure of the JSON is set in this case, which has a lot of layers (book.author.firstname). And I want it to format in a different way. To do that, I need Rabl to come to rescue.</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">attributes</span> <span class="ss">:name</span><span class="p">,</span> <span class="ss">:price</span>
+
+<span class="n">node</span> <span class="k">do</span> <span class="o">|</span><span class="n">book</span><span class="o">|</span>
+  <span class="p">{</span> <span class="ss">:author</span> <span class="o">=&gt;</span> <span class="n">book</span><span class="o">.</span><span class="n">author</span><span class="o">.</span><span class="n">firstname</span> <span class="p">}</span>
+<span class="k">end</span></code></pre></figure>
+
+<p>This way, you can construct a JSON with three keys (name, price, and author), and calling (book.author) will directly give you the first name of the author. It is quite a hack.</p>
+
+<p><a href="https://github.com/norman/friendly_id" target="_blank">Friendly ID</a> is particularly useful because most of the time, we would want the url to reprensent more meaningful subject (say the name of the book). It is not ideal to have the id in the url, such as localhost:3000/books/1. It is confusing. Using Friendly ID, you just need to add a column to your book table :slug. The slug will generated based on the name of the book and the url will become localhost:3000/books/harry-potter. Much cleaner right?</p>
+
+<p>Every project I learn something new, which gem did you use recently? Share with me!</p>
+
+    <div class="social">
+      Follow me on <a href="https://www.instagram.com/kevon/" target="_blank">Instagram</a> if you would like to get updates on my blog.
+    </div>
+  </div>
+
+  <div class="pagination">
+    <ul>
+    
+      <li class="next"><a href="/posts/hack-how-to-use-gmail-with-custom-domain-for-free" title="Hack: How to Use Gmail with Custom Domain for Free">Next Post: Hack: How to Use Gmail with Custom Domain for Free</a></li>
+    
+    
+      <li class="prev"><a href="/posts/write-your-own-quicksort-algorithm" title="Write Your Own Quicksort Algorithm">Last Post: Write Your Own Quicksort Algorithm</a></li>
+    
+    </ul>
+  </div>
+
+  <div class="tag-boxes">
+    
+      <ul class="tag-box inline">
+        <li><span class="glyphicon glyphicon-leaf"></span></li>
+        
+        
+
+
+  
+     
+    	<li><a href="/categories.html#webdev-ref">
+    		webdev <span>23</span>
+    	</a></li>
+    
+  
+
+
+      </ul>
+    
+
+    
+      <ul class="tag-box inline">
+        <li><span class="glyphicon glyphicon-tags"></span></li>
+        
+        
+
+
+  
+     
+    	<li><a href="/tags.html#ruby-ref">ruby <span>4</span></a></li>
+     
+    	<li><a href="/tags.html#gem-ref">gem <span>1</span></a></li>
+    
+  
+
+
+
+      </ul>
+    
+  </div>
+
+  
+
+
+  <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_developer = 1;
+    var disqus_shortname = 'kevonc'; // required: replace example with your forum shortname
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+
+</div>
+
+
+          </div>
+        </div>
+        <div class="col-xs-12">
+          <hr>
+          <footer>
+  <p>&copy; 2016 <a href="http://kevoncheung.com">Kevon Cheung</a></p>
+  <a href="https://www.instagram.com/kevon/" target="_blank"><img class="social-icon" src="/assets/images/social/instagram.png" alt="Instagram"></a>
+  <a href="https://www.facebook.com/kevon69" target="_blank"><img class="social-icon" src="/assets/images/social/facebook.png" alt="Facebook"></a>
+  <a href="http://hk.linkedin.com/in/kevoncheung/" target="_blank"><img class="social-icon" src="/assets/images/social/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://github.com/kevonc" target="_blank"><img class="social-icon" src="/assets/images/social/github.png" alt="Github"></a>
+  <a href="https://twitter.com/kevon69" target="_blank"><img class="social-icon" src="/assets/images/social/twitter.png" alt="Twitter"></a>
+</footer>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>
+

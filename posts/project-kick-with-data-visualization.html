@@ -1,0 +1,292 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Project Kick with Data Visualization | kevon's blog | life, startup, and code</title>
+    
+      <meta name="description" content="Everyday is a lesson when your knowledge and experience contribute to it.">
+    
+    <meta name="author" content="Kevon Cheung">
+
+    <!-- Open Graph data -->
+    <meta property="og:site_name" content="kevon's blog | life, startup, and code" />
+    <meta property="og:title" content="kevon's blog | life, startup, and code" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://www.kevoncheung.com/" />
+    <meta property="og:image" content="http://kevoncheung.com/assets/images/logo.png" />
+    <meta property="og:description" content="Everyday is a lesson when your knowledge and experience contribute to it." />
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="icon" type="image/png" href="/assets/images/favicon.png" />
+
+    <link rel="stylesheet" href="/assets/css/pygments.css">
+
+    <!-- Le styles -->
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link href="/assets/css/styles.css" rel="stylesheet" type="text/css" media="all">
+
+    <!-- Le fav and touch icons -->
+  <!-- Update these with your own images
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+  -->
+
+    <!-- atom & rss feed -->
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-43131706-4', 'kevoncheung.com');
+      ga('send', 'pageview');
+
+    </script>
+
+  </head>
+
+  <body>
+    <div class="container-narrow">
+      <div class="row">
+        <div class="col-xs-12 col-sm-3">
+          <div class="navi">
+	<a href="/">
+	  <img src="/assets/images/kevon.jpg" alt="kevon's blog" class="main-avatar">
+	</a>
+
+	<a href="/">
+		<h4>Kevon Cheung</h4>
+	</a>
+
+	<h5>Everyday is a lesson. This is where I share about life, startup, and code.</h5>
+
+	<ul class="nav">
+		<li><a href="/about">About</a></li>
+		<li><a href="/contact">Contact</a></li>
+		<li><a href="/projects">Projects</a></li>
+		<li><a href="/videos">Videos</a></li>
+	  <li></li>
+	  <li></li>
+	  <li>
+
+
+  
+    
+      
+      	
+      	<li><a href="/archive">Archive</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/categories">Categories</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+      	
+      	<li><a href="/tags">Tags</a></li>
+      	
+      
+    
+  
+
+
+</li>
+	</ul>
+</div>
+        </div>
+        <div class="col-xs-12 col-sm-9">
+          <div class="content">
+            
+<div class="page-header">
+  <h4 class="title">Project Kick with Data Visualization</h4>
+  <span class="date">August 13, 2013</span>
+</div>
+
+<div class="post-full">
+  <div class="post-content">
+    
+      <h5 class="tagline">"the world is overwhelmed with data to do more powerful things"</h5>
+    
+    <p>Ever since I’m exposed to two projects built by WDI alumni Larry Buchanan, I was determined to have a second project based on Data Visualization. What it means is extracting an enormous lot of data from somewhere, analyze them, and display the data in a way that an everyday person could understand. Great, the next step, the most difficult indeed, was to find the data. My partner Alina and I started out looking for datasets everywhere, and it was not an easy task. The data has to be formatted in a not-so-ugly way, and it has to be somewhat interesting. We began our project by researching on how to use <a href="http://datamine.mta.info/" target="_blank">New York MTA API</a>, but the General Transit Feed Specification (GTFS) was a little too much to take on at that moment, so we set out to work on another very exciting idea about <a href="http://www.kickstarter.com/" target="_blank">Kickstarter.com</a>.</p>
+
+<p>Kickstarter only has a private API, whereas other crowd funding site like <a href="https://www.crowdtilt.com/learn/developers" target="_blank">Crowdtilt</a> offers a public API. However, we were only interested in the crowd funding giant and would not give up just because they don’t have an API. Scraping immediately came to our mind, and I literally spent the whole weekend writing up a quite-heavy rake task to scrape Kickstarter.com with Mechanize. The scraping part was not difficult, as Kickstarter provides metadata that is very recognizable DOM elements to Mechanize. The tough part was figuring out the actual URL i should tell Mechanize to do the job, as Kickstarter uses AJAX request to pull in data when a user scroll down, so HTML only displays the first 15 projects, not the ones that come in by AJAX. Here’s the trick, simple as it seems, pagination is a must have on many websites, so I simply placed a page number at the end of the url and all the pages are in front of my eyes immediately.</p>
+
+<p>After scraping, another major task of ours was to analyze and display the data. We had spent more time working with D3 to display the data as it was our first time playing with it, thus we need to learn from scratch in a very short period of time. Therefore, our data analysis part was not very extensive but that’s a way to improve in the future. Working with D3 was harder than I thought, not only do I need a good Javascript foundation, but it was a nice (weird) concept to learn. The way D3 works is that you have to select elements that are not there yet, by doing so, you’re telling the program “Hey, my friends are not here yet, but let me reserve some seats for them!” A few articles about D3 that really got me off the ground are listed at the end of this blog post. I strongly recommend spending some time reading about D3, looking at what other developers did with it, and then play with it by creating simple rectangles and circles.</p>
+
+<p>Those are the two main components of Project Kick (<a href="http://projectkick.us" target="_blank">projectkick.us</a>), and now is lesson time! After we had our rake task to scrape the entire Kickstarter site, we had a database filled with raw data, and they are not directly useful to D3 because it is best for D3 when the entire dataset is formatted nicely. The challenge we faced was turning the raw data into an useful set of data specifically for D3, and so we had to write another rake task to populate extra tables for formatted data. My recommendation on that is to do it the other way around, figured out what data is needed in D3’s standpoint, and extract data based on that. Of course, we only had a week of time to actually learn so many new things, so we wouldn’t be able to accomplish that.</p>
+
+<p>Looking at the code now, there are a ton of rooms for improvement. Nevertheless, I’m extremely happy and proud of the project given the production time of one week. I’m excited to show this to everyone and even people at Kickstarter! I slowly come to realize that I enjoy front-end work more, and it is a good sign that I’ve figured out! On a side note, my personal website <a href="http://kevoncheung.com" target="_blank">kevoncheung.com</a> has finally come to life. It is very simple but good enough at this point as version 1.0.</p>
+
+<p>###Appendices
+####Larry Buchanan’s Projects
+#####<a href="http://www.newyorker.com/sandbox/business/citi-bike.html" target="_blank">http://www.newyorker.com/sandbox/business/citi-bike.html</a>
+#####<a href="http://www.newyorker.com/sandbox/business/ncaa.html" target="_blank">http://www.newyorker.com/sandbox/business/ncaa.html</a></p>
+
+<p>####D3
+#####<a href="http://mbostock.github.io/d3/tutorial/bar-2.html" target="_blank">http://mbostock.github.io/d3/tutorial/bar-2.html</a>
+#####<a href="http://bost.ocks.org/mike/join/" target="_blank">http://bost.ocks.org/mike/join/</a>
+#####<a href="http://thecodingtutorials.blogspot.com/2012/07/introduction-to-d3.html" target="_blank">http://thecodingtutorials.blogspot.com/2012/07/introduction-to-d3.html</a>
+#####<a href="http://www.fascinatedwithsoftware.com/blog/post/2012/09/01/Visualizing-Data-with-D3.aspx" target="_blank">http://www.fascinatedwithsoftware.com/blog/post/2012/09/01/Visualizing-Data-with-D3.aspx</a></p>
+
+    <div class="social">
+      Follow me on <a href="https://www.instagram.com/kevon/" target="_blank">Instagram</a> if you would like to get updates on my blog.
+    </div>
+  </div>
+
+  <div class="pagination">
+    <ul>
+    
+      <li class="next"><a href="/posts/write-your-own-quicksort-algorithm" title="Write Your Own Quicksort Algorithm">Next Post: Write Your Own Quicksort Algorithm</a></li>
+    
+    
+      <li class="prev"><a href="/posts/when-front-end-meets-back-end" title="When Front-End Meets Back-End">Last Post: When Front-End Meets Back-End</a></li>
+    
+    </ul>
+  </div>
+
+  <div class="tag-boxes">
+    
+      <ul class="tag-box inline">
+        <li><span class="glyphicon glyphicon-leaf"></span></li>
+        
+        
+
+
+  
+     
+    	<li><a href="/categories.html#webdev-ref">
+    		webdev <span>23</span>
+    	</a></li>
+     
+    	<li><a href="/categories.html#projects-ref">
+    		projects <span>1</span>
+    	</a></li>
+    
+  
+
+
+      </ul>
+    
+
+    
+      <ul class="tag-box inline">
+        <li><span class="glyphicon glyphicon-tags"></span></li>
+        
+        
+
+
+  
+     
+    	<li><a href="/tags.html#kickstarter-ref">kickstarter <span>1</span></a></li>
+     
+    	<li><a href="/tags.html#data visualization-ref">data visualization <span>1</span></a></li>
+     
+    	<li><a href="/tags.html#wdi-ref">wdi <span>13</span></a></li>
+    
+  
+
+
+
+      </ul>
+    
+  </div>
+
+  
+
+
+  <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_developer = 1;
+    var disqus_shortname = 'kevonc'; // required: replace example with your forum shortname
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+
+</div>
+
+
+          </div>
+        </div>
+        <div class="col-xs-12">
+          <hr>
+          <footer>
+  <p>&copy; 2016 <a href="http://kevoncheung.com">Kevon Cheung</a></p>
+  <a href="https://www.instagram.com/kevon/" target="_blank"><img class="social-icon" src="/assets/images/social/instagram.png" alt="Instagram"></a>
+  <a href="https://www.facebook.com/kevon69" target="_blank"><img class="social-icon" src="/assets/images/social/facebook.png" alt="Facebook"></a>
+  <a href="http://hk.linkedin.com/in/kevoncheung/" target="_blank"><img class="social-icon" src="/assets/images/social/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://github.com/kevonc" target="_blank"><img class="social-icon" src="/assets/images/social/github.png" alt="Github"></a>
+  <a href="https://twitter.com/kevon69" target="_blank"><img class="social-icon" src="/assets/images/social/twitter.png" alt="Twitter"></a>
+</footer>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>
+
